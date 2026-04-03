@@ -1,0 +1,11 @@
+# Git Ignore for GSDS Platform
+venv/
+pytorch_env/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+db.sqlite3
+ai_engine/models/google/
+ai_engine/__pycache__/
+backend/static/

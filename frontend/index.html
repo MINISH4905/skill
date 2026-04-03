@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GSDS Task Management</title>
+    <!-- Modern Typeface -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+    <div class="layout">
+        <!-- LEFT PANEL -->
+        <aside class="panel left-panel">
+            <header>
+                <h1><span class="gradient-text">GSDS</span> Platform</h1>
+                <p>Gamified Task Simulator</p>
+                
+                <div class="task-meta">
+                    <span class="badge" id="u-domain">Domain</span>
+                    <span class="badge" id="u-difficulty">Diff</span>
+                    <span class="badge" id="api-status-badge" style="background: red; border: 1px solid darkred;">API OFFLINE</span>
+                </div>
+            </header>
+
+            <section class="task-info">
+                <h2>Scenario</h2>
+                <p id="t-scenario" class="content-box">Loading scenario...</p>
+
+                <h2>Expected Output</h2>
+                <p id="t-output" class="content-box">Loading...</p>
+
+                <h2>Constraints</h2>
+                <ul id="t-constraints" class="content-list">
+                    <li>Loading...</li>
+                </ul>
+
+                <h2>Evaluation Criteria</h2>
+                <ul id="t-criteria" class="content-list" style="border-left: 3px solid var(--accent); background: rgba(0,0,0,0.3);">
+                    <li>Loading...</li>
+                </ul>
+
+                <hr style="margin: 20px 0; border: 0; border-top: 1px solid #222;">
+
+                <h2>Support</h2>
+                <div id="hints-panel" class="content-box" style="border-left: 3px solid #ffcc00; background: rgba(255, 204, 0, 0.05);">
+                    <button class="btn btn-secondary btn-sm" id="btn-reveal-hint" onclick="revealHint()" style="width: 100%; border: 1px dashed #ffcc00; color: #ffcc00;">Reveal Logic Hint</button>
+                    <ul id="t-hints" class="content-list" style="margin-top: 10px; list-style: none; padding: 0;"></ul>
+                </div>
+
+                <div id="approach-container" class="hidden" style="margin-top: 20px;">
+                    <h2 style="color: #0f0;">Expert Perspective</h2>
+                    <p id="t-approach" class="content-box" style="font-size: 0.9rem; font-style: italic; color: #999; border-color: #333; line-height: 1.5;"></p>
+                </div>
+            </section>
+        </aside>
+
+        <!-- RIGHT PANEL -->
+        <main class="panel right-panel" style="position: relative;">
+            <header class="editor-header">
+                <h2 id="t-title">Task Editor</h2>
+                <div class="actions">
+                    <button class="btn btn-secondary" onclick="generateAndFetchAITask()">Generate AI Task</button>
+                    <button class="btn btn-secondary" onclick="fetchNextTask()">Skip Task</button>
+                    <button class="btn btn-secondary" style="border: 1px solid #444;" onclick="showDiagnostics()">Debug Log</button>
+                    <button class="btn btn-primary" onclick="submitTask()">Run & Submit</button>
+                </div>
+            </header>
+
+            <div class="editor-container">
+                <textarea id="t-code" spellcheck="false" placeholder="Write your solution here..."></textarea>
+            </div>
+
+            <!-- Loading Spinner Overlay -->
+            <div id="loading-overlay" class="overlay hidden" style="z-index: 50; display: flex; flex-direction: column; align-items: center; justify-content: center; background: rgba(0,0,0,0.8);">
+                <div class="spinner" style="width: 50px; height: 50px; border: 5px solid rgba(255,255,255,0.3); border-top: 5px solid var(--accent); border-radius: 50%; animation: spin 1s linear infinite;"></div>
+                <h3 style="margin-top: 20px; color: white;">AI Generating Task...</h3>
+                <p style="color: #aaa;">FLAN-T5 hardware initializing. Please wait (5-15s).</p>
+                <style>@keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }</style>
+            </div>
+
+            <!-- Validation/Feedback Overlay -->
+            <div id="feedback-overlay" class="overlay hidden">
+                <div class="overlay-content">
+                    <h1 id="f-score" style="font-size: 3rem; margin-bottom: 10px;">Score: 0</h1>
+                    <p id="f-text" style="font-size: 1.1rem; color: #ccc;">Feedback details appear here.</p>
+                    <hr style="margin: 20px 0; border: 0; border-top: 1px solid #333;">
+                    <div class="output-comparison" style="text-align: left; margin-bottom: 20px;">
+                        <div style="margin-bottom: 15px;">
+                            <small style="color: #888; text-transform: uppercase; font-size: 0.7rem; letter-spacing: 1px;">Expected Output</small>
+                            <pre id="f-expected" style="background:#000; padding:12px; border-radius:6px; margin-top:5px; font-size: 0.85rem; border: 1px solid #222; color: #fff;"></pre>
+                        </div>
+                        <div>
+                            <small style="color: #888; text-transform: uppercase; font-size: 0.7rem; letter-spacing: 1px;">Your Output</small>
+                            <pre id="f-actual" style="background:#000; padding:12px; border-radius:6px; margin-top:5px; font-size: 0.85rem; border: 1px solid #222; color: #0f0;"></pre>
+                        </div>
+                    </div>
+                    <button class="btn btn-primary" onclick="closeFeedback()">Dismiss</button>
+                </div>
+            </div>
+
+            <!-- Diagnostic Overlay -->
+            <div id="diagnostic-overlay" class="overlay hidden" style="background: rgba(0,0,0,0.95); z-index: 100;">
+                <div class="overlay-content" style="max-width: 800px; width: 90%; font-family: monospace; text-align: left;">
+                    <h2 style="color: var(--accent);">GSDS System Diagnostics</h2>
+                    <p style="color: #666; margin-bottom: 20px;">Internal AI Engine Trace (Raw):</p>
+                    <pre id="d-log" style="background: #000; color: #0f0; padding: 20px; height: 350px; overflow-y: auto; border: 1px solid #333; font-size: 0.85rem; line-height: 1.4;"></pre>
+                    <div style="margin-top: 20px;">
+                        <button class="btn btn-primary" onclick="closeDiagnostics()">Return to Simulator</button>
+                    </div>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script src="/static/script.js"></script>
+</body>
+</html>
