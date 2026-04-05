@@ -1,0 +1,3032 @@
+[
+  {
+    "id": "0a19273a-2e9c-49a7-8647-da7fb7fed34e",
+    "title": "Education Code Complete",
+    "problem": "[Education Scenario] n=input().split()...",
+    "domain": "dsa"
+  },
+  {
+    "id": "b492d995-16c7-40d1-a106-904ff367e6d0",
+    "title": "Education Code Complete",
+    "problem": "[Education Scenario] id...",
+    "domain": "frontend"
+  },
+  {
+    "id": "93d46fe4-36b6-4345-ba27-122e9f554591",
+    "title": "Travel Code Complete",
+    "problem": "[Travel Scenario] d = [] for i in range(int(input())): d[i] = d[i] if i == 0: print(i) else: print(i)...",
+    "domain": "backend"
+  },
+  {
+    "id": "e9dd6d65-76d9-4bc1-91bf-88857ca76cad",
+    "title": "Finance Optimization",
+    "problem": "[Finance Scenario] if __name__ == '__main__': s = input() if __name__ == \"__main__\": print('') else: print('')...",
+    "domain": "sql"
+  },
+  {
+    "id": "4e3f8e35-1880-4619-9201-f035f9df7784",
+    "title": "E-commerce Optimization",
+    "problem": "[E-commerce Scenario] a = int(input()) if a == 1: print(a) else: print('NO')...",
+    "domain": "debugging"
+  },
+  {
+    "id": "9d7b9ef7-453d-4cb5-8c3e-391b965ae804",
+    "title": "Gaming Optimization",
+    "problem": "[Gaming Scenario] if __name__ == '__main__': if __name__ == '__main__': if __name__ == '__main__': print(__main__) els...",
+    "domain": "dsa"
+  },
+  {
+    "id": "e0bdf70a-a682-4d99-b027-05aa3a424c12",
+    "title": "Gaming Optimization",
+    "problem": "[Gaming Scenario] s=list(map(int,input().split())) s.sort() if s=='': print('') else: print('')...",
+    "domain": "dsa"
+  },
+  {
+    "id": "8692370e-6008-4498-be88-77fcc133a4ba",
+    "title": "Logistics Bug Fix",
+    "problem": "[Logistics Scenario] dsa = [input() for i in range(len(str(i))) for i in range(len(str(i))] for i in range(len(str(i))): ...",
+    "domain": "dsa"
+  },
+  {
+    "id": "3104cba3-fcb4-4732-8bb1-38ddd231596d",
+    "title": "Healthcare Output Prediction",
+    "problem": "[Healthcare Scenario] id...",
+    "domain": "dsa"
+  },
+  {
+    "id": "e5162cc3-1563-489a-989d-dcda3fcffc0b",
+    "title": "Education Optimization",
+    "problem": "[Education Scenario] s = int(input()) s = s.count(\"1\") s = s.count(\"0\") s = s.count(\"1\") s = s.count(\"0\") s = s.count(\"1\"...",
+    "domain": "dsa"
+  },
+  {
+    "id": "7bf82629-b88a-4bc1-b755-d334363abf42",
+    "title": "Logistics Output Prediction",
+    "problem": "[Logistics Scenario] # -*- coding: utf-8 -*- coding: utf-8 -*-...",
+    "domain": "dsa"
+  },
+  {
+    "id": "c71524a6-7c21-4312-b957-5fdca42610bd",
+    "title": "Finance Output Prediction",
+    "problem": "[Finance Scenario] import sys from collections import defaultdict as dsa import sys import sys.setrecursionlimit(100000...",
+    "domain": "dsa"
+  },
+  {
+    "id": "ffb2c40c-b2b6-4b93-b5c6-e585b0970b92",
+    "title": "Social Media Optimization",
+    "problem": "[Social Media Scenario] o' # n't def __init__(self): # id, domain, difficulty, type, title, problem, starter_code, expected_...",
+    "domain": "dsa"
+  },
+  {
+    "id": "e8393fef-ef52-4661-b5bb-e9d0a129c0b3",
+    "title": "Education Output Prediction",
+    "problem": "[Education Scenario] s_a=''.join(map(str,input().split())) if s_a[0]==''.join(map(str,input().split())): print('') else: ...",
+    "domain": "dsa"
+  },
+  {
+    "id": "e1880c3d-73ff-4541-b8ae-26cfaaf4f41c",
+    "title": "Finance Output Prediction",
+    "problem": "[Finance Scenario] dsa = [input() for _ in range(int(input()))]...",
+    "domain": "dsa"
+  },
+  {
+    "id": "8edfbf43-4341-47a9-bb1b-a507f4b54264",
+    "title": "Healthcare Output Prediction",
+    "problem": "[Healthcare Scenario] if id == 0: if id == 0: print('advanced_output') else: print('w')...",
+    "domain": "dsa"
+  },
+  {
+    "id": "ec1ae90d-9b3d-4ac5-ad4f-5861a0e0d026",
+    "title": "E-commerce Code Complete",
+    "problem": "[E-commerce Scenario] YES...",
+    "domain": "dsa"
+  },
+  {
+    "id": "6199dab1-c4c1-46fb-9c71-4577ef08777b",
+    "title": "Travel Output Prediction",
+    "problem": "[Travel Scenario] id...",
+    "domain": "dsa"
+  },
+  {
+    "id": "84f4bece-2105-4dc6-814e-836b85b738f6",
+    "title": "Finance Optimization",
+    "problem": "[Finance Scenario] if __name__ == \"__main__\": n = int(input()) n = int(input()) if n == 1: print('JSON') else: print('J...",
+    "domain": "dsa"
+  },
+  {
+    "id": "98b1a425-60f0-4e85-b5fd-46e305a0113b",
+    "title": "Finance Code Complete",
+    "problem": "[Finance Scenario] if __name__ == \"__main__\": dsa.input() if __name__ == \"__main__\": dsa.split(\" \") r_res = True for id...",
+    "domain": "dsa"
+  },
+  {
+    "id": "b97bf8cc-a8bb-408b-92ec-d1e52072fa26",
+    "title": "Education Optimization",
+    "problem": "[Education Scenario] # -*- coding: utf-8 -*- # -*-- # -*-- # -*-- # -*-- - # -*-- # -*-- - # -*- - # -*-- - # -*-- - # -*...",
+    "domain": "dsa"
+  },
+  {
+    "id": "977175a3-fd09-473d-a585-0809b1a75cde",
+    "title": "Social Media Code Complete",
+    "problem": "[Social Media Scenario] n = list(map(int, input().split()))...",
+    "domain": "dsa"
+  },
+  {
+    "id": "834a4b45-fbaa-4b11-8514-416ab7fea069",
+    "title": "Gaming Output Prediction",
+    "problem": "[Gaming Scenario] id...",
+    "domain": "dsa"
+  },
+  {
+    "id": "45baa3ce-7f0e-4257-946b-11386bb204a9",
+    "title": "Education Code Complete",
+    "problem": "[Education Scenario] a=list(map(int,input().split())) b=[] if b[0]==0: print('NO') elif b[1]==0: print('NO') else: print(...",
+    "domain": "dsa"
+  },
+  {
+    "id": "853ce9d9-56a6-4dc9-bdae-fa9c75e05203",
+    "title": "Logistics Output Prediction",
+    "problem": "[Logistics Scenario] # nass_a_st_string nass_a_st_string nass_a_st_string = input().split() nass_a_st_string = input().sp...",
+    "domain": "dsa"
+  },
+  {
+    "id": "fc9de4c2-96c9-4be9-a4be-ab3d21cd3c16",
+    "title": "Gaming Bug Fix",
+    "problem": "[Gaming Scenario] n = int(input()) f = ...",
+    "domain": "dsa"
+  },
+  {
+    "id": "6273da83-79c5-4980-a77c-227af989909f",
+    "title": "Finance Code Complete",
+    "problem": "[Finance Scenario] n = input()...",
+    "domain": "dsa"
+  },
+  {
+    "id": "188267f1-6da7-4dac-be18-639e1ed01fa3",
+    "title": "Logistics Output Prediction",
+    "problem": "[Logistics Scenario] a = input()...",
+    "domain": "dsa"
+  },
+  {
+    "id": "2fe7a240-9666-41c4-be5c-8f4adb2d9458",
+    "title": "Finance Optimization",
+    "problem": "[Finance Scenario] *./Standard_Facing.All_NumberStandards = [input().split()]...",
+    "domain": "dsa"
+  },
+  {
+    "id": "fcae2cf8-ba82-49bc-858c-b9405bf53350",
+    "title": "Travel Code Complete",
+    "problem": "[Travel Scenario] a = [] for i in range(len(a)): if a[i] == a[i]: a.append(i) else: if a[i] == a[i]: a.append(i) else:...",
+    "domain": "dsa"
+  },
+  {
+    "id": "a53d7836-db65-443d-8e86-6414545597e1",
+    "title": "Smart Home Output Prediction",
+    "problem": "[Smart Home Scenario] s=input().split()...",
+    "domain": "dsa"
+  },
+  {
+    "id": "ae2462d4-34c5-490d-b3f6-86c1ae973872",
+    "title": "Real Estate Output Prediction",
+    "problem": "[Real Estate Scenario] jsa = [input() for _ in range(jsa)]...",
+    "domain": "dsa"
+  },
+  {
+    "id": "e4a35692-b3e3-4fac-a0e7-6b4a4b7ad75f",
+    "title": "Finance Optimization",
+    "problem": "[Finance Scenario] s=input()...",
+    "domain": "dsa"
+  },
+  {
+    "id": "348a4760-ead1-4b74-8cb1-a339fd143c89",
+    "title": "Smart Home Output Prediction",
+    "problem": "[Smart Home Scenario] nums = [['_','_','_','_','_','_','_','_','__','__','_','__','__','__','__','__','__','__','__','__',...",
+    "domain": "dsa"
+  },
+  {
+    "id": "51161672-5abe-45f3-9bb8-f930ea46246c",
+    "title": "Gaming Optimization",
+    "problem": "[Gaming Scenario] if i(): return False...",
+    "domain": "dsa"
+  },
+  {
+    "id": "d023edf3-d43e-4a73-bc6d-111bd39f12f9",
+    "title": "Social Media Output Prediction",
+    "problem": "[Social Media Scenario] id = input() nums = set() for i in range(nums): if nums[i] == nums[i]: print(''.join(list(str(id))))...",
+    "domain": "dsa"
+  },
+  {
+    "id": "23fa3bb2-7a09-48a7-9789-5c996ff2dcca",
+    "title": "Travel Output Prediction",
+    "problem": "[Travel Scenario] arr = [] for _ in range(int(input())): arr.append(list(map(int,input().split())))...",
+    "domain": "dsa"
+  },
+  {
+    "id": "8ef9bf78-e475-4e12-8486-b059471a5146",
+    "title": "Finance Bug Fix",
+    "problem": "[Finance Scenario] id = input() j = 0 l = 0 n = 0 m = 0 for i in j: if i == '0': m = i + 1 j += 1 if m == '1': n = i + ...",
+    "domain": "dsa"
+  },
+  {
+    "id": "cec87c09-cbe1-40ea-938e-cb7e1e89ff20",
+    "title": "Real Estate Code Complete",
+    "problem": "[Real Estate Scenario] if __name__ == \"__main__\": s = str(input()) return s.replace(''.join(map(str,s))) id = str(input()) ...",
+    "domain": "dsa"
+  },
+  {
+    "id": "960e8b85-b7d2-427b-8a2f-ed16dfbe3430",
+    "title": "Education Bug Fix",
+    "problem": "[Education Scenario] s=input().split()...",
+    "domain": "dsa"
+  },
+  {
+    "id": "44c8f4b0-3eec-48c0-aaf3-ae05c721b476",
+    "title": "Smart Home Bug Fix",
+    "problem": "[Smart Home Scenario] id...",
+    "domain": "dsa"
+  },
+  {
+    "id": "fb9548a6-5474-4394-9f29-203b1b7d2376",
+    "title": "Healthcare Bug Fix",
+    "problem": "[Healthcare Scenario] s = input()...",
+    "domain": "dsa"
+  },
+  {
+    "id": "2eea9022-b77e-4f21-b929-647de39ddc4c",
+    "title": "Smart Home Optimization",
+    "problem": "[Smart Home Scenario] s=[0]*(2+3) for id in range(1,0,-1): s[id]=list(map(int,s.split(\" \"))) s[id]=s[id] else: s[id]=s[id]...",
+    "domain": "dsa"
+  },
+  {
+    "id": "62a8f473-d0a3-4eab-92c8-f617d11d8408",
+    "title": "Gaming Optimization",
+    "problem": "[Gaming Scenario] a = sorted((len(a))) if(len(a) == 0): print(\"NO\") else: print(\"NO\")...",
+    "domain": "dsa"
+  },
+  {
+    "id": "a6129b1f-c9eb-4d39-a054-e8f113e82f40",
+    "title": "Travel Optimization",
+    "problem": "[Travel Scenario] n=[] for i in range(3, n): i=input().split(\" \") s=[] for i in range(1, n): s.append(i) s.sort(revers...",
+    "domain": "dsa"
+  },
+  {
+    "id": "84032ab0-e7ca-4f71-bcf3-e4f34ca0177f",
+    "title": "Travel Output Prediction",
+    "problem": "[Travel Scenario] n=input() n=0 for i in range(1,n): if i%2==0: n=1 n=0 n=1 if n%2==1: n=0 if n%2==0: print(''.join(n)...",
+    "domain": "dsa"
+  },
+  {
+    "id": "0b4f7e1f-a66d-4ef1-bed7-fcde55f08d9b",
+    "title": "Real Estate Output Prediction",
+    "problem": "[Real Estate Scenario] A = [] for i in range(1, len(A)): A.append(input()) for i in range(len(A)): if A[i] not in A[i]: bre...",
+    "domain": "dsa"
+  },
+  {
+    "id": "9790b6dc-7706-4a17-a7f0-eadd6b4b48e7",
+    "title": "Travel Output Prediction",
+    "problem": "[Travel Scenario] n=input() s=[\"\" for _ in range(s)] for i in range(len(s)): s.append(s[0]) s[1]=s[1] if s[1]=='A': s....",
+    "domain": "dsa"
+  },
+  {
+    "id": "da867d4f-4e1e-47a8-bedb-cc8164aec3f4",
+    "title": "Logistics Output Prediction",
+    "problem": "[Logistics Scenario] t = 0 for i in range(t): t = t+1 if t[i] == t[i]: t[i] = 1 if t[i] == t[i]: print(t) else: print(t)...",
+    "domain": "dsa"
+  },
+  {
+    "id": "7ac23b3b-e1ac-4b0b-8d72-a071c5debbc5",
+    "title": "E-commerce Output Prediction",
+    "problem": "[E-commerce Scenario] a=[] for i in range(len(a)): a.append(a[i]) a.reverse() for i in range(len(a)): a.reverse() for j in...",
+    "domain": "dsa"
+  },
+  {
+    "id": "cf3e016d-b8dd-4d36-8f0c-4333d7b12a77",
+    "title": "Gaming Optimization",
+    "problem": "[Gaming Scenario] json = int(input()) if json == '3': json = json.replace('0','0','0','0','1','0','1','0','0','0','0',...",
+    "domain": "dsa"
+  },
+  {
+    "id": "3a6e20c3-6a0b-4638-b808-f8df070158d8",
+    "title": "Logistics Bug Fix",
+    "problem": "[Logistics Scenario] n = int(input()) if n == 0 and n == 0: print('JSON_A') else: print('YES')...",
+    "domain": "dsa"
+  },
+  {
+    "id": "66f73c3a-49f5-4a67-850e-4f3536d078da",
+    "title": "Real Estate Code Complete",
+    "problem": "[Real Estate Scenario] s = [] s = [] for _ in range(int(input())): a = [s[0] for s in s] for i in range(len(s)): if s[i] ==...",
+    "domain": "dsa"
+  },
+  {
+    "id": "37ede83e-d9a2-44b6-95ed-ab9fcfe40805",
+    "title": "Gaming Optimization",
+    "problem": "[Gaming Scenario] s=input()...",
+    "domain": "dsa"
+  },
+  {
+    "id": "6fe9fe46-1ad8-4117-825d-235ddf60d12e",
+    "title": "Travel Bug Fix",
+    "problem": "[Travel Scenario] s = input()...",
+    "domain": "dsa"
+  },
+  {
+    "id": "f881ebc0-8036-4d62-ba2e-5fffa5080f2b",
+    "title": "Social Media Output Prediction",
+    "problem": "[Social Media Scenario] dsa = list(map(int, input().split()))...",
+    "domain": "dsa"
+  },
+  {
+    "id": "3c821708-118e-4e11-8fda-8b561e73e0a6",
+    "title": "Finance Optimization",
+    "problem": "[Finance Scenario] import sys import math import itineraries from collections import Counter import random import rando...",
+    "domain": "dsa"
+  },
+  {
+    "id": "1f376d9a-b330-4190-a838-1072f024d128",
+    "title": "Education Code Complete",
+    "problem": "[Education Scenario] k=list(map(int,input().split())) s=set('F') for id in s: if id not in k: s=s+d(id) else: s=s+d(id) e...",
+    "domain": "dsa"
+  },
+  {
+    "id": "53f78312-6dce-4fa9-9e91-9f973bcd6c1a",
+    "title": "Real Estate Bug Fix",
+    "problem": "[Real Estate Scenario] n = input() n = int(n) n = int(n) for i in range(1,n): id, domain, difficulty, type, title, problem,...",
+    "domain": "dsa"
+  },
+  {
+    "id": "d0795281-c22b-4bfe-b6c3-7f47bd46aec9",
+    "title": "Gaming Code Complete",
+    "problem": "[Gaming Scenario] # The dsa code_complete id = input() n = int(flash_open('input')) n = int(flash_open('input')) if n ...",
+    "domain": "dsa"
+  },
+  {
+    "id": "9564c408-ab6d-4d5f-853a-d391c7eb821f",
+    "title": "Education Bug Fix",
+    "problem": "[Education Scenario] if __name__ == \"__main__\": id = list(map(int,input().split())) if __name__ == \"__main__\": print(\"YES...",
+    "domain": "dsa"
+  },
+  {
+    "id": "4205316e-45e4-4a60-9a46-a2686390e8d2",
+    "title": "Gaming Optimization",
+    "problem": "[Gaming Scenario] id...",
+    "domain": "dsa"
+  },
+  {
+    "id": "9515ec27-46f5-49ac-80cb-9257a27eab59",
+    "title": "Gaming Output Prediction",
+    "problem": "[Gaming Scenario] if __name__ == '__main__': n = int(input()) n1 = int(input()) n2 = int(input()) n1 = int(input()) n2...",
+    "domain": "dsa"
+  },
+  {
+    "id": "fc01cedc-c51e-4e43-88a2-0548456f677a",
+    "title": "Education Output Prediction",
+    "problem": "[Education Scenario] id...",
+    "domain": "dsa"
+  },
+  {
+    "id": "1b6be3d0-af4b-4685-bd0d-62976dc569be",
+    "title": "Logistics Code Complete",
+    "problem": "[Logistics Scenario] id = input() j = 1...",
+    "domain": "dsa"
+  },
+  {
+    "id": "628ba421-fd3c-4b9c-b0c8-5b92ba24c01c",
+    "title": "Education Code Complete",
+    "problem": "[Education Scenario] id...",
+    "domain": "dsa"
+  },
+  {
+    "id": "34d0e27f-0659-492d-bc08-d21ef1a85dc4",
+    "title": "E-commerce Output Prediction",
+    "problem": "[E-commerce Scenario] bjda=\"Statement:\"[0][1][1][1][0][0][1][0][0][1][1][1][1][0][1][1][1][2][1][0][1][2][2][1][1][1][1][1...",
+    "domain": "dsa"
+  },
+  {
+    "id": "23f8f37d-36de-4905-bac0-e94447a21148",
+    "title": "Healthcare Optimization",
+    "problem": "[Healthcare Scenario] sys.exit.write(str('').replace(''.join(map(str, sys.stdin.readline().split())))...",
+    "domain": "dsa"
+  },
+  {
+    "id": "67d21b43-1b9e-49e6-86b6-8ca058b9bab7",
+    "title": "Real Estate Output Prediction",
+    "problem": "[Real Estate Scenario] ANSI = sorted(list(map(int, input().split()))) ANSI = sorted(list(map(int, input().split())))...",
+    "domain": "dsa"
+  },
+  {
+    "id": "0a780a52-ef12-4a1d-b597-87583e2e4d76",
+    "title": "Real Estate Output Prediction",
+    "problem": "[Real Estate Scenario] s = [] s.sort() id = 0 s.sort() id = 0 s.sort() id = 0 s = 0 for i in s: if s[i] == s[i-1]: id += 1 ...",
+    "domain": "dsa"
+  },
+  {
+    "id": "97116427-457f-448d-863d-27e4463d0f15",
+    "title": "Gaming Bug Fix",
+    "problem": "[Gaming Scenario] dsa_results = list(map(int, input().split()))...",
+    "domain": "dsa"
+  },
+  {
+    "id": "c8443a0c-a904-4c1b-9b93-6d1ad46cd132",
+    "title": "Smart Home Output Prediction",
+    "problem": "[Smart Home Scenario] t = input()...",
+    "domain": "dsa"
+  },
+  {
+    "id": "9fdd1b33-3040-4d43-bf32-f86a770467b5",
+    "title": "Social Media Code Complete",
+    "problem": "[Social Media Scenario] id = input() json = int(json) b = list(map(int, json)) if id == json: print(\"YES\") else: print(\"NO\")...",
+    "domain": "dsa"
+  },
+  {
+    "id": "8c6ade1e-19cf-4b48-a32a-7a061afc97c9",
+    "title": "Education Optimization",
+    "problem": "[Education Scenario] id...",
+    "domain": "dsa"
+  },
+  {
+    "id": "58f7baac-4276-4eb1-be54-236301257caa",
+    "title": "Logistics Optimization",
+    "problem": "[Logistics Scenario] '''...",
+    "domain": "dsa"
+  },
+  {
+    "id": "bbf5e925-239b-43bf-bc09-fbf8ed8a2edb",
+    "title": "Gaming Bug Fix",
+    "problem": "[Gaming Scenario] id=input()...",
+    "domain": "dsa"
+  },
+  {
+    "id": "b620bbfe-f888-40ac-8c0d-f0af111d29a7",
+    "title": "Logistics Code Complete",
+    "problem": "[Logistics Scenario] import sys import math import io, sys import random import random as dsa import sys input=sys.stdin....",
+    "domain": "dsa"
+  },
+  {
+    "id": "d8bd687e-13ef-4721-bfa2-84c229f9c054",
+    "title": "E-commerce Bug Fix",
+    "problem": "[E-commerce Scenario] n=input() a=[[] for _ in range(len(n))] for i in range(len(n)): if n[i]=='bug_fix': n[i]='host' for ...",
+    "domain": "dsa"
+  },
+  {
+    "id": "0e6f9064-02f0-4bca-a544-8ddc3671bc9c",
+    "title": "Gaming Bug Fix",
+    "problem": "[Gaming Scenario] a = input() b = input() cnt = a.index('0') d = a.index('1') res = 0 for i in range(0,len(a)): if a[i...",
+    "domain": "dsa"
+  },
+  {
+    "id": "5ab3da1c-1882-483a-803e-8eba246c06e8",
+    "title": "Education Optimization",
+    "problem": "[Education Scenario] dsa - input()...",
+    "domain": "dsa"
+  },
+  {
+    "id": "fdfb21cd-a50c-4c65-af41-f0a17d7ecfa9",
+    "title": "Gaming Bug Fix",
+    "problem": "[Gaming Scenario] t = input() a = 0 for i in a: if i in t: a += 1 else: a += 1 print(a)...",
+    "domain": "dsa"
+  },
+  {
+    "id": "83461d1c-171d-4d25-ac2f-74896132efdb",
+    "title": "Social Media Bug Fix",
+    "problem": "[Social Media Scenario] t=input() n=[] for i in range(len(n)): i=n[i] l=n[i] r=n[i-1] if(l==1 and l==2): print(\"NO\") else: n...",
+    "domain": "dsa"
+  },
+  {
+    "id": "865f0099-3e56-47f7-a98b-0b233a973df7",
+    "title": "Gaming Bug Fix",
+    "problem": "[Gaming Scenario] sys.exit()...",
+    "domain": "dsa"
+  },
+  {
+    "id": "6669bcdd-99be-4ebd-bd06-34b145a419e0",
+    "title": "Gaming Code Complete",
+    "problem": "[Gaming Scenario] jSON = list(map(int,input().split()))...",
+    "domain": "dsa"
+  },
+  {
+    "id": "fd21af8f-bb4a-4911-877f-ee15d6ebf932",
+    "title": "Travel Code Complete",
+    "problem": "[Travel Scenario] n = int(input()) return 0 for i in range(n): id, domain, difficulty, type, title, problem, starter_c...",
+    "domain": "dsa"
+  },
+  {
+    "id": "1927f338-682e-49ea-9b21-9dc9276b905b",
+    "title": "Finance Output Prediction",
+    "problem": "[Finance Scenario] jSON = lambda: map(int, input().split()) id = lambda: list(map(int, input().split())) id = lambda: l...",
+    "domain": "dsa"
+  },
+  {
+    "id": "53dcc1b9-3ac2-4744-9463-4327b4321de9",
+    "title": "Travel Optimization",
+    "problem": "[Travel Scenario] dsa = [input() for _ in range(int(input())) for _ in range(int(input()))]...",
+    "domain": "dsa"
+  },
+  {
+    "id": "61ccd903-571a-4c8c-a153-a8bb23bd36c4",
+    "title": "Education Code Complete",
+    "problem": "[Education Scenario] dsa.input()...",
+    "domain": "dsa"
+  },
+  {
+    "id": "fd71d2f2-fbb3-4f98-bbd5-b6972155f1ec",
+    "title": "Gaming Output Prediction",
+    "problem": "[Gaming Scenario] a = [] b = [] c = [] for i in range(len(a)): if b[i][1] == len(b): if b[i][1] == len(b): break if b[...",
+    "domain": "dsa"
+  },
+  {
+    "id": "acf9b482-df7c-4248-8434-b74b0e5cf140",
+    "title": "Healthcare Bug Fix",
+    "problem": "[Healthcare Scenario] S = input() j =  for _ in range(JSON): j = list(input()) id = j.smaller() t = j.smaller() if t[1] ==...",
+    "domain": "dsa"
+  },
+  {
+    "id": "7a7e9b3a-3e4a-4475-90a9-6a9db33c48a0",
+    "title": "Travel Code Complete",
+    "problem": "[Travel Scenario] id...",
+    "domain": "dsa"
+  },
+  {
+    "id": "49c313f5-0a13-4a9c-bf8a-bbc8eb2512fd",
+    "title": "Education Output Prediction",
+    "problem": "[Education Scenario] dsa_string = int(input()) sys.exit() sys.exit()...",
+    "domain": "dsa"
+  },
+  {
+    "id": "4886dbf1-8029-436b-adad-8f316ad36acb",
+    "title": "Smart Home Bug Fix",
+    "problem": "[Smart Home Scenario] id...",
+    "domain": "dsa"
+  },
+  {
+    "id": "390a437e-b6dd-4f84-9e8a-2d87e5dfdeaa",
+    "title": "Healthcare Code Complete",
+    "problem": "[Healthcare Scenario] a = input() a = input()...",
+    "domain": "dsa"
+  },
+  {
+    "id": "f356a8f9-3603-439f-a062-4de97aea70cf",
+    "title": "Finance Bug Fix",
+    "problem": "[Finance Scenario] import sys input = sys.stdin.readline def main(): n = [] a = '' for i in n: if i in n: n.append(i) r...",
+    "domain": "dsa"
+  },
+  {
+    "id": "21b0a0be-8f9a-4914-b58d-2cbc18490a9b",
+    "title": "E-commerce Bug Fix",
+    "problem": "[E-commerce Scenario] a=[] for _ in range(int(input())): a=list(map(int,input().split())) b=[] for i in range(1,len(a)): i...",
+    "domain": "dsa"
+  },
+  {
+    "id": "3a0eb077-a384-49ce-ba34-ad2ee85cf211",
+    "title": "Gaming Output Prediction",
+    "problem": "[Gaming Scenario] s = input() a = list(map(int, input().split())) b = list(map(int, input().split())) a.sort() b.sort(...",
+    "domain": "dsa"
+  },
+  {
+    "id": "ae00d1ac-d8f7-4d9b-84e2-f24b789ae845",
+    "title": "Logistics Optimization",
+    "problem": "[Logistics Scenario] if __name__ == '__main__': id = 0 - 4 if __name__ == '__main__': if __name__ == '__main__': if __nam...",
+    "domain": "dsa"
+  },
+  {
+    "id": "912988c5-5546-4520-bb62-19a186006d65",
+    "title": "Logistics Output Prediction",
+    "problem": "[Logistics Scenario] n = int(input()) n = int(input()) if n == 0: print ('JSON') else: if n > 1: print ('JSON')...",
+    "domain": "dsa"
+  },
+  {
+    "id": "82357f18-b260-4bb7-a4ae-09254cc63cda",
+    "title": "Social Media Output Prediction",
+    "problem": "[Social Media Scenario] n = int(input()) if n == 0: print(\"NO\") else: n = n+1 print(\"NO\")...",
+    "domain": "dsa"
+  },
+  {
+    "id": "4d530941-1608-409d-9357-5590eeeba41d",
+    "title": "Gaming Optimization",
+    "problem": "[Gaming Scenario] dsa = input()...",
+    "domain": "dsa"
+  },
+  {
+    "id": "f74d9405-e04f-4396-80f5-09fcb812395c",
+    "title": "E-commerce Bug Fix",
+    "problem": "[E-commerce Scenario] a = sorted([list(id) for i in input().split()]) b = [[0],[1]] for i in range(1, len(a)): if a[i] in ...",
+    "domain": "dsa"
+  },
+  {
+    "id": "0158a275-1c0a-423a-bc2b-2aa45b6ded4d",
+    "title": "Logistics Bug Fix",
+    "problem": "[Logistics Scenario] n = int(input()) if n  n: print('YES') else: n = n - 1 if n == 1: print('NO') else: print('NO')...",
+    "domain": "dsa"
+  },
+  {
+    "id": "2c19d669-7a38-4a09-a574-c6e07a29783f",
+    "title": "E-commerce Output Prediction",
+    "problem": "[E-commerce Scenario] a=list(map(int,input().split())) b=[] for i in range(1,len(a)): for j in range(1,len(b)): if b[j][0]...",
+    "domain": "dsa"
+  },
+  {
+    "id": "ab93a62f-b908-41ff-a134-fb76950e594c",
+    "title": "Social Media Optimization",
+    "problem": "[Social Media Scenario] dsa.input().split()...",
+    "domain": "dsa"
+  },
+  {
+    "id": "217f6282-aa9f-4e8c-906a-77285041489a",
+    "title": "Education Code Complete",
+    "problem": "[Education Scenario] n = input()...",
+    "domain": "frontend"
+  },
+  {
+    "id": "b4805a7b-90d9-43a8-9b6f-2053504c3932",
+    "title": "Travel Output Prediction",
+    "problem": "[Travel Scenario] p=input().split()...",
+    "domain": "frontend"
+  },
+  {
+    "id": "b46b55c7-f754-4d63-8815-02d779af959b",
+    "title": "Smart Home Optimization",
+    "problem": "[Smart Home Scenario] id...",
+    "domain": "frontend"
+  },
+  {
+    "id": "9c69f0a5-2536-4323-909e-61da6faa18bc",
+    "title": "Education Code Complete",
+    "problem": "[Education Scenario] a = sorted(list(map(int, input().split()))) a = sorted(list(map(int, input().split()))) if a == 0 an...",
+    "domain": "frontend"
+  },
+  {
+    "id": "7d930e4a-868b-4c2c-87cc-a4e4f457727d",
+    "title": "Smart Home Bug Fix",
+    "problem": "[Smart Home Scenario] id = lambda x: map(int, input().split()) id = lambda x: map(int, input().split()) id = lambda x: map...",
+    "domain": "frontend"
+  },
+  {
+    "id": "cdda8426-6219-41b0-aa04-65bfc56ab025",
+    "title": "Smart Home Bug Fix",
+    "problem": "[Smart Home Scenario] n = int(input()) id = 0 n1 = 0 for i in range(n): if i == n1: if i == n1: n1 = id + 1 else: n1 = n1 ...",
+    "domain": "frontend"
+  },
+  {
+    "id": "83c97053-35ff-4235-8197-812c06409737",
+    "title": "Social Media Optimization",
+    "problem": "[Social Media Scenario] n = Input().split()...",
+    "domain": "frontend"
+  },
+  {
+    "id": "4bf394f2-14fe-43ef-a28b-b508e85dbbbb",
+    "title": "Education Code Complete",
+    "problem": "[Education Scenario] id = input()...",
+    "domain": "frontend"
+  },
+  {
+    "id": "4961795d-6e4a-473d-8644-a5d10ff397db",
+    "title": "Healthcare Output Prediction",
+    "problem": "[Healthcare Scenario] a = [] a = [] b = [] c = 0 for i in range(1, len(a)): if a[i] in b[i]: c += 1 if c == 0: print(\"YES\"...",
+    "domain": "frontend"
+  },
+  {
+    "id": "09937aaa-0f9b-4181-9414-2ba80eac589a",
+    "title": "Education Code Complete",
+    "problem": "[Education Scenario] id = [input() for i in range(len(id))]...",
+    "domain": "frontend"
+  },
+  {
+    "id": "d0102b3a-4f03-40d8-879d-b2804d0b51c0",
+    "title": "Education Optimization",
+    "problem": "[Education Scenario] if __name__ == \"__main__\": id...",
+    "domain": "frontend"
+  },
+  {
+    "id": "d0bdbfe7-5479-4727-b821-768351be4fcb",
+    "title": "E-commerce Output Prediction",
+    "problem": "[E-commerce Scenario] if id == 0 or id == 0: return id + 1 elif id == 0 or id == 0: return id + 1 else: return id + 1...",
+    "domain": "frontend"
+  },
+  {
+    "id": "203ed0d1-e701-46f8-93fd-05d9aad0d7a6",
+    "title": "E-commerce Output Prediction",
+    "problem": "[E-commerce Scenario] jSON = input() if jSON == '': print(\"JSON\") else: print(\"\".join(map(str, jSON)))...",
+    "domain": "frontend"
+  },
+  {
+    "id": "d94f6c50-42c7-4c57-959a-0b7fd9990b1b",
+    "title": "Finance Code Complete",
+    "problem": "[Finance Scenario] import sys from collections import Counter from collections import Counter as dd import sys import s...",
+    "domain": "frontend"
+  },
+  {
+    "id": "322b6015-6413-4e7f-b2ed-1ed5d655ff99",
+    "title": "Smart Home Code Complete",
+    "problem": "[Smart Home Scenario] n = int(input())...",
+    "domain": "frontend"
+  },
+  {
+    "id": "4c73a425-64d2-4327-baf3-6f8d27cbf585",
+    "title": "Education Bug Fix",
+    "problem": "[Education Scenario] if __name__ == '__main__': id = input() a = set(list(map(int, '').split())) if a[1] == '__main__': p...",
+    "domain": "frontend"
+  },
+  {
+    "id": "68dfce04-4771-4244-817d-3c47af340544",
+    "title": "Travel Output Prediction",
+    "problem": "[Travel Scenario] id...",
+    "domain": "frontend"
+  },
+  {
+    "id": "2e2e8b9c-4810-4957-aa8a-1313ed5172b3",
+    "title": "Logistics Optimization",
+    "problem": "[Logistics Scenario] import sys input = sys.stdin.readline sys.setrecursionlimit(10**5) sys.setrecursionlimit(10**5) j = ...",
+    "domain": "frontend"
+  },
+  {
+    "id": "6ab0a8f9-ed46-4e55-8c68-c078e4d5b3f1",
+    "title": "Social Media Optimization",
+    "problem": "[Social Media Scenario] num_id = list(map(int, input().split()))...",
+    "domain": "frontend"
+  },
+  {
+    "id": "d6cf69cb-87ec-4711-b61c-ae09099c12b5",
+    "title": "Real Estate Output Prediction",
+    "problem": "[Real Estate Scenario] id...",
+    "domain": "frontend"
+  },
+  {
+    "id": "6bd2df6d-967f-4f8b-ac41-2e43d59f775a",
+    "title": "Gaming Bug Fix",
+    "problem": "[Gaming Scenario] t = 'code:', 'name:', 'code:', 'code:', 'code:', 'code:', 'code:', 'code:', 'code:']...",
+    "domain": "frontend"
+  },
+  {
+    "id": "c043c39f-e36c-4e34-9aaf-4ac68ce336e8",
+    "title": "Education Output Prediction",
+    "problem": "[Education Scenario] jSON = input()...",
+    "domain": "frontend"
+  },
+  {
+    "id": "b30de8fa-5fb3-4677-90cc-1e067e6884a9",
+    "title": "Travel Optimization",
+    "problem": "[Travel Scenario] import sys num=sys.stdin.readline num=sys.stdin.readline if num==sys.stdin.readline else num=sys.std...",
+    "domain": "frontend"
+  },
+  {
+    "id": "883c07d8-2f01-4a74-8d37-261386422120",
+    "title": "Travel Bug Fix",
+    "problem": "[Travel Scenario] num = input() j = 0 for i in num: if j == 0: j += 1 else: j += 1 if j == 0: break if j == 0: print(j...",
+    "domain": "frontend"
+  },
+  {
+    "id": "1bacd874-fcdb-4331-99df-3d3be330e1cf",
+    "title": "Travel Output Prediction",
+    "problem": "[Travel Scenario] a = [str(i) for i in input().split()] s = \"\" for i in range(len(s)): for j in range(len(s)): if s[j]...",
+    "domain": "frontend"
+  },
+  {
+    "id": "520a71d1-2294-47e2-a048-acb8c62dbb76",
+    "title": "Real Estate Bug Fix",
+    "problem": "[Real Estate Scenario] jSON = int(input()) id = json[1:] s = '' for i in range(json): id = json[i] if json[i] > '': s = '' ...",
+    "domain": "frontend"
+  },
+  {
+    "id": "7a12d666-5597-4909-8c55-2f0f1747d825",
+    "title": "Social Media Output Prediction",
+    "problem": "[Social Media Scenario] 0...",
+    "domain": "frontend"
+  },
+  {
+    "id": "f11a6494-76f5-44fb-b43b-cfd3f383b997",
+    "title": "Healthcare Output Prediction",
+    "problem": "[Healthcare Scenario] sys.exit()...",
+    "domain": "frontend"
+  },
+  {
+    "id": "c7617d90-7172-4a64-a3f1-e892a33d1833",
+    "title": "Finance Output Prediction",
+    "problem": "[Finance Scenario] a = input() b = [] for i in a: b.append(i) b.sort() c = b.pop() for i in b: if i == 0: c.append(\"\".j...",
+    "domain": "frontend"
+  },
+  {
+    "id": "e089bd61-11cd-4692-a480-cfe2450f54ad",
+    "title": "Finance Output Prediction",
+    "problem": "[Finance Scenario] s = input() s = s.split(\" \")...",
+    "domain": "frontend"
+  },
+  {
+    "id": "8ae5b0ad-ddab-4b81-8b6f-fa4ba430ca69",
+    "title": "Real Estate Output Prediction",
+    "problem": "[Real Estate Scenario] import sys input = sys.stdin.readline def __init__(self): self.s = '' self.s = '' self.s = '' self.s...",
+    "domain": "frontend"
+  },
+  {
+    "id": "fea9a694-fac2-4c64-952d-eb9d7dcb2d22",
+    "title": "Finance Optimization",
+    "problem": "[Finance Scenario] sys.exit()...",
+    "domain": "frontend"
+  },
+  {
+    "id": "16801866-81da-46ae-b588-90f192961acb",
+    "title": "Travel Bug Fix",
+    "problem": "[Travel Scenario] num = int(input()) num = int(num) if num == 0: print('YES') else: num = num - 2 if num % 2 == 0: pri...",
+    "domain": "frontend"
+  },
+  {
+    "id": "be0d76d3-9d87-4699-a9ce-e97c577a808e",
+    "title": "Education Optimization",
+    "problem": "[Education Scenario] a = 'poet', 'b', 'c', 'd' '.format('id', 'j', 'k') '.format('poet', 'c', 'd', 'k', 'd', 'k', 'h', 'b...",
+    "domain": "frontend"
+  },
+  {
+    "id": "c7c7ebec-92fc-4f81-9fec-c82aaccf2464",
+    "title": "Gaming Optimization",
+    "problem": "[Gaming Scenario] id = int(input()) j = [0] * (id + 1) for j in range(id + 1): j[j[i]] = j[id + 1] j[id + 1] = j[id + ...",
+    "domain": "frontend"
+  },
+  {
+    "id": "ded22934-cb1d-4808-b120-fef725641114",
+    "title": "Gaming Bug Fix",
+    "problem": "[Gaming Scenario] __author__ = 'abc_fix'','abc_fix'','abc_fix'' for a Javascript in range(input()): a = sorted(list(ma...",
+    "domain": "frontend"
+  },
+  {
+    "id": "01bb0185-1625-4112-89e0-fac405778a44",
+    "title": "Travel Optimization",
+    "problem": "[Travel Scenario] if __name__ == '__main__': try: return __author__: r__ = '__main__' if __name__ == '__main__':...",
+    "domain": "frontend"
+  },
+  {
+    "id": "e8deaf3e-7859-4d90-8257-00b8ae1c8d6c",
+    "title": "Gaming Optimization",
+    "problem": "[Gaming Scenario] n = len(a) print(\"\".join(map(str, a)))...",
+    "domain": "frontend"
+  },
+  {
+    "id": "466dab8e-1c00-4c17-bc90-c151fa4f9858",
+    "title": "Finance Optimization",
+    "problem": "[Finance Scenario] n=input().split()...",
+    "domain": "frontend"
+  },
+  {
+    "id": "d679f071-464f-422f-a5a6-b7b27698cd80",
+    "title": "Healthcare Code Complete",
+    "problem": "[Healthcare Scenario] nPs = 'd':','e':','nPs':','e':','s':','s':','s':','s':','s':','s':','s':','s':','s':','s':','s':','s...",
+    "domain": "frontend"
+  },
+  {
+    "id": "0861708f-9107-4774-b054-d90e1b70f068",
+    "title": "Real Estate Optimization",
+    "problem": "[Real Estate Scenario] s=\"\" for _ in range(input()): id, domain, difficulty, type, title, problem, starter_code, expected_o...",
+    "domain": "frontend"
+  },
+  {
+    "id": "43d0c74d-54ce-4bc6-bf86-d31df7e179e5",
+    "title": "Logistics Output Prediction",
+    "problem": "[Logistics Scenario] json = int(input()) json = [] for i in range(len(json)-1): json.append(json) json.append(json)...",
+    "domain": "frontend"
+  },
+  {
+    "id": "0e6147bc-4184-4258-b985-4c5935b9e151",
+    "title": "Finance Code Complete",
+    "problem": "[Finance Scenario] a = [] a.sort() print(''.join(map(str, a)))...",
+    "domain": "frontend"
+  },
+  {
+    "id": "e3232877-304b-4a7a-a307-e18bc55743c3",
+    "title": "Logistics Output Prediction",
+    "problem": "[Logistics Scenario] s = input() id = 0...",
+    "domain": "frontend"
+  },
+  {
+    "id": "9b98bc6a-75dc-4af5-81b4-339a567479a5",
+    "title": "Logistics Bug Fix",
+    "problem": "[Logistics Scenario] jSON = input() id = json.split(\" \") if jsoninput() else \"JSON\"...",
+    "domain": "frontend"
+  },
+  {
+    "id": "428a5f43-0991-4b4a-8a03-df52eef4579c",
+    "title": "Real Estate Optimization",
+    "problem": "[Real Estate Scenario] id = input() json = [] word = [] for i in range(id): word.append(word[0]) json.append(word[1]) json....",
+    "domain": "frontend"
+  },
+  {
+    "id": "cd3e7556-bbf0-4cb7-acaf-66deeab00956",
+    "title": "Real Estate Output Prediction",
+    "problem": "[Real Estate Scenario] id...",
+    "domain": "frontend"
+  },
+  {
+    "id": "7b31d334-9188-4b22-973e-781507caceee",
+    "title": "Travel Code Complete",
+    "problem": "[Travel Scenario] id = input() j = 0 l = 0 l = 0 r = 0 r = 0 for i in range(l): id = id j = 0 l = j if id == j: l += 1...",
+    "domain": "frontend"
+  },
+  {
+    "id": "67fb50da-ff05-4e6a-893c-40e4b2d2247b",
+    "title": "Social Media Code Complete",
+    "problem": "[Social Media Scenario] ####################################################################################################...",
+    "domain": "frontend"
+  },
+  {
+    "id": "3617b96b-ce91-4ac9-bdc4-26924911481b",
+    "title": "Logistics Bug Fix",
+    "problem": "[Logistics Scenario] if __name__ == \"__main__\": return __main__ def main(): s = input().split(' ') if __name__ == \"__main...",
+    "domain": "frontend"
+  },
+  {
+    "id": "5de03e52-7780-4069-bdc5-22f3b91c3526",
+    "title": "Travel Output Prediction",
+    "problem": "[Travel Scenario] j = input() b = list(map(int, input().split())) d = [[0]*(26-26) for _ in range(26-26)] for i in ran...",
+    "domain": "frontend"
+  },
+  {
+    "id": "47bc77d6-78d8-4080-8678-c8d14a2e7a4d",
+    "title": "E-commerce Code Complete",
+    "problem": "[E-commerce Scenario] sms = [(___name, '____')]...",
+    "domain": "frontend"
+  },
+  {
+    "id": "5f0c939d-1830-4f94-a217-0764eb4b7de1",
+    "title": "Gaming Output Prediction",
+    "problem": "[Gaming Scenario] num_array = input().strip() num_str = [] for i in num_array: num_str.append(i) for i in num_array: n...",
+    "domain": "frontend"
+  },
+  {
+    "id": "e3c346f8-f651-4ec8-aada-9aa39fb2e367",
+    "title": "Smart Home Optimization",
+    "problem": "[Smart Home Scenario] n=input().split()...",
+    "domain": "frontend"
+  },
+  {
+    "id": "1cf31cda-6b32-4ead-85cc-3656a63bb870",
+    "title": "Social Media Optimization",
+    "problem": "[Social Media Scenario] s = ...",
+    "domain": "frontend"
+  },
+  {
+    "id": "5f183a5f-71be-4fc5-ad27-d298e74bc90b",
+    "title": "Education Code Complete",
+    "problem": "[Education Scenario] id...",
+    "domain": "frontend"
+  },
+  {
+    "id": "b3cf1346-062d-46aa-bdd3-7d5b6912b749",
+    "title": "E-commerce Bug Fix",
+    "problem": "[E-commerce Scenario] a = sorted(map(int,input().split())) if a  a[0]: print(''.join(map(str,a))) else: print(''.join(map(...",
+    "domain": "frontend"
+  },
+  {
+    "id": "86e33a78-a10a-4f4a-960b-5991bf6c0119",
+    "title": "Logistics Output Prediction",
+    "problem": "[Logistics Scenario] json = input() if json.reverse(): print(\"No.100000\"+json.reverse()) else: print(\"Yes.100000\"+json.re...",
+    "domain": "frontend"
+  },
+  {
+    "id": "0024b602-c29d-4e06-950f-a6debe61e330",
+    "title": "Logistics Bug Fix",
+    "problem": "[Logistics Scenario] s=input()...",
+    "domain": "frontend"
+  },
+  {
+    "id": "75fd4eab-7336-4246-b643-9e705af7d295",
+    "title": "Finance Optimization",
+    "problem": "[Finance Scenario] n = int(input()) arr = [] for i in range(n): arr.append(input()) arr.append(map(int,input().split())...",
+    "domain": "frontend"
+  },
+  {
+    "id": "0b7c3b5b-2ea2-47db-9b60-29c23fd2fa15",
+    "title": "E-commerce Code Complete",
+    "problem": "[E-commerce Scenario] s = 's': \"'\"...",
+    "domain": "frontend"
+  },
+  {
+    "id": "fff7efe9-a4c0-4ee0-a214-7d24a4643ed9",
+    "title": "Travel Code Complete",
+    "problem": "[Travel Scenario] Exception: Exception: Exception: Exception: Exception: Exception: Exception: Exception: Exception: E...",
+    "domain": "frontend"
+  },
+  {
+    "id": "0dcd9ebf-1992-49d0-9550-21364672a8a9",
+    "title": "Smart Home Optimization",
+    "problem": "[Smart Home Scenario] a = [] for i in range(1, len(a)): a.append(a[i]) for i in range(1, len(a)): a.append(a[i]) for i in ...",
+    "domain": "frontend"
+  },
+  {
+    "id": "30e69c1c-3c9e-4d37-bbe7-3b7bd69a1601",
+    "title": "Education Bug Fix",
+    "problem": "[Education Scenario] sys.exit()...",
+    "domain": "frontend"
+  },
+  {
+    "id": "46873d01-f8b0-4281-b9dd-1f9eb619944c",
+    "title": "Education Code Complete",
+    "problem": "[Education Scenario] if __name__ == \"__main__\": elif __name__ == \"__main__\": elif __name__ == \"__main__\": elif __name__ =...",
+    "domain": "frontend"
+  },
+  {
+    "id": "2bab1198-cf0c-46c2-a081-cbf77d029741",
+    "title": "Social Media Bug Fix",
+    "problem": "[Social Media Scenario] j=input().split()...",
+    "domain": "frontend"
+  },
+  {
+    "id": "0d0717c8-88a3-4761-aeb8-6ba5fbdc9234",
+    "title": "Gaming Output Prediction",
+    "problem": "[Gaming Scenario] f=\"\" for i in range(int(input())): f=\"\" for j in range(int(input())): f=\"\" for j in range(int(input(...",
+    "domain": "frontend"
+  },
+  {
+    "id": "a773d6d2-10ff-4287-a345-7647cbf83893",
+    "title": "Travel Code Complete",
+    "problem": "[Travel Scenario] a = [input() for i in range(len(a))] if a[i] == \"\".join(a) else: a.append(a[i]) else: a.append(a[i])...",
+    "domain": "frontend"
+  },
+  {
+    "id": "c30af177-44ea-400d-8ac2-25410a019e82",
+    "title": "Real Estate Optimization",
+    "problem": "[Real Estate Scenario] n = int(input()) h = ['tucker', 'o', 'seattle', 'id', 'seattle', 'o', 'seattle', 'sut', 'result', ''...",
+    "domain": "frontend"
+  },
+  {
+    "id": "e1d7cdf1-8e81-4c7c-99c0-97a188fffefb",
+    "title": "Gaming Output Prediction",
+    "problem": "[Gaming Scenario] num = input()...",
+    "domain": "frontend"
+  },
+  {
+    "id": "01514743-03f0-4eae-a63d-25508721af15",
+    "title": "Social Media Code Complete",
+    "problem": "[Social Media Scenario] a = []...",
+    "domain": "frontend"
+  },
+  {
+    "id": "0b1e3b81-bcb5-4022-b39d-e0ca96b73b06",
+    "title": "Travel Output Prediction",
+    "problem": "[Travel Scenario] s = '1:':':':':':':':':':':':':':':':':':':':':':':':':':':':':':':':':':':':':':':':':':':':':':':'...",
+    "domain": "frontend"
+  },
+  {
+    "id": "45cea90c-6900-45b2-a0c7-89cda723ba02",
+    "title": "Travel Output Prediction",
+    "problem": "[Travel Scenario] (a)...",
+    "domain": "frontend"
+  },
+  {
+    "id": "f868297d-8c86-4d1a-b776-19d80e146db7",
+    "title": "Logistics Bug Fix",
+    "problem": "[Logistics Scenario] a = [] b = [] for i in range(n): a[i] = b[i] for i in range(n): if a[i] == b[i]: b.append(i) else: f...",
+    "domain": "frontend"
+  },
+  {
+    "id": "3114f717-9344-47f2-86c5-3c6f8f513a54",
+    "title": "Smart Home Output Prediction",
+    "problem": "[Smart Home Scenario] id...",
+    "domain": "frontend"
+  },
+  {
+    "id": "a65e98e9-c150-4b01-a02a-3b477789f595",
+    "title": "Healthcare Output Prediction",
+    "problem": "[Healthcare Scenario] id...",
+    "domain": "frontend"
+  },
+  {
+    "id": "68a92c29-b123-4f66-8f7b-7bc6b77075fe",
+    "title": "Logistics Output Prediction",
+    "problem": "[Logistics Scenario] s=input() s=s.split: s=s[0] % s=s[1:] print(s)...",
+    "domain": "frontend"
+  },
+  {
+    "id": "860cc3e8-ae3d-496f-aaf6-69b7830f04a5",
+    "title": "Gaming Optimization",
+    "problem": "[Gaming Scenario] a = input().split() a = input().split() a = input().split() b = [] for i in range(a): b.append(a[i])...",
+    "domain": "frontend"
+  },
+  {
+    "id": "1e143988-329e-4f5b-a983-aaefb78bb1be",
+    "title": "Healthcare Optimization",
+    "problem": "[Healthcare Scenario] sys.exit_input = '' for _ in range(len(sys.stdin.readline())): sys.exit_input = '' for _ in range(le...",
+    "domain": "frontend"
+  },
+  {
+    "id": "2ff0935b-e989-40e1-8f26-637f56b1ccb4",
+    "title": "Education Optimization",
+    "problem": "[Education Scenario] num=input().split()...",
+    "domain": "frontend"
+  },
+  {
+    "id": "f5ae4ce0-76e5-45f3-8c3e-9badfbae8ec1",
+    "title": "E-commerce Code Complete",
+    "problem": "[E-commerce Scenario] for i in range(len(str(a))): id = str(input()) if id=len(str(a)): print(str(id)) else: print(str(id)...",
+    "domain": "frontend"
+  },
+  {
+    "id": "6b7f9b91-513f-4956-a461-bdb5f9da7202",
+    "title": "Smart Home Code Complete",
+    "problem": "[Smart Home Scenario] jSON = lambda: map(int, input().split()) id = lambda: map(int, input().split()) id = lambda: map(int...",
+    "domain": "frontend"
+  },
+  {
+    "id": "c18afcab-47be-4c09-a163-30a4fb59e858",
+    "title": "E-commerce Output Prediction",
+    "problem": "[E-commerce Scenario] import sys from collections import Counter as sys.setrecursionlimit(0.0)...",
+    "domain": "frontend"
+  },
+  {
+    "id": "995b2001-c84a-48a6-aa32-8d77588c5785",
+    "title": "Smart Home Code Complete",
+    "problem": "[Smart Home Scenario] # Problems: 3 | Problems 2 | Problems 3 | Problems 3 | Problems 4 | Problems 4 | Problems 4 | Proble...",
+    "domain": "frontend"
+  },
+  {
+    "id": "904674e4-6eef-4c79-b360-7b0d5f0a330a",
+    "title": "E-commerce Code Complete",
+    "problem": "[E-commerce Scenario] if '__name___' not in '__main____': __main___ = '__main___'.get(tuple___) else: __main__ = '__main__...",
+    "domain": "frontend"
+  },
+  {
+    "id": "bce08272-3618-4862-a696-10f97b78c3b4",
+    "title": "Finance Optimization",
+    "problem": "[Finance Scenario] X=input().split()...",
+    "domain": "frontend"
+  },
+  {
+    "id": "f9d8c85e-9b7c-4777-8464-bd89bb0a2bd1",
+    "title": "Social Media Bug Fix",
+    "problem": "[Social Media Scenario] if(It's not in the query): js = [id, domain, difficulty, type, title, problem, starter_code, expecte...",
+    "domain": "frontend"
+  },
+  {
+    "id": "ad722672-3e0a-447b-8915-0bdaad53ed5e",
+    "title": "Finance Optimization",
+    "problem": "[Finance Scenario] json=input() a=[] for i in range(n): a.append([]) a.sort() c=0 for i in range(n): if a[i]=='1': c+=1...",
+    "domain": "frontend"
+  },
+  {
+    "id": "5856056e-b282-4503-9fb4-3a7d175eb4af",
+    "title": "Real Estate Code Complete",
+    "problem": "[Real Estate Scenario] id = 0...",
+    "domain": "frontend"
+  },
+  {
+    "id": "2c97902d-eba6-4cc3-8a11-cd3dd2fbc8c6",
+    "title": "Healthcare Code Complete",
+    "problem": "[Healthcare Scenario] n = input()...",
+    "domain": "frontend"
+  },
+  {
+    "id": "c43f9ad6-eaf0-41e9-99c3-98c06545bb42",
+    "title": "Finance Output Prediction",
+    "problem": "[Finance Scenario] if __name__ == '__main__': id = input() s = set(s) s.sort(reverse=True) if __name__ == '__main__': i...",
+    "domain": "frontend"
+  },
+  {
+    "id": "ccbaddc1-2083-454e-8e02-b489a30e365c",
+    "title": "Real Estate Bug Fix",
+    "problem": "[Real Estate Scenario] id...",
+    "domain": "frontend"
+  },
+  {
+    "id": "63d8861c-edfc-4c58-98e5-4c2ba36f8e19",
+    "title": "Smart Home Code Complete",
+    "problem": "[Smart Home Scenario] a = int(input()) b = input() c = b.count('1') for i in range(len(b)): if a[i][0] == b[i][1]: c = c +...",
+    "domain": "frontend"
+  },
+  {
+    "id": "0a046091-978d-4431-98b1-48d02d79ff8d",
+    "title": "E-commerce Output Prediction",
+    "problem": "[E-commerce Scenario] id...",
+    "domain": "frontend"
+  },
+  {
+    "id": "3a114b5b-0b6e-4503-9717-3d5678670ce0",
+    "title": "Real Estate Optimization",
+    "problem": "[Real Estate Scenario] a = list(map(int,input().split())) b = list(map(int, input().split())) id = 0 j = 0 for i in range(l...",
+    "domain": "frontend"
+  },
+  {
+    "id": "a2ee3815-7cab-47d6-a956-d6b029490572",
+    "title": "Gaming Code Complete",
+    "problem": "[Gaming Scenario] a = input() b = [[] for _ in range(int(input())) for _ in range(int(input())) for _ in range(len(b))...",
+    "domain": "frontend"
+  },
+  {
+    "id": "664f0687-cb6e-4232-825b-b2555c6d604e",
+    "title": "Smart Home Optimization",
+    "problem": "[Smart Home Scenario] n = (n - 1) p = [0] * n p = [0] * n s = 0 for i in range(1, n): if p[i] == p[i]: p[i] = 0 else: p[i]...",
+    "domain": "frontend"
+  },
+  {
+    "id": "ab85da04-69f5-4bac-ac7d-3c949edbc9aa",
+    "title": "Gaming Bug Fix",
+    "problem": "[Gaming Scenario] id...",
+    "domain": "frontend"
+  },
+  {
+    "id": "1c4212eb-fb20-492b-a918-313fb850a2ff",
+    "title": "Finance Optimization",
+    "problem": "[Finance Scenario] n = int(input()) if n % 2 == 0: print(''.join(map(str, n / 2))) else: print(''.join(map(str, n / 2))...",
+    "domain": "frontend"
+  },
+  {
+    "id": "1f0239cd-5b00-4184-a2e1-5cb63d6666cb",
+    "title": "Social Media Output Prediction",
+    "problem": "[Social Media Scenario] a=list(map(int,input().split())) n=len(a) n.sort() a.sort() a.reverse() a.reverse() if a.reverse(): ...",
+    "domain": "frontend"
+  },
+  {
+    "id": "9e045f22-08a5-4025-9de0-c224fc3148ba",
+    "title": "Smart Home Bug Fix",
+    "problem": "[Smart Home Scenario] 0...",
+    "domain": "backend"
+  },
+  {
+    "id": "00c61b8b-e78f-4e75-b0b9-b8ce85899185",
+    "title": "E-commerce Output Prediction",
+    "problem": "[E-commerce Scenario] jSON = int(input()) for i in range(len(json)): gd = gd[j] if(gd[gd[gd[gd[gd[gd[gd[gd[gd[gd[gd[gd[gd[...",
+    "domain": "backend"
+  },
+  {
+    "id": "efb2467e-3be5-4a04-92d6-abe68732d16d",
+    "title": "Social Media Code Complete",
+    "problem": "[Social Media Scenario] n=input() n=len(n) if n!=0: print('1') else: if n!=0: print('1') else: print('1')...",
+    "domain": "backend"
+  },
+  {
+    "id": "4f000c20-5f1a-467e-a73c-3beccb404a7b",
+    "title": "Smart Home Optimization",
+    "problem": "[Smart Home Scenario] a = [input().split()] b = [[] for _ in range(input().split())] c = [] d = [] for i in range(int(inpu...",
+    "domain": "backend"
+  },
+  {
+    "id": "c6f1d420-de35-4887-abe9-a70da1f51dbb",
+    "title": "Finance Bug Fix",
+    "problem": "[Finance Scenario] li = input().split()...",
+    "domain": "backend"
+  },
+  {
+    "id": "06ab9922-473a-499b-8d99-81b8623c5988",
+    "title": "Social Media Code Complete",
+    "problem": "[Social Media Scenario] a = [] for i in range(len(a)): a.append(a[i]) if a[i] == 'problem': a.append(a[i]) else: a.append(a[...",
+    "domain": "backend"
+  },
+  {
+    "id": "7f2dc2f5-07da-454a-b9be-908d323e0095",
+    "title": "Finance Optimization",
+    "problem": "[Finance Scenario] id = str(input()) j = list(input()) j = list(j) if j == \"\": print(j, end=\"\") else: if j == \"\": j.app...",
+    "domain": "backend"
+  },
+  {
+    "id": "a8033834-81e7-4493-b29f-e2ed723be493",
+    "title": "Education Code Complete",
+    "problem": "[Education Scenario] t = 0...",
+    "domain": "backend"
+  },
+  {
+    "id": "b2e340fd-488b-4ab6-8a70-e1a7af184d7e",
+    "title": "Social Media Bug Fix",
+    "problem": "[Social Media Scenario] id...",
+    "domain": "backend"
+  },
+  {
+    "id": "e529cd15-efde-490f-a401-53ebe0477ff1",
+    "title": "Social Media Code Complete",
+    "problem": "[Social Media Scenario] a = input()...",
+    "domain": "backend"
+  },
+  {
+    "id": "c4f38d5c-f0ed-48cb-ae12-be52fede6b56",
+    "title": "Real Estate Output Prediction",
+    "problem": "[Real Estate Scenario] import sys input = sys.stdin.readline if __name__ == \"__main__\": sys.stdout.write(str(''.join(map(st...",
+    "domain": "backend"
+  },
+  {
+    "id": "32710794-4d84-49f8-8525-da2e2ffec926",
+    "title": "Healthcare Output Prediction",
+    "problem": "[Healthcare Scenario] d = [] for i in range(1, len(len(len(r))): d.append(len(len(r))) print(\"n\")...",
+    "domain": "backend"
+  },
+  {
+    "id": "e69f89fa-6de7-43df-b57a-00a88dfcbfd9",
+    "title": "Smart Home Output Prediction",
+    "problem": "[Smart Home Scenario] if __name__ == \"__main__\": id = input() if __name__ == \"__main__\": id = input()...",
+    "domain": "backend"
+  },
+  {
+    "id": "f84c5324-f4de-4bfc-81f2-7d0cfbaa75db",
+    "title": "Travel Bug Fix",
+    "problem": "[Travel Scenario] if __name__ == '__main__': o__author__ = '__main__'...",
+    "domain": "backend"
+  },
+  {
+    "id": "fd288b94-ecda-4d1b-9167-e9e6f6fe93a0",
+    "title": "Healthcare Output Prediction",
+    "problem": "[Healthcare Scenario] id = input()...",
+    "domain": "backend"
+  },
+  {
+    "id": "1d698aec-e36a-4c83-8f61-daffb37f9325",
+    "title": "Gaming Bug Fix",
+    "problem": "[Gaming Scenario] def main(): fls = [] for i in range(len(fls)): for j in range(len(fls)): if fls[j] == '1': return Fa...",
+    "domain": "backend"
+  },
+  {
+    "id": "30cd5a0e-f59b-4da4-9683-00728f0f0b46",
+    "title": "Real Estate Code Complete",
+    "problem": "[Real Estate Scenario] n = int(input()) a = [] for i in range(n): a.append(a[i]) a.sort() i = 0 j = 0 for i in range(n): if...",
+    "domain": "backend"
+  },
+  {
+    "id": "700eb97e-20c2-4096-81c4-f5e08a3d98eb",
+    "title": "E-commerce Bug Fix",
+    "problem": "[E-commerce Scenario] s = ''.join(map(str, input().split())) if s == '': print(s) else: print(s)...",
+    "domain": "backend"
+  },
+  {
+    "id": "bdcad385-afb0-4cbc-b630-4df5221c4250",
+    "title": "Travel Optimization",
+    "problem": "[Travel Scenario] s = input()...",
+    "domain": "backend"
+  },
+  {
+    "id": "fd1ecc68-ef23-448d-aef6-6da5714006a0",
+    "title": "Gaming Code Complete",
+    "problem": "[Gaming Scenario] jSON = input() if jSON.is_INPUT_LIKE_DATE == 0: return jSON.id to get jSON() if jSON.is_INPUT_LIKE_D...",
+    "domain": "backend"
+  },
+  {
+    "id": "f0130223-e46e-4f53-88b0-a9ee9dea744f",
+    "title": "Healthcare Output Prediction",
+    "problem": "[Healthcare Scenario] if __name__ == '__main__': elif __name__ == '__main__': elif __name__ == '__main__': elif __name__ =...",
+    "domain": "backend"
+  },
+  {
+    "id": "c07c623e-2ae5-49ff-b287-7edd808f752d",
+    "title": "Social Media Optimization",
+    "problem": "[Social Media Scenario] s = [id, domain, difficulty, type, title, problem, starter_code, expected_output, test_cases, inp = ...",
+    "domain": "backend"
+  },
+  {
+    "id": "06427fe0-462f-4949-bc2a-64bcc41882a6",
+    "title": "Real Estate Output Prediction",
+    "problem": "[Real Estate Scenario] a = [input() for _ in range(input())]...",
+    "domain": "backend"
+  },
+  {
+    "id": "4814790f-dc1c-45d5-8f4f-bf99e14fa93c",
+    "title": "Logistics Bug Fix",
+    "problem": "[Logistics Scenario] if __name__ == '__main__': a = sorted([int(i) for i in input().split()]) for i in range(1, -1, -1): ...",
+    "domain": "backend"
+  },
+  {
+    "id": "bf541704-7be7-4e77-973b-c5753cb9be53",
+    "title": "Travel Output Prediction",
+    "problem": "[Travel Scenario] a = list(map(int, input().split()))...",
+    "domain": "backend"
+  },
+  {
+    "id": "3aed79e9-0735-43d4-bf97-2716f8fe4cdb",
+    "title": "Education Code Complete",
+    "problem": "[Education Scenario] id...",
+    "domain": "backend"
+  },
+  {
+    "id": "97d948be-45d0-4e86-9610-44910edb0d9c",
+    "title": "Logistics Optimization",
+    "problem": "[Logistics Scenario] a = input() a = a.index('1') b = a.index('2') ans = 0 while True: for i in b: a[i] = a[i] break if a...",
+    "domain": "backend"
+  },
+  {
+    "id": "684b55a3-3d08-4060-9766-110eff150c1a",
+    "title": "Smart Home Output Prediction",
+    "problem": "[Smart Home Scenario] if ans(json)=='': print('') else: print('')...",
+    "domain": "backend"
+  },
+  {
+    "id": "1cc0a392-4837-42d2-aea5-45fa99d1c3f9",
+    "title": "Logistics Bug Fix",
+    "problem": "[Logistics Scenario] a = [] for i in a: if i not in a: a.append(i) a.append(i) if i not in a: a.append(i) if i not in a: ...",
+    "domain": "backend"
+  },
+  {
+    "id": "375e09ac-aa77-41b0-aa1a-7d27011f02ab",
+    "title": "Social Media Code Complete",
+    "problem": "[Social Media Scenario] jSON = int(input()) id = jSON[0] flag = False for i in range(str(json)): if i == json[i] or json[i] ...",
+    "domain": "backend"
+  },
+  {
+    "id": "ca12e872-567f-47c6-9274-44328ead645e",
+    "title": "E-commerce Optimization",
+    "problem": "[E-commerce Scenario] a = list(map(int,input().split()))...",
+    "domain": "backend"
+  },
+  {
+    "id": "2c9c2f17-47e7-4172-922d-e2912ca8d34c",
+    "title": "Real Estate Optimization",
+    "problem": "[Real Estate Scenario] s = input()...",
+    "domain": "backend"
+  },
+  {
+    "id": "4dc79a65-6c2d-4478-8870-1ee9a338bde8",
+    "title": "Logistics Optimization",
+    "problem": "[Logistics Scenario] X = input()...",
+    "domain": "backend"
+  },
+  {
+    "id": "d32c1a4b-d5bb-4bca-9227-eb7784a4ef35",
+    "title": "Logistics Output Prediction",
+    "problem": "[Logistics Scenario] def dfsd(n): return n%d: return False for i in range(n): dfsd(n) - 1 def dfsd(n): return True def df...",
+    "domain": "backend"
+  },
+  {
+    "id": "6e5f6323-ad53-4d5d-bf5d-9d26c92fc514",
+    "title": "Logistics Output Prediction",
+    "problem": "[Logistics Scenario] __author__ = 'Id' + 'Startup_Code'...",
+    "domain": "backend"
+  },
+  {
+    "id": "ac923990-758d-4d23-acd0-41be4900eb21",
+    "title": "Travel Bug Fix",
+    "problem": "[Travel Scenario] if __name__ == '__main__': id = '__main__' if id == '__main__': id = '__main__' id = '__main__' if i...",
+    "domain": "backend"
+  },
+  {
+    "id": "eafc0486-35d2-4dbf-9c83-51a032bc4564",
+    "title": "Travel Output Prediction",
+    "problem": "[Travel Scenario] a = list(map(int, input().split())) a.sort() - = 1...",
+    "domain": "backend"
+  },
+  {
+    "id": "cd11483d-a8e7-45cc-8c72-3f709ff068da",
+    "title": "Real Estate Optimization",
+    "problem": "[Real Estate Scenario] s1 =  ''.join(map(str, s2))''.join(map(str, s2))''.join(map(str, s2))''.join(map(str, s2))'''.join(m...",
+    "domain": "backend"
+  },
+  {
+    "id": "ca786a89-7c5e-44c3-a028-8c5533730cc4",
+    "title": "Gaming Output Prediction",
+    "problem": "[Gaming Scenario] a) c) d) d) d) d) d ) d ) ) d ) ) ) ) ) d ) ) ) ) ) ) ) )...",
+    "domain": "backend"
+  },
+  {
+    "id": "7e0ab457-b9ec-43ef-b793-e32acd3fb043",
+    "title": "Education Bug Fix",
+    "problem": "[Education Scenario] a=[] for i in range(1,n): a.append(input()) for i in range(n): print(a[i])...",
+    "domain": "backend"
+  },
+  {
+    "id": "15fc7ca0-ca55-47f2-ae3c-ea3392f5cce6",
+    "title": "Social Media Optimization",
+    "problem": "[Social Media Scenario] a = sorted(list(map(int,input().split()))) if a.count('1') > 0: print('1') else: print('1')...",
+    "domain": "backend"
+  },
+  {
+    "id": "3428c834-6943-4230-b986-ecec543d7788",
+    "title": "Healthcare Code Complete",
+    "problem": "[Healthcare Scenario] ns = input() ns.add(ns) ns = 0 for i in range(ns): if ns[i] == \"starter_code\": print(ns.add(ns[i]))...",
+    "domain": "backend"
+  },
+  {
+    "id": "500b299a-8f16-42fb-8785-0ffddf9e2a18",
+    "title": "Finance Bug Fix",
+    "problem": "[Finance Scenario] f=input() n=[] for _ in range(n): id, domain, difficulty, type, title, problem, starter_code, expect...",
+    "domain": "backend"
+  },
+  {
+    "id": "282b7d2a-28e6-405e-b9e0-3e0dad8cc462",
+    "title": "Healthcare Bug Fix",
+    "problem": "[Healthcare Scenario] t=input() res='' if t in elif t in elif t in elif t in elif t in elif t in elif t in elif t in elif ...",
+    "domain": "backend"
+  },
+  {
+    "id": "7c5865c1-a060-4a38-8ad9-f03bdcca00d0",
+    "title": "Smart Home Code Complete",
+    "problem": "[Smart Home Scenario] I=input();res=[] for i in range(1,len(i)): []...",
+    "domain": "backend"
+  },
+  {
+    "id": "b2f372a3-739d-4c96-bb7a-459db8d698c0",
+    "title": "Social Media Optimization",
+    "problem": "[Social Media Scenario] a = [] a.sort() a = [] for i in a: if i not in a: a.append(\"\").remove(\"\",\"\") b = [] for i in a: if i...",
+    "domain": "backend"
+  },
+  {
+    "id": "4125c3d6-ab3c-4c42-8bcc-f361805906b6",
+    "title": "Real Estate Output Prediction",
+    "problem": "[Real Estate Scenario] ####################################################################################################...",
+    "domain": "backend"
+  },
+  {
+    "id": "fe1721c2-0042-4434-bfe8-d748b5811204",
+    "title": "Education Output Prediction",
+    "problem": "[Education Scenario] __author__ = 'Edsetters'...",
+    "domain": "backend"
+  },
+  {
+    "id": "fe06eeed-dd69-493f-a2dc-24ea87825016",
+    "title": "Travel Bug Fix",
+    "problem": "[Travel Scenario] n=input() n.sort() io=0 j=0 n=1 while io+nj io: if io==j: print(\"nnn\") else: print(\"nnn\")...",
+    "domain": "backend"
+  },
+  {
+    "id": "1f3cd3bf-f881-46ff-80a2-52993d30120d",
+    "title": "Real Estate Code Complete",
+    "problem": "[Real Estate Scenario] s=\"\" for _ in range(int(input())): s = input().split() s = s.count(0) for i in range(len(s)): if s[i...",
+    "domain": "backend"
+  },
+  {
+    "id": "2df7a92c-6e4f-408d-8761-d81979a3d304",
+    "title": "Travel Bug Fix",
+    "problem": "[Travel Scenario] json_array_string = input()...",
+    "domain": "backend"
+  },
+  {
+    "id": "d1a54784-2b0e-4555-8dc9-2462e55573dc",
+    "title": "E-commerce Optimization",
+    "problem": "[E-commerce Scenario] s = [['B','C','D','E']]...",
+    "domain": "backend"
+  },
+  {
+    "id": "6c2ee5e6-2973-4028-9aaa-9c6583d88a08",
+    "title": "Smart Home Output Prediction",
+    "problem": "[Smart Home Scenario] s = input()...",
+    "domain": "backend"
+  },
+  {
+    "id": "ecb96c01-d66d-4e09-ab89-e5b670388e29",
+    "title": "Education Output Prediction",
+    "problem": "[Education Scenario] a = [input() for i in range(1,len(a))] a.sort(reverse = True) for i in range(len(a)): if(a[i][0]==a[...",
+    "domain": "backend"
+  },
+  {
+    "id": "2e8ce30c-3647-44ed-92e0-05a5bfcc32d1",
+    "title": "Finance Output Prediction",
+    "problem": "[Finance Scenario] a = input()...",
+    "domain": "backend"
+  },
+  {
+    "id": "33993c70-4682-4764-9457-27014e80b724",
+    "title": "Logistics Output Prediction",
+    "problem": "[Logistics Scenario] id = int(input()) j = [['aap','ba','ca','da','eap'] for a inp in id] for a inp in j.split(' '): j.ap...",
+    "domain": "backend"
+  },
+  {
+    "id": "5c542068-74d9-4056-b70d-1d443e85e48d",
+    "title": "Logistics Bug Fix",
+    "problem": "[Logistics Scenario] if __name__ == \"__main__\": id = input() a = [] for i in a: if i == 0: a.append(i) else: a.append(i) ...",
+    "domain": "backend"
+  },
+  {
+    "id": "39c5b321-d7b0-4dec-b18e-de056aef7673",
+    "title": "Healthcare Output Prediction",
+    "problem": "[Healthcare Scenario] for _ in range(input()): id, domain, difficulty, type, title, problem, starter_code, expected_output...",
+    "domain": "backend"
+  },
+  {
+    "id": "50694a6a-01eb-4672-9765-64dab3a3211b",
+    "title": "Finance Code Complete",
+    "problem": "[Finance Scenario] id...",
+    "domain": "backend"
+  },
+  {
+    "id": "fabb61c9-7589-417b-8dbf-eb570d870696",
+    "title": "Travel Optimization",
+    "problem": "[Travel Scenario] import sys, math, collections, bisect, bisect_left, bisect_right, bisect_right, bisect_right, bisect...",
+    "domain": "backend"
+  },
+  {
+    "id": "389ee572-92e8-4a15-b32a-d63a0b0132b0",
+    "title": "E-commerce Code Complete",
+    "problem": "[E-commerce Scenario] a = sorted(input()) b = sorted(list(map(int, input().split()))) if b == 0: print(b) else: print(b)...",
+    "domain": "backend"
+  },
+  {
+    "id": "f7c95c29-fa8c-4f46-a7bc-0570a22c272b",
+    "title": "Gaming Output Prediction",
+    "problem": "[Gaming Scenario] INF = 10 ** 9 + 10 ** 10...",
+    "domain": "backend"
+  },
+  {
+    "id": "40e703cc-256e-4161-bc86-cdb02b126aa8",
+    "title": "Real Estate Optimization",
+    "problem": "[Real Estate Scenario] if __name__ == '__main__': t = [input()] #id, domain, difficulty, type, title, problem, starter_code...",
+    "domain": "backend"
+  },
+  {
+    "id": "c86ccb20-d535-4d1a-96b2-e685affeddb3",
+    "title": "Finance Bug Fix",
+    "problem": "[Finance Scenario] bool #suel #suel #suel #suel #suel #suel #suel #suel #suel #suel #suel #suel #suel #suel #suel #suel...",
+    "domain": "backend"
+  },
+  {
+    "id": "47c6fcc3-45e4-4b42-9ac9-10c12e6ac04a",
+    "title": "Healthcare Optimization",
+    "problem": "[Healthcare Scenario] g=input().split()...",
+    "domain": "backend"
+  },
+  {
+    "id": "ef619e3f-9f72-4607-8aeb-53fc8a11498d",
+    "title": "Finance Optimization",
+    "problem": "[Finance Scenario] jSON_as = list(map(int, input().split()))...",
+    "domain": "backend"
+  },
+  {
+    "id": "44a90efd-657d-461b-8f6b-467d0e094b32",
+    "title": "Gaming Optimization",
+    "problem": "[Gaming Scenario] a = input() b = a.replace(\"\",\"\") c = a.replace(\"\",\"\") id = 0 for i in range(len(b)): if a[i] == \"\": ...",
+    "domain": "backend"
+  },
+  {
+    "id": "24b86bda-ac74-4e4d-9661-087b1f9baa16",
+    "title": "E-commerce Code Complete",
+    "problem": "[E-commerce Scenario] id = input() j = j.pow(1, j.pow(2, j.pow(2, j.pow(2, j.pow(2, j.pow(1, j.pow(2, j.pow(2, j.pow(2, j....",
+    "domain": "backend"
+  },
+  {
+    "id": "eeda0167-f931-4593-a7f3-a2f3e3c01afe",
+    "title": "Travel Bug Fix",
+    "problem": "[Travel Scenario] id = input() l=['R', '', '', '']...",
+    "domain": "backend"
+  },
+  {
+    "id": "4f52a220-82de-4848-912d-0c2f9ec5e6f8",
+    "title": "Travel Output Prediction",
+    "problem": "[Travel Scenario] g = input() if g == g: print(\"NO\") else: print(g[0]+g[1])...",
+    "domain": "backend"
+  },
+  {
+    "id": "9a691034-d12b-4844-9ff5-aa4476a65cb5",
+    "title": "Smart Home Code Complete",
+    "problem": "[Smart Home Scenario] n = int(input()), n = [input().split()] arr = [int(x) for x in input().split()] for i in range(n): a...",
+    "domain": "backend"
+  },
+  {
+    "id": "eed82116-b676-436e-a624-7cb58f4b5f94",
+    "title": "Logistics Bug Fix",
+    "problem": "[Logistics Scenario] n = 0...",
+    "domain": "backend"
+  },
+  {
+    "id": "2c46673f-fcbb-4366-854e-a11c759feedf",
+    "title": "Travel Bug Fix",
+    "problem": "[Travel Scenario] n = int(input()) if n % 2 == 0: print(''.join(map(str, n))) else: print(''.join(map(str, n))...",
+    "domain": "backend"
+  },
+  {
+    "id": "c90c91a6-4c68-4a88-bccd-46b81629ba8d",
+    "title": "E-commerce Optimization",
+    "problem": "[E-commerce Scenario] import sys input = sys.stdin.readline def main(): return sys.stdin.readline().strip() def main(): re...",
+    "domain": "backend"
+  },
+  {
+    "id": "561208a1-5ef7-42ec-8bdd-a273aa7b980c",
+    "title": "Logistics Code Complete",
+    "problem": "[Logistics Scenario] # Problem id | code_complete | Code_complete | Code_complete | Code_complete | Code_complete | Code_...",
+    "domain": "backend"
+  },
+  {
+    "id": "30f46b4e-f08a-4ecb-84e0-711eed9b4a6b",
+    "title": "Gaming Bug Fix",
+    "problem": "[Gaming Scenario] id...",
+    "domain": "backend"
+  },
+  {
+    "id": "59e5ac33-d091-4d14-9f4a-86c8ba898497",
+    "title": "Social Media Optimization",
+    "problem": "[Social Media Scenario] if __name__ == '__main__': id = input() if __name__ == '__main__': id = input() if __name__ == '__ma...",
+    "domain": "backend"
+  },
+  {
+    "id": "352ca4a1-91e1-48bf-bf2d-e440791d91b4",
+    "title": "Finance Optimization",
+    "problem": "[Finance Scenario] t = ''.join(map(str, input().split())) for i in range(len(t)): if t[i] == '1': continue if t[i] == '...",
+    "domain": "backend"
+  },
+  {
+    "id": "ed2215ce-d676-48e6-8f95-f446c2c6b0e1",
+    "title": "Smart Home Bug Fix",
+    "problem": "[Smart Home Scenario] s = input() l = 0 for i in range(l + 1): if i == 1: l = l + 1 if l == 2: print(\"NO\") continue if l =...",
+    "domain": "backend"
+  },
+  {
+    "id": "e9ede9d3-c0dc-4d58-9f24-f796f48f65a0",
+    "title": "Real Estate Output Prediction",
+    "problem": "[Real Estate Scenario] a=list(map(int, a[0])) b=list(map(int, a[1])) b.sort() e=a[1] l=0 t=0 for i in b: if i==1: t+=1 if b...",
+    "domain": "backend"
+  },
+  {
+    "id": "6f8d5c0a-2efe-4fa5-b14a-4605fc1983bc",
+    "title": "E-commerce Bug Fix",
+    "problem": "[E-commerce Scenario] if __name__ == '__main__': __name___ = '__main__'...",
+    "domain": "backend"
+  },
+  {
+    "id": "19b2d2d2-34bf-4ee0-b687-8fdf542be9bf",
+    "title": "Education Output Prediction",
+    "problem": "[Education Scenario] a = input() b = input()...",
+    "domain": "backend"
+  },
+  {
+    "id": "d418b48b-df33-4364-84ab-616b579ce934",
+    "title": "Finance Output Prediction",
+    "problem": "[Finance Scenario] id...",
+    "domain": "backend"
+  },
+  {
+    "id": "6ac3f5ec-0cfd-4c32-bb02-0359095b4a12",
+    "title": "Finance Output Prediction",
+    "problem": "[Finance Scenario] sys.exit()...",
+    "domain": "backend"
+  },
+  {
+    "id": "78a498bc-d98e-4fe2-a9cc-f529c36418a4",
+    "title": "Smart Home Optimization",
+    "problem": "[Smart Home Scenario] for _ in range(int(input())):...",
+    "domain": "backend"
+  },
+  {
+    "id": "f6abbbd6-fe74-4d84-9b10-51f72497bd3f",
+    "title": "Smart Home Code Complete",
+    "problem": "[Smart Home Scenario] b = map(int, input().split()) for i in range(len(b)): if b[i] == 'No': b[i] = '1' elif b[i] == '0': ...",
+    "domain": "backend"
+  },
+  {
+    "id": "49e23db1-3f36-423c-a560-bdb7591ce896",
+    "title": "E-commerce Optimization",
+    "problem": "[E-commerce Scenario] s=list(map(int,input().split())) print(''.join(map(str,s)))...",
+    "domain": "backend"
+  },
+  {
+    "id": "c498feb4-d958-4a07-af0c-6c5ab93820b9",
+    "title": "Logistics Bug Fix",
+    "problem": "[Logistics Scenario] t = int(input()) if t == t: break if t == t: print(\"YES\") else: print(\"NO\")...",
+    "domain": "backend"
+  },
+  {
+    "id": "4199cd4d-36b1-4534-b1eb-e46798fc2fe1",
+    "title": "Real Estate Code Complete",
+    "problem": "[Real Estate Scenario] n=input()...",
+    "domain": "backend"
+  },
+  {
+    "id": "08c29e4f-096a-4891-8b49-9f9a36354f54",
+    "title": "Travel Bug Fix",
+    "problem": "[Travel Scenario] eds_input = input().split_str('id')....",
+    "domain": "backend"
+  },
+  {
+    "id": "6d777ad7-5108-4c27-ab33-3c4ed69abe2e",
+    "title": "Education Output Prediction",
+    "problem": "[Education Scenario] n=input().split()...",
+    "domain": "backend"
+  },
+  {
+    "id": "adf55efd-41c0-4482-9f5a-18ef15546edd",
+    "title": "Gaming Optimization",
+    "problem": "[Gaming Scenario] id...",
+    "domain": "backend"
+  },
+  {
+    "id": "7dbc7b5a-fc10-4010-b78f-d8f9198136a9",
+    "title": "Education Bug Fix",
+    "problem": "[Education Scenario] #    (     )  .format(' ')  .format(' ') .format(' ')  .format('') print(\"  .format('   .format(' .f...",
+    "domain": "backend"
+  },
+  {
+    "id": "b980a344-3299-4fc7-9d5c-83be3d366ea4",
+    "title": "E-commerce Bug Fix",
+    "problem": "[E-commerce Scenario] n=input()...",
+    "domain": "backend"
+  },
+  {
+    "id": "280403bf-0148-4093-8489-cebc78a25ac2",
+    "title": "Smart Home Optimization",
+    "problem": "[Smart Home Scenario] if __name__ == '__main__': id = input() n = id.index('__main__')//2 j = id.index('__main__')//2 if i...",
+    "domain": "backend"
+  },
+  {
+    "id": "4a8e35e6-5976-433c-969d-61f9451ab963",
+    "title": "Healthcare Output Prediction",
+    "problem": "[Healthcare Scenario] id...",
+    "domain": "backend"
+  },
+  {
+    "id": "e34d14ab-e443-400b-bbd8-b82eb877eb8f",
+    "title": "Smart Home Code Complete",
+    "problem": "[Smart Home Scenario] id = input() t = 0 for i in range(len(t)): if t[i] == \"start_code\" and t[i] == \"start_code\" and t[ii...",
+    "domain": "backend"
+  },
+  {
+    "id": "3a8c40ac-851d-43fd-9603-b344bcc0d0fa",
+    "title": "Gaming Code Complete",
+    "problem": "[Gaming Scenario] d = input().split(\" \") if d.find('a') == '1': print(''.join(map(str, d))) else: print(''.join(map(st...",
+    "domain": "backend"
+  },
+  {
+    "id": "606aac25-3ad9-43de-9303-4df7d090d8a8",
+    "title": "Travel Bug Fix",
+    "problem": "[Travel Scenario] MOD = 10 ** 10 + 7 if id == \"1\": return id + \"1\" print(\"\".join(map(str, input().split())) if id == \"...",
+    "domain": "backend"
+  },
+  {
+    "id": "4d7a6b35-9e6f-4183-87ab-21ecc5c9bf12",
+    "title": "Smart Home Output Prediction",
+    "problem": "[Smart Home Scenario] 1)....",
+    "domain": "backend"
+  },
+  {
+    "id": "3e547a4a-0f18-4f44-a939-651d08c7fda5",
+    "title": "Logistics Output Prediction",
+    "problem": "[Logistics Scenario] if id==0 and id==1: return ['input', 'output', 'input', 'output', 'output'] else: return ['input', '...",
+    "domain": "sql"
+  },
+  {
+    "id": "6ddc28f6-6a75-475e-a417-56cf1ed5badb",
+    "title": "Finance Optimization",
+    "problem": "[Finance Scenario] sys.stdin.readline()...",
+    "domain": "sql"
+  },
+  {
+    "id": "74ef59ee-0ce2-49b7-9813-c373b4afd22a",
+    "title": "E-commerce Optimization",
+    "problem": "[E-commerce Scenario] t=input() if(t==''): print('')...",
+    "domain": "sql"
+  },
+  {
+    "id": "ef4d3c44-9189-4f5d-b887-5cb74ec0b033",
+    "title": "Smart Home Optimization",
+    "problem": "[Smart Home Scenario] s = [] if s[1:].is=='1': s = [] s.sort() if s[0].is.index('1'): s.sort() if s[0].is.index('1'): s.so...",
+    "domain": "sql"
+  },
+  {
+    "id": "c13ed8d4-a5aa-43e5-88c6-b62993a2fc50",
+    "title": "Gaming Output Prediction",
+    "problem": "[Gaming Scenario] a=input()...",
+    "domain": "sql"
+  },
+  {
+    "id": "735cab2d-0c5d-433b-bb5e-203eacf6abf1",
+    "title": "Finance Optimization",
+    "problem": "[Finance Scenario] n=input()...",
+    "domain": "sql"
+  },
+  {
+    "id": "4919214f-f943-4cbc-897a-d3bf54a524cf",
+    "title": "Healthcare Output Prediction",
+    "problem": "[Healthcare Scenario] n=input().split(\" \") n=int(n) n=n.index(\"n\") if n.index(\"n\")==0: print(\"YES\") else: print(\"NO\")...",
+    "domain": "sql"
+  },
+  {
+    "id": "1788382c-75f6-4317-b6d4-cf6d70aa0173",
+    "title": "Gaming Optimization",
+    "problem": "[Gaming Scenario] id = input() a = list(map(int, input().split())) b = [] for i in b: if i == 'a' and i == 'b': b.appe...",
+    "domain": "sql"
+  },
+  {
+    "id": "84e80bca-5446-443a-a53a-617e9deed65b",
+    "title": "Finance Output Prediction",
+    "problem": "[Finance Scenario] s = input()...",
+    "domain": "sql"
+  },
+  {
+    "id": "a3d0ceeb-bb70-4e3f-9f88-ba300b6fbfca",
+    "title": "Finance Optimization",
+    "problem": "[Finance Scenario] import sys input = sys.stdin.readline if __name__ == '__main__': id = input() n = id if n  n: print(...",
+    "domain": "sql"
+  },
+  {
+    "id": "4c870720-00de-46a2-bdb3-f211a79f6960",
+    "title": "Social Media Optimization",
+    "problem": "[Social Media Scenario] if __name__ == '__main__': if __name__ == '__main__': print (\"\"\".join(map(str, input().split())) if ...",
+    "domain": "sql"
+  },
+  {
+    "id": "7299e4a3-4d68-496a-8aa1-75814ad7f818",
+    "title": "Education Bug Fix",
+    "problem": "[Education Scenario] s = None...",
+    "domain": "sql"
+  },
+  {
+    "id": "5367f527-f527-459b-90a6-1403fbec0dcd",
+    "title": "Social Media Optimization",
+    "problem": "[Social Media Scenario] a=input()...",
+    "domain": "sql"
+  },
+  {
+    "id": "d4f269c6-c7ef-4fbb-8d47-15ef899c6492",
+    "title": "Smart Home Code Complete",
+    "problem": "[Smart Home Scenario] n = int(input()) d = input() for x in d: if x == '0': print(x) continue...",
+    "domain": "sql"
+  },
+  {
+    "id": "fc0069ef-3da1-43f6-a146-17922576b140",
+    "title": "Real Estate Optimization",
+    "problem": "[Real Estate Scenario] s = input()...",
+    "domain": "sql"
+  },
+  {
+    "id": "7a1b7f13-bdec-47bd-a9a8-d6ac67e1fb45",
+    "title": "Finance Bug Fix",
+    "problem": "[Finance Scenario] n=input() if n==1 and n==2: print(''.join(map(str, n))) else: print(''.join(map(str, n)))...",
+    "domain": "sql"
+  },
+  {
+    "id": "c8353fec-451f-421f-a105-14a3ef3258fb",
+    "title": "Logistics Output Prediction",
+    "problem": "[Logistics Scenario] import sys import math import random import bisect import os, sys import collections import sys from...",
+    "domain": "sql"
+  },
+  {
+    "id": "d441eaa7-fb71-42ce-bb43-ae17ad06716f",
+    "title": "Logistics Bug Fix",
+    "problem": "[Logistics Scenario] import sys input = sys.stdin.readline json = sys.stdin.readline().strip().split() json.sort() if jso...",
+    "domain": "sql"
+  },
+  {
+    "id": "8d2b26a4-dbaf-4daa-b638-823b985b2fd5",
+    "title": "Finance Output Prediction",
+    "problem": "[Finance Scenario] jSON_array with exactly one object for a easy sql programming challenge about Finance targeting outp...",
+    "domain": "sql"
+  },
+  {
+    "id": "fa7da8cf-6f5b-4e6f-b059-15edca14a480",
+    "title": "Education Optimization",
+    "problem": "[Education Scenario] if __name__ == '__main__': nums = int(input())...",
+    "domain": "sql"
+  },
+  {
+    "id": "ed5787f5-31ea-44e3-8280-0695c95262a8",
+    "title": "E-commerce Output Prediction",
+    "problem": "[E-commerce Scenario] s = input()...",
+    "domain": "sql"
+  },
+  {
+    "id": "95f3ebe5-d522-4bcb-8343-339d5fd4fc5b",
+    "title": "Gaming Bug Fix",
+    "problem": "[Gaming Scenario] n = int(input()) s = sorted(n) for _ in range(n): num = s.count('0') if num == '1': n = num + num re...",
+    "domain": "sql"
+  },
+  {
+    "id": "e6e5cad4-f7dd-4e20-9c6a-329f1bb978c6",
+    "title": "Gaming Optimization",
+    "problem": "[Gaming Scenario] if __name__ == '__main__': print(\"no______\"%(no_______)) else: print(\"no____\"%(no_____))...",
+    "domain": "sql"
+  },
+  {
+    "id": "0bd8744c-af1b-4225-bae6-6e3cdfd595a7",
+    "title": "Healthcare Code Complete",
+    "problem": "[Healthcare Scenario] s = input() js = [0] * js.split(' ') s = js.split(' ') js.sort() js.sort() js.sort() for i in range(...",
+    "domain": "sql"
+  },
+  {
+    "id": "176e9780-6f5f-4189-b259-d13fa6a0d9b4",
+    "title": "E-commerce Code Complete",
+    "problem": "[E-commerce Scenario] f=list(map(int,input().split()))...",
+    "domain": "sql"
+  },
+  {
+    "id": "393b6f01-fa2a-4cfd-a25c-131872230269",
+    "title": "Travel Code Complete",
+    "problem": "[Travel Scenario] a = int(input()) b = int(input()) l = list(map(str,input().split())) c = [] x = sorted(a) for i in r...",
+    "domain": "sql"
+  },
+  {
+    "id": "ba65cc9d-4760-4db5-91d2-5bc7804048bf",
+    "title": "Finance Optimization",
+    "problem": "[Finance Scenario] 0...",
+    "domain": "sql"
+  },
+  {
+    "id": "30f2c512-eb71-4823-b93e-1bbb70441d61",
+    "title": "Real Estate Code Complete",
+    "problem": "[Real Estate Scenario] s=sorted(list(map(int, input().split())))...",
+    "domain": "sql"
+  },
+  {
+    "id": "97b6e35c-d338-49d3-952c-f886ea50f89e",
+    "title": "Gaming Bug Fix",
+    "problem": "[Gaming Scenario] a = [] a.sort() id = 0 b = 0 for i in a: if i == 0: if i == 0: b = i + 1 if i != 0: if i == 0: b = i...",
+    "domain": "sql"
+  },
+  {
+    "id": "c9c0da4a-40a5-4891-be2e-5ee36a2b7457",
+    "title": "Smart Home Optimization",
+    "problem": "[Smart Home Scenario] # -*- coding: utf-8 -*- \"\"\" Created on Tue Dec 26 17:29:29 2020 @author: sabik \"\"\" Created on Tue De...",
+    "domain": "sql"
+  },
+  {
+    "id": "fdf9edfd-4390-419f-8334-031dd7d06201",
+    "title": "E-commerce Code Complete",
+    "problem": "[E-commerce Scenario] a=input()...",
+    "domain": "sql"
+  },
+  {
+    "id": "eda79fae-733f-4435-afc1-57de666bdb33",
+    "title": "Education Optimization",
+    "problem": "[Education Scenario] id = list(map(int, input().split()))...",
+    "domain": "sql"
+  },
+  {
+    "id": "e7871a9d-5752-436f-b6e7-dbb97d66e281",
+    "title": "Gaming Bug Fix",
+    "problem": "[Gaming Scenario] n=input();return n%2;s=n%2;return n//2;return n//5;return n//2;s=n//2;s=n//2;return n//2;s=n//2;s=n/...",
+    "domain": "sql"
+  },
+  {
+    "id": "82cebd54-9224-48ee-a5be-09c06fc06194",
+    "title": "Finance Output Prediction",
+    "problem": "[Finance Scenario] ####################################################################################################...",
+    "domain": "sql"
+  },
+  {
+    "id": "067d6cd2-42bf-4b76-8678-2376991a00da",
+    "title": "Healthcare Output Prediction",
+    "problem": "[Healthcare Scenario] # -*- coding: utf-8 -*- \"\"\" Created on Tue Oct 22 20:50:46 2020 @author: Nigge No. \"\"\"...",
+    "domain": "sql"
+  },
+  {
+    "id": "15db8e2b-fb53-4d33-8cae-4221eb985456",
+    "title": "Healthcare Bug Fix",
+    "problem": "[Healthcare Scenario] ####################################################################################################...",
+    "domain": "sql"
+  },
+  {
+    "id": "3592613d-4a53-4480-a24c-e17a25731182",
+    "title": "Finance Optimization",
+    "problem": "[Finance Scenario] n = int(input()) a = [0] * n for i in range(101): a[input()] = a[0] * n d = 0 while True: if a[a[i] ...",
+    "domain": "sql"
+  },
+  {
+    "id": "b9aeec9a-798b-49d0-830b-b9b6bafd0229",
+    "title": "Gaming Optimization",
+    "problem": "[Gaming Scenario] a = [input()] b = [0]*(len(b)) if a[0] != a[0]: b.append(a[1]) elif b[1] != a[1]: b.append(a[1]) eli...",
+    "domain": "sql"
+  },
+  {
+    "id": "ad64755b-61d9-458a-9aa7-1c524c1a62f6",
+    "title": "Finance Bug Fix",
+    "problem": "[Finance Scenario] t=input()...",
+    "domain": "sql"
+  },
+  {
+    "id": "8e01524a-479f-4f0d-bb81-6ca4d75e083a",
+    "title": "Logistics Bug Fix",
+    "problem": "[Logistics Scenario] id = int(input()) ; j = int(input()) ; s = [] ; s = [] ; s = [] ; s.append(s) ; s.append(s) ; s.pop(...",
+    "domain": "sql"
+  },
+  {
+    "id": "d3c3126d-9e36-47b9-9074-5ef83c162f2b",
+    "title": "Real Estate Code Complete",
+    "problem": "[Real Estate Scenario] t = 0 n = int(input()) if n == 3: print(n) else: ans = [] for i in range(n): m = n % 3 if m == 0: if...",
+    "domain": "sql"
+  },
+  {
+    "id": "e837f800-2133-4c8d-94ec-0bf088fb30fb",
+    "title": "Education Bug Fix",
+    "problem": "[Education Scenario] a=[] for _ in range(int(input())): a.append(list(map(int,input().split()))) a.sort() b=['','','','',...",
+    "domain": "sql"
+  },
+  {
+    "id": "14d8ffc4-9b60-43ce-8e97-0f79934683dd",
+    "title": "Real Estate Bug Fix",
+    "problem": "[Real Estate Scenario] 0...",
+    "domain": "sql"
+  },
+  {
+    "id": "ca710148-0a74-4e25-a45c-5190c4ee10f9",
+    "title": "Education Optimization",
+    "problem": "[Education Scenario] n = int(input()) print(\"\".join(map(str, int(input()))))...",
+    "domain": "sql"
+  },
+  {
+    "id": "79cd2967-6fcd-42d5-82df-e7b5e1d6cc4b",
+    "title": "Logistics Optimization",
+    "problem": "[Logistics Scenario] id = input() j = [[0]*(2*j) for j in j] for i in range(len(j)): id = input() j.append(j[j:id]) j.app...",
+    "domain": "sql"
+  },
+  {
+    "id": "3efb32d8-5b62-4165-8ad5-a6e2dd7f5270",
+    "title": "Education Code Complete",
+    "problem": "[Education Scenario] n = int(input()) a = list(map(int, input().split())) if n ==1: break...",
+    "domain": "sql"
+  },
+  {
+    "id": "4f914013-6d35-40bf-805c-2e6e12efae91",
+    "title": "Gaming Bug Fix",
+    "problem": "[Gaming Scenario] import sys from collections import defaultdict as dd from bisect import bisect_left as dd_right from...",
+    "domain": "sql"
+  },
+  {
+    "id": "12ebaebb-f355-4a24-8019-925d54d85d0b",
+    "title": "E-commerce Bug Fix",
+    "problem": "[E-commerce Scenario] n=input()...",
+    "domain": "sql"
+  },
+  {
+    "id": "e8c155f1-4bd7-4c29-a661-c20e81c8ce1e",
+    "title": "Travel Optimization",
+    "problem": "[Travel Scenario] q = '0:0:0:0:0:0':0:0:0:1:0:0:0:0:0':format(input()) s = ''.join(map(str,s)) if s == '':print(s) eli...",
+    "domain": "sql"
+  },
+  {
+    "id": "cc6ff114-5304-4edf-8ac7-92239f07a1fb",
+    "title": "Finance Code Complete",
+    "problem": "[Finance Scenario] # -*- coding: utf-8 -*- \"\"\" Created on Wed Aug 11 8:49:50 2020 @author: \"Theron\"\"...",
+    "domain": "sql"
+  },
+  {
+    "id": "01c08d35-a8d7-4209-a9c5-26486fdaa71a",
+    "title": "E-commerce Bug Fix",
+    "problem": "[E-commerce Scenario] s = input().split() id = 0 j = 1...",
+    "domain": "sql"
+  },
+  {
+    "id": "7a7be437-8f9a-46d8-bd4f-d4ebd981d2e2",
+    "title": "Education Code Complete",
+    "problem": "[Education Scenario] n = 0...",
+    "domain": "sql"
+  },
+  {
+    "id": "e5d105da-23b7-4d61-9be2-bd5b68947a55",
+    "title": "Travel Bug Fix",
+    "problem": "[Travel Scenario] n = int(input()) if n == 1: print(\"Range\") else: print(\"JSON\")...",
+    "domain": "sql"
+  },
+  {
+    "id": "e11c1e7c-0e3c-4aba-b16d-c9aa78abef39",
+    "title": "Smart Home Output Prediction",
+    "problem": "[Smart Home Scenario] s=\"\" for _ in range(input()): s=\"\" for i in range(int(input())): s=\"\" for i in range(len(s)): if s =...",
+    "domain": "sql"
+  },
+  {
+    "id": "a8e319a1-4f48-4039-806c-2ab7910c43b9",
+    "title": "Healthcare Code Complete",
+    "problem": "[Healthcare Scenario] ANSWERED_BY_FOR_INFALSE...",
+    "domain": "sql"
+  },
+  {
+    "id": "6dce19e1-0818-47c5-98fa-b585fee3d184",
+    "title": "Education Code Complete",
+    "problem": "[Education Scenario] ...",
+    "domain": "sql"
+  },
+  {
+    "id": "4d0c9cf7-1e31-43a2-9c11-a285a57867b7",
+    "title": "Social Media Bug Fix",
+    "problem": "[Social Media Scenario] a = sorted(list(map(int,input().split()))) if a == 0: print(\"YES\") else: print(\"NO\")...",
+    "domain": "sql"
+  },
+  {
+    "id": "2328d1ca-1582-4d80-9b60-254af2e3510c",
+    "title": "Finance Output Prediction",
+    "problem": "[Finance Scenario] id...",
+    "domain": "sql"
+  },
+  {
+    "id": "f38167d1-6166-4030-85c5-953196d50876",
+    "title": "Education Bug Fix",
+    "problem": "[Education Scenario] id...",
+    "domain": "sql"
+  },
+  {
+    "id": "fb5fecb2-15d9-488c-918b-e7cc0bd11402",
+    "title": "Gaming Code Complete",
+    "problem": "[Gaming Scenario] if __name__ == '__main__': for i in range(len(i)): id = i//i if i == 0: break else: break...",
+    "domain": "sql"
+  },
+  {
+    "id": "c2fedac0-5f60-49e5-93ce-ca6c9615f56b",
+    "title": "Real Estate Optimization",
+    "problem": "[Real Estate Scenario] a = [] for i in range(0,len(a)): a.append(input()) for i in range(0,len(a)): if a[i] == '1': a.appen...",
+    "domain": "sql"
+  },
+  {
+    "id": "f1b81915-661a-40c6-ad1f-f0723cf334ee",
+    "title": "Education Bug Fix",
+    "problem": "[Education Scenario] n = []...",
+    "domain": "sql"
+  },
+  {
+    "id": "c8bbbdd5-982d-40eb-8055-729dec638f44",
+    "title": "Logistics Code Complete",
+    "problem": "[Logistics Scenario] id = int(input()) j = [] for _ in range(j): id = input() j.append(id) j.append(j) j.append(j) j.appe...",
+    "domain": "sql"
+  },
+  {
+    "id": "caaeeed7-dd00-4397-b732-ba6259af4cfe",
+    "title": "Travel Output Prediction",
+    "problem": "[Travel Scenario] s=[] for _ in range(int(input())): s.append([]) for _ in range(int(input())): s.append([]) for _ in ...",
+    "domain": "sql"
+  },
+  {
+    "id": "bcfb0975-8b67-4c2b-8e02-24c0424d87b2",
+    "title": "Gaming Output Prediction",
+    "problem": "[Gaming Scenario] # -*- coding: utf-8 -*- \"\"\" Created on March 13, 2014, in HTML, a ''\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"...",
+    "domain": "sql"
+  },
+  {
+    "id": "2f62cb7b-aa74-467b-a100-b7c48ec7cd75",
+    "title": "Gaming Output Prediction",
+    "problem": "[Gaming Scenario] nst1 = int(input()) nst2 = int(input()) if nst2 == nst2: print(nst2) else: print(\"NO\")...",
+    "domain": "sql"
+  },
+  {
+    "id": "ca03b47f-8ac7-43bc-bf47-e17fb9ef5b5b",
+    "title": "Smart Home Code Complete",
+    "problem": "[Smart Home Scenario] if __name__ == '__main__':...",
+    "domain": "sql"
+  },
+  {
+    "id": "02b71442-d996-4ed5-9252-ab19c3644572",
+    "title": "Real Estate Bug Fix",
+    "problem": "[Real Estate Scenario] id = 0...",
+    "domain": "sql"
+  },
+  {
+    "id": "2950a4d0-20fc-4e83-b9f0-7dd96102f768",
+    "title": "Social Media Bug Fix",
+    "problem": "[Social Media Scenario] s = input()...",
+    "domain": "sql"
+  },
+  {
+    "id": "80235b7f-2a05-4c2e-836f-3168e2356fa1",
+    "title": "Social Media Code Complete",
+    "problem": "[Social Media Scenario] if __name__ == '__main__'...",
+    "domain": "sql"
+  },
+  {
+    "id": "f1fccd6b-1533-4436-9175-1f9208c8e659",
+    "title": "Social Media Output Prediction",
+    "problem": "[Social Media Scenario] t=input()...",
+    "domain": "sql"
+  },
+  {
+    "id": "c47136f3-19bb-41f2-9d7a-9caab48bde58",
+    "title": "Real Estate Optimization",
+    "problem": "[Real Estate Scenario] s = [input() for _ in range(int(input())) for _ in range(int(input())) for _ in range(int(input()))]...",
+    "domain": "sql"
+  },
+  {
+    "id": "c4409bb6-80e8-4e58-8340-b99a7268ba4a",
+    "title": "Smart Home Code Complete",
+    "problem": "[Smart Home Scenario] n = int(input()) # s = input() n = int(n+1) n = int(n+1) n = int(n+1) n = int(n+1) n = int(n+1) n = ...",
+    "domain": "sql"
+  },
+  {
+    "id": "07352cbb-19c1-429c-b1cc-2b6672f8523f",
+    "title": "Healthcare Optimization",
+    "problem": "[Healthcare Scenario] X = input() x = sorted(map(int, x).split()) l = 0 for i in x: if i%2==0: l += 1 if i%2==0: print('Ye...",
+    "domain": "sql"
+  },
+  {
+    "id": "59c9c201-f5b4-4d82-967a-09b2a3570bd9",
+    "title": "Finance Optimization",
+    "problem": "[Finance Scenario] id = ''.join(map(str, input())) if id > 0 and id > 0: print(''.join(map(str, input()))) exit()...",
+    "domain": "sql"
+  },
+  {
+    "id": "60f53e90-6776-432e-84c4-6ca6cb4f579b",
+    "title": "Gaming Bug Fix",
+    "problem": "[Gaming Scenario] id...",
+    "domain": "sql"
+  },
+  {
+    "id": "1a7e61f6-b345-4732-8bfd-163e19ab0389",
+    "title": "Real Estate Output Prediction",
+    "problem": "[Real Estate Scenario] j = input() a = [] b = [] for i in range(len(a)): if a[i] == '0': if a[i] == '1': b.append(i) else: ...",
+    "domain": "sql"
+  },
+  {
+    "id": "8a867e5b-9690-4a8f-aa21-2aa096f1545e",
+    "title": "Gaming Bug Fix",
+    "problem": "[Gaming Scenario] s=[] for i in range(len(s)): s.append([s[:_int(i) for i in range(len(s))]) if s[i][0]=='': print('')...",
+    "domain": "sql"
+  },
+  {
+    "id": "b04d71c0-50c5-4148-8848-b0981ffe5cb7",
+    "title": "Social Media Bug Fix",
+    "problem": "[Social Media Scenario] joes json=[] for _ in range(int(input())): id=json[0] json.append(id) for _ in range(int(id)): joes=...",
+    "domain": "sql"
+  },
+  {
+    "id": "ebd692f4-da05-45f3-bced-b491d873e8be",
+    "title": "Healthcare Code Complete",
+    "problem": "[Healthcare Scenario] a = [] for i in range(len(a)): a.append(list(map(int,input().split()))) n = 0 for i in range(len(a))...",
+    "domain": "sql"
+  },
+  {
+    "id": "68e513ff-0037-476d-8324-74ceb61e0435",
+    "title": "Logistics Optimization",
+    "problem": "[Logistics Scenario] id...",
+    "domain": "sql"
+  },
+  {
+    "id": "51e78aef-c668-4a59-88c4-ccba9e76e7b6",
+    "title": "E-commerce Code Complete",
+    "problem": "[E-commerce Scenario] s=input()...",
+    "domain": "sql"
+  },
+  {
+    "id": "d7c973a3-0242-4024-a081-02136774e95b",
+    "title": "Social Media Optimization",
+    "problem": "[Social Media Scenario] if __name__ == \"__main__\": if __name__ == \"__main__\": if __name__ == \"__main__\": if __name__ == \"__m...",
+    "domain": "sql"
+  },
+  {
+    "id": "6a251b9a-f714-4f97-8300-1038a86f9938",
+    "title": "Healthcare Optimization",
+    "problem": "[Healthcare Scenario] sys.setrecursionlimit(10 ** 9) js = [] for i in range(len(sys.stdin)): lst = [0] * (len(sys.stdin) f...",
+    "domain": "sql"
+  },
+  {
+    "id": "d7fea720-8142-49e1-87d7-4cebfaae55b6",
+    "title": "Smart Home Output Prediction",
+    "problem": "[Smart Home Scenario] id...",
+    "domain": "sql"
+  },
+  {
+    "id": "76cfe60f-12ba-4a45-94af-c9191757730f",
+    "title": "Finance Code Complete",
+    "problem": "[Finance Scenario] id, domain_index, difficulty, type, title, problem, starter_code, expected_output, test_cases...",
+    "domain": "sql"
+  },
+  {
+    "id": "b0eb0716-74f0-47a6-9a1c-764d7a0875b9",
+    "title": "Healthcare Bug Fix",
+    "problem": "[Healthcare Scenario] id...",
+    "domain": "sql"
+  },
+  {
+    "id": "99bfa0ac-46f2-42fd-82f7-1ca4f727a9e4",
+    "title": "E-commerce Bug Fix",
+    "problem": "[E-commerce Scenario] import sys input=sys.stdin.readline if __name__==\"__main__\": print(sys.stdin.readline()) else: print...",
+    "domain": "sql"
+  },
+  {
+    "id": "d87bafee-9e0e-45af-b251-946385f772ce",
+    "title": "Social Media Code Complete",
+    "problem": "[Social Media Scenario] if __name__ == \"__main__\": E-mail if __name__ == \"__main__\": E-mail if __name__ == \"__main__\": E-mai...",
+    "domain": "sql"
+  },
+  {
+    "id": "02c352b4-7d42-4dff-894e-13f003bc8cac",
+    "title": "Travel Output Prediction",
+    "problem": "[Travel Scenario] id...",
+    "domain": "sql"
+  },
+  {
+    "id": "41b18ca6-b9de-4f40-bf87-e54cdedd55b7",
+    "title": "Travel Code Complete",
+    "problem": "[Travel Scenario] # Use the following method: s=list(map(int,input().split())) s=list(s); s=list(s): if s==1: print(''...",
+    "domain": "sql"
+  },
+  {
+    "id": "f69acdc2-1d39-4dca-8a17-f0b2ecd31d6f",
+    "title": "Finance Optimization",
+    "problem": "[Finance Scenario] n = int(input()) n = int(input()) if n == 1: print(\"YES\") else: print(\"OUTREACH\" if n == 1 else \"NO\"...",
+    "domain": "sql"
+  },
+  {
+    "id": "68ce46f2-6b56-48fa-91be-80f1f8185140",
+    "title": "E-commerce Output Prediction",
+    "problem": "[E-commerce Scenario] a = list(map(int, input().split()))...",
+    "domain": "sql"
+  },
+  {
+    "id": "f2f23f9f-5516-4f0a-a87f-c731869bb872",
+    "title": "Logistics Bug Fix",
+    "problem": "[Logistics Scenario] A = [] for i in range(1,n): a = input() b = list(a) cnt = 0 for i in range(n): if i not in b: if cnt...",
+    "domain": "sql"
+  },
+  {
+    "id": "e4bd516d-9de0-471b-b493-b68ec9fa796d",
+    "title": "Smart Home Code Complete",
+    "problem": "[Smart Home Scenario] def main(): a = sorted(list(map(int, input().split()))) if a.count('1') == a.count('0'): return 'NO'...",
+    "domain": "sql"
+  },
+  {
+    "id": "35fa6d97-aea9-42a3-8e21-1f8eaa605168",
+    "title": "Healthcare Optimization",
+    "problem": "[Healthcare Scenario] id...",
+    "domain": "sql"
+  },
+  {
+    "id": "458a6c16-4321-4fae-9648-abe13a66ef37",
+    "title": "Finance Output Prediction",
+    "problem": "[Finance Scenario] import sys input=sys.stdin.readline...",
+    "domain": "sql"
+  },
+  {
+    "id": "76e16684-9fc8-4bae-8a78-2b3b54fd2103",
+    "title": "Education Code Complete",
+    "problem": "[Education Scenario] t=list(input()) if t.count('D')==t: print('') else: print('')...",
+    "domain": "sql"
+  },
+  {
+    "id": "2d5e9e6f-1a00-499b-9eb0-c355e048379e",
+    "title": "Real Estate Optimization",
+    "problem": "[Real Estate Scenario] d = input() d = '' if d == '': print('') else: print('')...",
+    "domain": "sql"
+  },
+  {
+    "id": "0d8e0e0d-41ee-4ae5-b634-92fcb094c280",
+    "title": "Gaming Output Prediction",
+    "problem": "[Gaming Scenario] id...",
+    "domain": "sql"
+  },
+  {
+    "id": "10d813c3-6ae0-49eb-b342-a6dfeefadcc2",
+    "title": "Logistics Bug Fix",
+    "problem": "[Logistics Scenario] l = input().split() l = l.solve() k = l.solve() if k == l.solve(): print(\"nn\") elif k == l.solve(): ...",
+    "domain": "debugging"
+  },
+  {
+    "id": "22c5a414-7029-433f-8240-26f60b774b16",
+    "title": "Education Bug Fix",
+    "problem": "[Education Scenario] t=input()...",
+    "domain": "debugging"
+  },
+  {
+    "id": "914fd6e5-1414-4339-9ab3-53bd2180aab9",
+    "title": "Logistics Bug Fix",
+    "problem": "[Logistics Scenario] d = 'a':','b':','c':','d':','e':','s':','a':','d':','d':','a':','b':','b':','a':','b':','b':','c':',...",
+    "domain": "debugging"
+  },
+  {
+    "id": "e2d1286a-9998-4a93-9a0b-b88e37d50ea4",
+    "title": "Travel Code Complete",
+    "problem": "[Travel Scenario] n=input() n=n for _ in range(n): id, domain, difficulty, type, title, problem, starter_code, expecte...",
+    "domain": "debugging"
+  },
+  {
+    "id": "2c9ec933-d003-47c4-85cc-5abd311e94e5",
+    "title": "Finance Bug Fix",
+    "problem": "[Finance Scenario] if __name__ == \"__main__\": t = input() elif t == \"__main__\": t = input() elif t == \"__main__\": t = i...",
+    "domain": "debugging"
+  },
+  {
+    "id": "1b9bdf50-8776-4e60-ac17-710141016538",
+    "title": "Finance Bug Fix",
+    "problem": "[Finance Scenario] if __name__ == '__main__': a = [input() for _ in range(1, 0)] for i in range(0, n): if not i in a: c...",
+    "domain": "debugging"
+  },
+  {
+    "id": "a1b39434-9430-47fc-99d0-7d98dcbe9093",
+    "title": "Social Media Output Prediction",
+    "problem": "[Social Media Scenario] I=input().split()...",
+    "domain": "debugging"
+  },
+  {
+    "id": "53a5135d-b2b1-441e-af94-8def845c7033",
+    "title": "Education Code Complete",
+    "problem": "[Education Scenario] if __name__==\"__main__\": d = int(input()) # d = list(map(int, input().split())) # d.sort() # d = lis...",
+    "domain": "debugging"
+  },
+  {
+    "id": "dc21a8a4-cf77-4e5a-9b0c-1f82fcd5b6fc",
+    "title": "Real Estate Output Prediction",
+    "problem": "[Real Estate Scenario] __author__ = 'non'...",
+    "domain": "debugging"
+  },
+  {
+    "id": "e5da954b-da20-4af5-b6a1-ddd0e7c8d593",
+    "title": "E-commerce Code Complete",
+    "problem": "[E-commerce Scenario] sys.exit()...",
+    "domain": "debugging"
+  },
+  {
+    "id": "eefa161e-3909-4dfe-ace5-fb666d2f1d34",
+    "title": "E-commerce Code Complete",
+    "problem": "[E-commerce Scenario] a.list(map(int,input().split()))...",
+    "domain": "debugging"
+  },
+  {
+    "id": "35daf6c2-e059-46df-a148-6a615344880e",
+    "title": "Travel Code Complete",
+    "problem": "[Travel Scenario] id=input() j=0 for i in range(len(j)): if j[i]==j[0]: j+=1 elif j[i]==j[0]: j+=1 elif j[i]==j[1]: j+...",
+    "domain": "debugging"
+  },
+  {
+    "id": "93005a3f-8f64-41c7-9dcc-c1e44c53a7c1",
+    "title": "Logistics Optimization",
+    "problem": "[Logistics Scenario] id...",
+    "domain": "debugging"
+  },
+  {
+    "id": "53e3f832-e82e-4001-b002-89adf3d01f38",
+    "title": "Logistics Bug Fix",
+    "problem": "[Logistics Scenario] if __name__ == '__main__': elif __name__ == '__main__': elif __name__ == '__main__': elif __name__ =...",
+    "domain": "debugging"
+  },
+  {
+    "id": "8a0134fe-46b6-4c7c-abe0-db27cb04cc4a",
+    "title": "Gaming Optimization",
+    "problem": "[Gaming Scenario] if __name__ == '__main__': if __name__ == '__main__': id = '__main__' for i in __main__: if __name__...",
+    "domain": "debugging"
+  },
+  {
+    "id": "1632cc3f-fb6c-46df-b976-8d6b2045ec75",
+    "title": "Healthcare Code Complete",
+    "problem": "[Healthcare Scenario] num=input()...",
+    "domain": "debugging"
+  },
+  {
+    "id": "5f12c8cb-56c1-4ba2-a651-2f4a4e176fee",
+    "title": "Smart Home Optimization",
+    "problem": "[Smart Home Scenario] id = 0...",
+    "domain": "debugging"
+  },
+  {
+    "id": "9558bbb0-21af-49ca-9ca9-a8ced800c830",
+    "title": "Travel Optimization",
+    "problem": "[Travel Scenario] n=input()...",
+    "domain": "debugging"
+  },
+  {
+    "id": "49dc9e83-8fa4-48fd-b678-7070d79eb604",
+    "title": "Healthcare Bug Fix",
+    "problem": "[Healthcare Scenario] EXPECTATION_CREW._MAX_BUD_BUD_PRODUCTION_QUESTIONS_NUMBER_INFINE.DONE...",
+    "domain": "debugging"
+  },
+  {
+    "id": "c446da4c-95cd-4b95-bcbe-db1283a86e1a",
+    "title": "Education Bug Fix",
+    "problem": "[Education Scenario] id...",
+    "domain": "debugging"
+  },
+  {
+    "id": "4bcdb7b3-9273-4557-9f94-5527f7623914",
+    "title": "Social Media Code Complete",
+    "problem": "[Social Media Scenario] \"\"\" Created by stdout.com: Code_Content.\"\"\"\"\" Created by str>stdout.com: Code_Content.\"\"\"\"\"\"\"\"\"\"\"\"\"\"...",
+    "domain": "debugging"
+  },
+  {
+    "id": "a381ab5d-c68e-4e72-9b6d-16a56ac6f0b8",
+    "title": "Travel Optimization",
+    "problem": "[Travel Scenario] id...",
+    "domain": "debugging"
+  },
+  {
+    "id": "58b86a32-0c63-472f-a3a9-a147ff5930d8",
+    "title": "Logistics Optimization",
+    "problem": "[Logistics Scenario] if __name__ == '__main__': print(\"Address\");print(\"Test_cases\") else: print(\"\");...",
+    "domain": "debugging"
+  },
+  {
+    "id": "d8100f58-8daa-476a-ae43-c6095080d00b",
+    "title": "Education Code Complete",
+    "problem": "[Education Scenario] n=input()...",
+    "domain": "debugging"
+  },
+  {
+    "id": "19f05d13-2eb3-428c-9b1c-c514c926937f",
+    "title": "Travel Optimization",
+    "problem": "[Travel Scenario] import sys t=input() sys.stdin.readline().strip() t=t.count(\"Like\",\"Under the Skin\",\"Are you happy?\"...",
+    "domain": "debugging"
+  },
+  {
+    "id": "a2f3e181-be74-4546-b1f8-a0ecc9c26a9e",
+    "title": "Social Media Code Complete",
+    "problem": "[Social Media Scenario] id...",
+    "domain": "debugging"
+  },
+  {
+    "id": "12161997-fe35-4ba6-8e24-b5a988d4de59",
+    "title": "Finance Code Complete",
+    "problem": "[Finance Scenario] ####################################################################################################...",
+    "domain": "debugging"
+  },
+  {
+    "id": "31651c77-5fe6-490b-bb5a-5081a58afa32",
+    "title": "Travel Output Prediction",
+    "problem": "[Travel Scenario] id = input() a = [0,0,0,0,0,0,0,0] a = [0,0,0,0,0,0,0] a = [0,0,0,0,0,0] a.sort() a[1] = a[0] if id ...",
+    "domain": "debugging"
+  },
+  {
+    "id": "c0c91695-d8c1-430e-9c9d-176d743b6a72",
+    "title": "Logistics Output Prediction",
+    "problem": "[Logistics Scenario] a = input() a.sort() b = input() c = a.count('0') a.sort() c = a.count('1') a.sort() c = a.count('1'...",
+    "domain": "debugging"
+  },
+  {
+    "id": "b7f8a90f-6be4-41e9-bff7-0558c6980476",
+    "title": "Gaming Output Prediction",
+    "problem": "[Gaming Scenario] a = dict()...",
+    "domain": "debugging"
+  },
+  {
+    "id": "adf1181b-be1b-4557-b395-320abd6f2166",
+    "title": "Gaming Code Complete",
+    "problem": "[Gaming Scenario] s = input() if s == \"\": print(\"\") else: print(\"NO\")...",
+    "domain": "debugging"
+  },
+  {
+    "id": "f794f0d8-9cd6-41a5-9aaf-d710aa0b621c",
+    "title": "E-commerce Optimization",
+    "problem": "[E-commerce Scenario] k=[] for i in range(len(k)): i=k[i] k.append(i) for i in range(len(k)): if k[i]==k[i]: k.append(k[i]...",
+    "domain": "debugging"
+  },
+  {
+    "id": "0bef10cb-4ee5-4c6e-8ca5-ac769a3767ef",
+    "title": "Smart Home Output Prediction",
+    "problem": "[Smart Home Scenario] N = int(input()) a = [] for i in range(N): a.append(n) a.append(n) for i in range(N): i = N-i+1 if a...",
+    "domain": "debugging"
+  },
+  {
+    "id": "149a0a54-c596-43db-bea7-836df0d953c2",
+    "title": "Real Estate Bug Fix",
+    "problem": "[Real Estate Scenario] id...",
+    "domain": "debugging"
+  },
+  {
+    "id": "822983ef-ea27-4113-8d66-0f491e8c3674",
+    "title": "Education Output Prediction",
+    "problem": "[Education Scenario] a = list(map(int, input().split())) for i in range(len(a)): x = a[i] y = y - x if y == 0: print(a[i]...",
+    "domain": "debugging"
+  },
+  {
+    "id": "0f670805-ec4a-4e31-b2bc-711bb1e2cf82",
+    "title": "Healthcare Optimization",
+    "problem": "[Healthcare Scenario] ####################################################################################################...",
+    "domain": "debugging"
+  },
+  {
+    "id": "63cf1630-30e1-4b50-94d1-56130cb315df",
+    "title": "Gaming Bug Fix",
+    "problem": "[Gaming Scenario] ####################################################################################################...",
+    "domain": "debugging"
+  },
+  {
+    "id": "0af70f3b-e466-4fcd-a1e2-d86d7f10ee12",
+    "title": "Gaming Optimization",
+    "problem": "[Gaming Scenario] if __name__ == \"__main__\"...",
+    "domain": "debugging"
+  },
+  {
+    "id": "d991e701-4668-49e7-8c9b-b052dc2bab3c",
+    "title": "Healthcare Optimization",
+    "problem": "[Healthcare Scenario] id = int(input()) j = 0 n = 0 while j  n: j = j if j  n: i = j // 2 elif j  n: j = j - 1 else: j = j...",
+    "domain": "debugging"
+  },
+  {
+    "id": "10a81d1a-0b66-42cf-b284-23e8ad4c2f4d",
+    "title": "Education Output Prediction",
+    "problem": "[Education Scenario] s = input() if s == \"1\": print(s) else: print(s)...",
+    "domain": "debugging"
+  },
+  {
+    "id": "a7f1e44d-c0b2-46e2-ab3a-5ffa1d6f492f",
+    "title": "Real Estate Output Prediction",
+    "problem": "[Real Estate Scenario] import sys sys.setrecursionlimit(10 ** 7) if sys.stdin is not in sys.stdin: print(sys.stdin.readline...",
+    "domain": "debugging"
+  },
+  {
+    "id": "fb1f4021-03c8-45ff-83a4-49e66b0ccd52",
+    "title": "Healthcare Output Prediction",
+    "problem": "[Healthcare Scenario] id...",
+    "domain": "debugging"
+  },
+  {
+    "id": "1cffa988-0dba-40f9-a9b7-7e5b5579ca7a",
+    "title": "Education Bug Fix",
+    "problem": "[Education Scenario] if __name__ == '__main__': if __name__ == '__main__': if __name__ == '__main__': if __name__ == '__m...",
+    "domain": "debugging"
+  },
+  {
+    "id": "a328e0c4-4af1-4973-953b-314b44011234",
+    "title": "Real Estate Output Prediction",
+    "problem": "[Real Estate Scenario] t = input() a = t.index('1') b = t.index('2') c = t.index('3') d = t.index('0') a = t.index('0') d =...",
+    "domain": "debugging"
+  },
+  {
+    "id": "72df2a60-af1e-4ff1-a62d-1c55f3b79658",
+    "title": "Finance Bug Fix",
+    "problem": "[Finance Scenario] d=input() a=[] i=1 while ilen(a): a.append(a[i]) i+=1...",
+    "domain": "debugging"
+  },
+  {
+    "id": "0bee84f0-6092-4c24-8fb5-a6b364a942b1",
+    "title": "Smart Home Optimization",
+    "problem": "[Smart Home Scenario] jSON = input() if jSON.get('0') == '1': print('INF') else: print('NO')...",
+    "domain": "debugging"
+  },
+  {
+    "id": "6fe60242-9a9d-44f2-9be7-81d966bef207",
+    "title": "Gaming Code Complete",
+    "problem": "[Gaming Scenario] id...",
+    "domain": "debugging"
+  },
+  {
+    "id": "ec28acf5-44c0-4f56-a0f1-a8271dd49e9d",
+    "title": "Finance Code Complete",
+    "problem": "[Finance Scenario] s = input() id = s.count(\"0\") k = 0 for i in range(len(s)): if s[i] == \"0\": d = s[i] if d == \"1\": d ...",
+    "domain": "debugging"
+  },
+  {
+    "id": "0d72ce66-5e1e-403f-ace5-1141bafa7984",
+    "title": "Social Media Code Complete",
+    "problem": "[Social Media Scenario] n = input() id = 0 domain = 0 for i in range(len(n)): if n[i] == 'start': id += 1 if id == n[id-1]: ...",
+    "domain": "debugging"
+  },
+  {
+    "id": "d468d835-603b-48e1-8647-b17f3905240b",
+    "title": "Social Media Optimization",
+    "problem": "[Social Media Scenario] # sys.stdin = open('input.txt', 'r') # sys.stdout = open('output.txt', 'w') # sys.stdout = open('out...",
+    "domain": "debugging"
+  },
+  {
+    "id": "f1abe302-6bcb-4a58-840a-664436a957db",
+    "title": "Social Media Bug Fix",
+    "problem": "[Social Media Scenario] a=[];s=\"\";s=\"\";s=\"\";s=\"\";s=\"\";s=\"\";s=\"\";s=\"\";s=\"\";s=\"\";s=\"\";s=\"\";s=\"\";s=\"\";s=\"\";s=\"\";s=\"\";s=\"\";s=\"\";...",
+    "domain": "debugging"
+  },
+  {
+    "id": "ef88b52f-6858-4bf7-ac5b-078daa04fb96",
+    "title": "Smart Home Code Complete",
+    "problem": "[Smart Home Scenario] n = int(input()) id = [] start = [] while True: if id[i] == '1':start.append(id) id.popleft() else: ...",
+    "domain": "debugging"
+  },
+  {
+    "id": "7f36ecbc-d7b9-4346-af1e-2c3a4c0df567",
+    "title": "Education Bug Fix",
+    "problem": "[Education Scenario] id...",
+    "domain": "debugging"
+  },
+  {
+    "id": "0adf607a-0b44-4fb0-9987-a3aa039538b8",
+    "title": "Healthcare Output Prediction",
+    "problem": "[Healthcare Scenario] id...",
+    "domain": "debugging"
+  },
+  {
+    "id": "6ee70910-4b61-406c-a05d-bb1e3a28f9d8",
+    "title": "E-commerce Optimization",
+    "problem": "[E-commerce Scenario] if __name__ == '__main__': elif __name__ == '__main__': if __name__ == '__main__': elif __name__ == ...",
+    "domain": "debugging"
+  },
+  {
+    "id": "b86f79df-703e-439c-8027-88a1c2d3fe31",
+    "title": "Real Estate Output Prediction",
+    "problem": "[Real Estate Scenario] -(result_amount) - (result_amount)...",
+    "domain": "debugging"
+  },
+  {
+    "id": "0e9a8495-3a1a-4380-b032-ae1ed47e09ab",
+    "title": "Smart Home Optimization",
+    "problem": "[Smart Home Scenario] id = input() j = set(id) for i in range(0,j): id = int(j[0]) if id == j[1]: print(j[1]) else: print(...",
+    "domain": "debugging"
+  },
+  {
+    "id": "fe11d6aa-7347-48e0-8dc7-8daca2febdd0",
+    "title": "Smart Home Code Complete",
+    "problem": "[Smart Home Scenario] \"\"\" Created on january 20th, 2013-03-02 17:36:51 2020 @author: ______...",
+    "domain": "debugging"
+  },
+  {
+    "id": "a537e6c1-ae02-42ae-a263-580b057b756d",
+    "title": "Social Media Output Prediction",
+    "problem": "[Social Media Scenario] a = ['A','B','C','D','S','F','N','Y','E','N','J','M','W'] for i in a: s = input() if s == '1': print...",
+    "domain": "debugging"
+  },
+  {
+    "id": "5cdad7ce-946c-4767-9449-f325bf5c4967",
+    "title": "Education Optimization",
+    "problem": "[Education Scenario] s=input() i=0 j=1 while ij: j+=1 i+=j j = i+j if j==1: print(\"\".join(j)) elif j==1: print(\"\".join(j)...",
+    "domain": "debugging"
+  },
+  {
+    "id": "ac7f2256-9981-4ecf-a079-68455c88d667",
+    "title": "Real Estate Code Complete",
+    "problem": "[Real Estate Scenario] debug_list =  ::-1                                                                                  ...",
+    "domain": "debugging"
+  },
+  {
+    "id": "ded48b8f-1570-4dcd-9816-23dedb3d293b",
+    "title": "Logistics Bug Fix",
+    "problem": "[Logistics Scenario] np = 0...",
+    "domain": "debugging"
+  },
+  {
+    "id": "56e0b6c3-19b9-42cc-8c02-3780e60f4b5a",
+    "title": "Social Media Bug Fix",
+    "problem": "[Social Media Scenario] id...",
+    "domain": "debugging"
+  },
+  {
+    "id": "f203e539-0ac3-448e-8138-6e6f51b5ca71",
+    "title": "E-commerce Optimization",
+    "problem": "[E-commerce Scenario] id...",
+    "domain": "debugging"
+  },
+  {
+    "id": "40ea98d3-ce61-4fc0-aee0-2f1674fc5f22",
+    "title": "Smart Home Bug Fix",
+    "problem": "[Smart Home Scenario] es=[] for i in s: if i not in es: print(\"R\"+\"n\") else: print(\"R\"+\"n\")...",
+    "domain": "debugging"
+  },
+  {
+    "id": "a7a0d4bc-6d3d-4a3a-837a-c7732c9936a6",
+    "title": "Travel Code Complete",
+    "problem": "[Travel Scenario] a = input() b = input() d = [] for i in range(len(a)): if abs(a[i])==0: d.append(a[i]) d.append(a[i]...",
+    "domain": "debugging"
+  },
+  {
+    "id": "7a1b288a-bf53-4ba7-82e5-849003cfc71f",
+    "title": "Finance Bug Fix",
+    "problem": "[Finance Scenario] id...",
+    "domain": "debugging"
+  },
+  {
+    "id": "d522cb6c-713f-40f1-a5d1-a6be38cb2335",
+    "title": "Travel Bug Fix",
+    "problem": "[Travel Scenario] id...",
+    "domain": "debugging"
+  },
+  {
+    "id": "6e491ccb-4ccb-459c-b4f3-f8c419ea7826",
+    "title": "Healthcare Optimization",
+    "problem": "[Healthcare Scenario] r=input() n=[] for i in range(n): n.append([int(n) for n in input().split()]) for i in range(n): pri...",
+    "domain": "debugging"
+  },
+  {
+    "id": "e36926a9-c1b3-43af-8d4b-65bed3a91a42",
+    "title": "Healthcare Output Prediction",
+    "problem": "[Healthcare Scenario] # coding:utf-8 -*- coding:utf-8 -*- \"\"\" Created on Mon Nov 26 10:51:28 2020 @author: jstcs \"\"\" -*- i...",
+    "domain": "debugging"
+  },
+  {
+    "id": "b91d92b7-19ef-4e84-a202-140a9c187575",
+    "title": "Real Estate Code Complete",
+    "problem": "[Real Estate Scenario] s = list(map(int,input().split())) s.sort()...",
+    "domain": "debugging"
+  },
+  {
+    "id": "16508ef2-682c-4bcd-baaf-3dc8093d6b5b",
+    "title": "Smart Home Output Prediction",
+    "problem": "[Smart Home Scenario] id...",
+    "domain": "debugging"
+  },
+  {
+    "id": "23f4fa85-c05a-4923-89e2-abbc8c9a6146",
+    "title": "E-commerce Output Prediction",
+    "problem": "[E-commerce Scenario] id...",
+    "domain": "debugging"
+  },
+  {
+    "id": "e8049266-a0ee-4426-b0b7-11c3f295b179",
+    "title": "Education Optimization",
+    "problem": "[Education Scenario] jSON_a = [] for i in range(1, len(json_a)): id = input() jSON_b = [] for j in range(1, len(json_a)):...",
+    "domain": "debugging"
+  },
+  {
+    "id": "2352caf2-5969-4825-9850-0f488b1760ed",
+    "title": "Gaming Code Complete",
+    "problem": "[Gaming Scenario] id...",
+    "domain": "debugging"
+  },
+  {
+    "id": "b11d2980-0078-4dcb-898a-c511fc079ad2",
+    "title": "Smart Home Code Complete",
+    "problem": "[Smart Home Scenario] j2 = list(map(int,input().split())) if j2[0] == \"n\": print(\"\".format(j2[1])) else: print(j2)...",
+    "domain": "debugging"
+  },
+  {
+    "id": "e56dfce5-6312-4706-9564-a1581c8b84ef",
+    "title": "Healthcare Code Complete",
+    "problem": "[Healthcare Scenario] s=input().split()...",
+    "domain": "debugging"
+  },
+  {
+    "id": "9e7a7c76-e8bd-4884-a842-31ee9317fba1",
+    "title": "Travel Optimization",
+    "problem": "[Travel Scenario] sys.exit()...",
+    "domain": "debugging"
+  },
+  {
+    "id": "b6181475-795c-4e12-8e45-fb28f70fba7d",
+    "title": "E-commerce Code Complete",
+    "problem": "[E-commerce Scenario] s// .split(\" \") if \"__name__ == \"__main__\": s// .split(\" \") if \"__main__\" in s: print(s) else: s// ....",
+    "domain": "debugging"
+  },
+  {
+    "id": "96f76380-b222-4994-9ac6-7e125ff7a5aa",
+    "title": "Social Media Optimization",
+    "problem": "[Social Media Scenario] if __name__ == '__main__': n=input() n=n+n-n-n.get(n) n=n%n n=n+n-n.get(n)//2 n=n+n-n//n.get(n)//2 n...",
+    "domain": "debugging"
+  },
+  {
+    "id": "3990341c-488e-4780-88ce-2dbb8037e865",
+    "title": "Healthcare Code Complete",
+    "problem": "[Healthcare Scenario] json = input() id = json.split() json_sum = [] for i in json_sum: id = json.split() id = json.split(...",
+    "domain": "debugging"
+  },
+  {
+    "id": "67e9208e-b30d-46b1-85ae-e249a6c4296a",
+    "title": "Travel Bug Fix",
+    "problem": "[Travel Scenario] json = int(input()) e1 = 0 for i in json: if i == \"\": e1 = i + 1 e1 = i + 3 if e1 != e2: print(e1 + ...",
+    "domain": "debugging"
+  },
+  {
+    "id": "1ec22b8d-55da-42c6-8fe5-463dd6b66043",
+    "title": "Healthcare Optimization",
+    "problem": "[Healthcare Scenario] t=input() if(t==1): print(\"1,\" \",end=\"\") else: print(\"1,\" \",end=\"\")...",
+    "domain": "debugging"
+  },
+  {
+    "id": "089a7315-656e-4293-bf7e-1f66288c65cf",
+    "title": "Smart Home Bug Fix",
+    "problem": "[Smart Home Scenario] id = input() j = [0] * (j.sqrt(j)) for i in j: if i == j.sqrt(j): print(j[0],end=\"\") else: print(j)...",
+    "domain": "debugging"
+  },
+  {
+    "id": "cb861bea-6dd5-412b-b251-69010b975ea4",
+    "title": "Healthcare Code Complete",
+    "problem": "[Healthcare Scenario] n=input() n=n.split() i=0 j=0 s=0 if i == j: i=j j=j if i==j: print('no') else: print('no')...",
+    "domain": "debugging"
+  },
+  {
+    "id": "715a12fc-fb94-4d4a-9ba1-7b64a4148f78",
+    "title": "Travel Optimization",
+    "problem": "[Travel Scenario] jSON = [] l = [] for i in jSON: if i in jSON: l.append(i) else: print(\"YES\")...",
+    "domain": "debugging"
+  },
+  {
+    "id": "b6cfb9d4-36c4-4c52-a150-b4818940e34a",
+    "title": "Smart Home Output Prediction",
+    "problem": "[Smart Home Scenario] id...",
+    "domain": "debugging"
+  },
+  {
+    "id": "22201923-79d7-4713-a7cf-40289409e95b",
+    "title": "Gaming Bug Fix",
+    "problem": "[Gaming Scenario] id...",
+    "domain": "debugging"
+  },
+  {
+    "id": "b83c1507-3b9f-4d96-9823-7b9ce2a49823",
+    "title": "E-commerce Output Prediction",
+    "problem": "[E-commerce Scenario] t = input() if t == '1': print(\"1\") else: print('1')...",
+    "domain": "debugging"
+  },
+  {
+    "id": "d9033eef-9db7-448a-a3aa-950955c79601",
+    "title": "Logistics Optimization",
+    "problem": "[Logistics Scenario] # coding: utf-8 - 1...",
+    "domain": "debugging"
+  },
+  {
+    "id": "1f47aad8-79a1-435a-95f3-35106617a2ed",
+    "title": "Social Media Output Prediction",
+    "problem": "[Social Media Scenario] k=input() s=[] for i in range(0,len(s)): s.append(s[i]) l=s.pop() for i in s: if i==len(s): print(s[...",
+    "domain": "debugging"
+  },
+  {
+    "id": "bf8b1664-a82a-44ee-8f37-9fbf5fb05b71",
+    "title": "Social Media Optimization",
+    "problem": "[Social Media Scenario] id...",
+    "domain": "debugging"
+  },
+  {
+    "id": "7b9c3fae-b578-455d-b175-013dd4aa45d4",
+    "title": "Education Bug Fix",
+    "problem": "[Education Scenario] import sys from collections import Counter from math import * from sys import * from itertools impor...",
+    "domain": "debugging"
+  },
+  {
+    "id": "47e1acdf-769d-4630-9aa1-f6b705c7a3a1",
+    "title": "Real Estate Bug Fix",
+    "problem": "[Real Estate Scenario] if __name__ == '__main__': if __name__ == '__main__': print(\"JSON\") else: print(\"JSON\")...",
+    "domain": "debugging"
+  },
+  {
+    "id": "be5ada29-8869-45f0-9bc1-d397a417d9eb",
+    "title": "Finance Code Complete",
+    "problem": "[Finance Scenario] id...",
+    "domain": "debugging"
+  },
+  {
+    "id": "6c38ebf1-d4a3-4bed-a41a-4a6fcd77e4c0",
+    "title": "Education Bug Fix",
+    "problem": "[Education Scenario] # Exception: https://codeforces.com/contest/problem/problem/problem/1991-07-node_problem # Exception...",
+    "domain": "debugging"
+  },
+  {
+    "id": "50b78acd-674f-48d4-bbab-821cb5579100",
+    "title": "Social Media Code Complete",
+    "problem": "[Social Media Scenario] a_b_a__a____________________________________________________________________________________________...",
+    "domain": "debugging"
+  },
+  {
+    "id": "e25c235e-206d-4b7e-a678-7dc0bae9f996",
+    "title": "Finance Code Complete",
+    "problem": "[Finance Scenario] id...",
+    "domain": "debugging"
+  },
+  {
+    "id": "65b6dcc4-06ed-474b-9aeb-def526fbb4d3",
+    "title": "Education Output Prediction",
+    "problem": "[Education Scenario] a = input() if a == 0: print(a) else: print(''.join(map(str, a))...",
+    "domain": "debugging"
+  },
+  {
+    "id": "c70ecb73-4de7-4b92-86bc-a03a2ece5a8b",
+    "title": "Healthcare Output Prediction",
+    "problem": "[Healthcare Scenario] if __name__ == '__main__': if __name__ == '__main__': if __name__ == '__main__': if __name__ == '__m...",
+    "domain": "debugging"
+  }
+]

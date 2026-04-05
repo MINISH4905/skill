@@ -12,19 +12,23 @@ class TaskGenerateRequest(BaseModel):
     language: Optional[str] = None
     count: Optional[int] = 1
 
+class TestCaseItem(BaseModel):
+    input: str
+    output: str
+
 class TaskResponse(BaseModel):
-    title: str
+    id: str
     domain: str
     difficulty: str
-    topic: str
-    scenario: str
-    given_code: str
+    type: str
+    title: str
+    problem: str
+    starter_code: str
     expected_output: str
-    constraints: List[str]
+    test_cases: List[TestCaseItem]
     hints: List[str]
     solution: str
-    solution_approach: str
-    evaluation_criteria: List[str]
+    explanation: str
 
 class TaskWrapperResponse(BaseModel):
     success: bool

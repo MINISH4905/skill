@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "C:\nextgen\backend\test_import.py", line 11, in <module>
+    from services.ai_service import ai_service
+ImportError: cannot import name 'ai_service' from 'services.ai_service' (C:\nextgen\ai_engine\services\ai_service.py)

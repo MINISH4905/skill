@@ -1,0 +1,602 @@
+[
+  {
+    "level": 1,
+    "title": "Square Fix (VAULT #1)",
+    "diff": 15,
+    "tier": "beginner"
+  },
+  {
+    "level": 2,
+    "title": "Fix List Selection (VAULT #2)",
+    "diff": 18,
+    "tier": "beginner"
+  },
+  {
+    "level": 3,
+    "title": "Fix Multiplication (VAULT #3)",
+    "diff": 22,
+    "tier": "beginner"
+  },
+  {
+    "level": 4,
+    "title": "Correct Indexing Logic (VAULT #4)",
+    "diff": 45,
+    "tier": "beginner"
+  },
+  {
+    "level": 5,
+    "title": "Filter Active Users (VAULT #5)",
+    "diff": 55,
+    "tier": "beginner"
+  },
+  {
+    "level": 6,
+    "title": "String Processing Logic (VAULT #6)",
+    "diff": 62,
+    "tier": "beginner"
+  },
+  {
+    "level": 7,
+    "title": "Data Sorting Logic (VAULT #7)",
+    "diff": 68,
+    "tier": "beginner"
+  },
+  {
+    "level": 8,
+    "title": "Complex State Update (VAULT #8)",
+    "diff": 88,
+    "tier": "beginner"
+  },
+  {
+    "level": 9,
+    "title": "Recursive Logic Fix (VAULT #9)",
+    "diff": 95,
+    "tier": "beginner"
+  },
+  {
+    "level": 10,
+    "title": "Fix Greeting (VAULT #10)",
+    "diff": 10,
+    "tier": "beginner"
+  },
+  {
+    "level": 11,
+    "title": "Square Fix (VAULT #11)",
+    "diff": 15,
+    "tier": "beginner"
+  },
+  {
+    "level": 12,
+    "title": "Fix List Selection (VAULT #12)",
+    "diff": 18,
+    "tier": "beginner"
+  },
+  {
+    "level": 13,
+    "title": "Fix Multiplication (VAULT #13)",
+    "diff": 22,
+    "tier": "beginner"
+  },
+  {
+    "level": 14,
+    "title": "Correct Indexing Logic (VAULT #14)",
+    "diff": 45,
+    "tier": "beginner"
+  },
+  {
+    "level": 15,
+    "title": "Filter Active Users (VAULT #15)",
+    "diff": 55,
+    "tier": "beginner"
+  },
+  {
+    "level": 16,
+    "title": "String Processing Logic (VAULT #16)",
+    "diff": 62,
+    "tier": "beginner"
+  },
+  {
+    "level": 17,
+    "title": "Data Sorting Logic (VAULT #17)",
+    "diff": 68,
+    "tier": "beginner"
+  },
+  {
+    "level": 18,
+    "title": "Complex State Update (VAULT #18)",
+    "diff": 88,
+    "tier": "beginner"
+  },
+  {
+    "level": 19,
+    "title": "Recursive Logic Fix (VAULT #19)",
+    "diff": 95,
+    "tier": "beginner"
+  },
+  {
+    "level": 20,
+    "title": "Fix Greeting (VAULT #20)",
+    "diff": 10,
+    "tier": "beginner"
+  },
+  {
+    "level": 21,
+    "title": "Square Fix (VAULT #21)",
+    "diff": 15,
+    "tier": "elementary"
+  },
+  {
+    "level": 22,
+    "title": "Fix List Selection (VAULT #22)",
+    "diff": 18,
+    "tier": "elementary"
+  },
+  {
+    "level": 23,
+    "title": "Fix Multiplication (VAULT #23)",
+    "diff": 22,
+    "tier": "elementary"
+  },
+  {
+    "level": 24,
+    "title": "Correct Indexing Logic (VAULT #24)",
+    "diff": 45,
+    "tier": "elementary"
+  },
+  {
+    "level": 25,
+    "title": "Filter Active Users (VAULT #25)",
+    "diff": 55,
+    "tier": "elementary"
+  },
+  {
+    "level": 26,
+    "title": "String Processing Logic (VAULT #26)",
+    "diff": 62,
+    "tier": "elementary"
+  },
+  {
+    "level": 27,
+    "title": "Data Sorting Logic (VAULT #27)",
+    "diff": 68,
+    "tier": "elementary"
+  },
+  {
+    "level": 28,
+    "title": "Complex State Update (VAULT #28)",
+    "diff": 88,
+    "tier": "elementary"
+  },
+  {
+    "level": 29,
+    "title": "Recursive Logic Fix (VAULT #29)",
+    "diff": 95,
+    "tier": "elementary"
+  },
+  {
+    "level": 30,
+    "title": "Fix Greeting (VAULT #30)",
+    "diff": 10,
+    "tier": "elementary"
+  },
+  {
+    "level": 31,
+    "title": "Square Fix (VAULT #31)",
+    "diff": 15,
+    "tier": "elementary"
+  },
+  {
+    "level": 32,
+    "title": "Fix List Selection (VAULT #32)",
+    "diff": 18,
+    "tier": "elementary"
+  },
+  {
+    "level": 33,
+    "title": "Fix Multiplication (VAULT #33)",
+    "diff": 22,
+    "tier": "elementary"
+  },
+  {
+    "level": 34,
+    "title": "Correct Indexing Logic (VAULT #34)",
+    "diff": 45,
+    "tier": "elementary"
+  },
+  {
+    "level": 35,
+    "title": "Filter Active Users (VAULT #35)",
+    "diff": 55,
+    "tier": "elementary"
+  },
+  {
+    "level": 36,
+    "title": "String Processing Logic (VAULT #36)",
+    "diff": 62,
+    "tier": "elementary"
+  },
+  {
+    "level": 37,
+    "title": "Data Sorting Logic (VAULT #37)",
+    "diff": 68,
+    "tier": "elementary"
+  },
+  {
+    "level": 38,
+    "title": "Complex State Update (VAULT #38)",
+    "diff": 88,
+    "tier": "elementary"
+  },
+  {
+    "level": 39,
+    "title": "Recursive Logic Fix (VAULT #39)",
+    "diff": 95,
+    "tier": "elementary"
+  },
+  {
+    "level": 40,
+    "title": "Fix Greeting (VAULT #40)",
+    "diff": 10,
+    "tier": "elementary"
+  },
+  {
+    "level": 41,
+    "title": "Square Fix (VAULT #41)",
+    "diff": 15,
+    "tier": "intermediate"
+  },
+  {
+    "level": 42,
+    "title": "Fix List Selection (VAULT #42)",
+    "diff": 18,
+    "tier": "intermediate"
+  },
+  {
+    "level": 43,
+    "title": "Fix Multiplication (VAULT #43)",
+    "diff": 22,
+    "tier": "intermediate"
+  },
+  {
+    "level": 44,
+    "title": "Correct Indexing Logic (VAULT #44)",
+    "diff": 45,
+    "tier": "intermediate"
+  },
+  {
+    "level": 45,
+    "title": "Filter Active Users (VAULT #45)",
+    "diff": 55,
+    "tier": "intermediate"
+  },
+  {
+    "level": 46,
+    "title": "String Processing Logic (VAULT #46)",
+    "diff": 62,
+    "tier": "intermediate"
+  },
+  {
+    "level": 47,
+    "title": "Data Sorting Logic (VAULT #47)",
+    "diff": 68,
+    "tier": "intermediate"
+  },
+  {
+    "level": 48,
+    "title": "Complex State Update (VAULT #48)",
+    "diff": 88,
+    "tier": "intermediate"
+  },
+  {
+    "level": 49,
+    "title": "Recursive Logic Fix (VAULT #49)",
+    "diff": 95,
+    "tier": "intermediate"
+  },
+  {
+    "level": 50,
+    "title": "Fix Greeting (VAULT #50)",
+    "diff": 10,
+    "tier": "intermediate"
+  },
+  {
+    "level": 51,
+    "title": "Square Fix (VAULT #51)",
+    "diff": 15,
+    "tier": "intermediate"
+  },
+  {
+    "level": 52,
+    "title": "Fix List Selection (VAULT #52)",
+    "diff": 18,
+    "tier": "intermediate"
+  },
+  {
+    "level": 53,
+    "title": "Fix Multiplication (VAULT #53)",
+    "diff": 22,
+    "tier": "intermediate"
+  },
+  {
+    "level": 54,
+    "title": "Correct Indexing Logic (VAULT #54)",
+    "diff": 45,
+    "tier": "intermediate"
+  },
+  {
+    "level": 55,
+    "title": "Filter Active Users (VAULT #55)",
+    "diff": 55,
+    "tier": "intermediate"
+  },
+  {
+    "level": 56,
+    "title": "String Processing Logic (VAULT #56)",
+    "diff": 62,
+    "tier": "intermediate"
+  },
+  {
+    "level": 57,
+    "title": "Data Sorting Logic (VAULT #57)",
+    "diff": 68,
+    "tier": "intermediate"
+  },
+  {
+    "level": 58,
+    "title": "Complex State Update (VAULT #58)",
+    "diff": 88,
+    "tier": "intermediate"
+  },
+  {
+    "level": 59,
+    "title": "Recursive Logic Fix (VAULT #59)",
+    "diff": 95,
+    "tier": "intermediate"
+  },
+  {
+    "level": 60,
+    "title": "Fix Greeting (VAULT #60)",
+    "diff": 10,
+    "tier": "intermediate"
+  },
+  {
+    "level": 61,
+    "title": "Square Fix (VAULT #61)",
+    "diff": 15,
+    "tier": "advanced"
+  },
+  {
+    "level": 62,
+    "title": "Fix List Selection (VAULT #62)",
+    "diff": 18,
+    "tier": "advanced"
+  },
+  {
+    "level": 63,
+    "title": "Fix Multiplication (VAULT #63)",
+    "diff": 22,
+    "tier": "advanced"
+  },
+  {
+    "level": 64,
+    "title": "Correct Indexing Logic (VAULT #64)",
+    "diff": 45,
+    "tier": "advanced"
+  },
+  {
+    "level": 65,
+    "title": "Filter Active Users (VAULT #65)",
+    "diff": 55,
+    "tier": "advanced"
+  },
+  {
+    "level": 66,
+    "title": "String Processing Logic (VAULT #66)",
+    "diff": 62,
+    "tier": "advanced"
+  },
+  {
+    "level": 67,
+    "title": "Data Sorting Logic (VAULT #67)",
+    "diff": 68,
+    "tier": "advanced"
+  },
+  {
+    "level": 68,
+    "title": "Complex State Update (VAULT #68)",
+    "diff": 88,
+    "tier": "advanced"
+  },
+  {
+    "level": 69,
+    "title": "Recursive Logic Fix (VAULT #69)",
+    "diff": 95,
+    "tier": "advanced"
+  },
+  {
+    "level": 70,
+    "title": "Fix Greeting (VAULT #70)",
+    "diff": 10,
+    "tier": "advanced"
+  },
+  {
+    "level": 71,
+    "title": "Square Fix (VAULT #71)",
+    "diff": 15,
+    "tier": "advanced"
+  },
+  {
+    "level": 72,
+    "title": "Fix List Selection (VAULT #72)",
+    "diff": 18,
+    "tier": "advanced"
+  },
+  {
+    "level": 73,
+    "title": "Fix Multiplication (VAULT #73)",
+    "diff": 22,
+    "tier": "advanced"
+  },
+  {
+    "level": 74,
+    "title": "Correct Indexing Logic (VAULT #74)",
+    "diff": 45,
+    "tier": "advanced"
+  },
+  {
+    "level": 75,
+    "title": "Filter Active Users (VAULT #75)",
+    "diff": 55,
+    "tier": "advanced"
+  },
+  {
+    "level": 76,
+    "title": "String Processing Logic (VAULT #76)",
+    "diff": 62,
+    "tier": "advanced"
+  },
+  {
+    "level": 77,
+    "title": "Data Sorting Logic (VAULT #77)",
+    "diff": 68,
+    "tier": "advanced"
+  },
+  {
+    "level": 78,
+    "title": "Complex State Update (VAULT #78)",
+    "diff": 88,
+    "tier": "advanced"
+  },
+  {
+    "level": 79,
+    "title": "Recursive Logic Fix (VAULT #79)",
+    "diff": 95,
+    "tier": "advanced"
+  },
+  {
+    "level": 80,
+    "title": "Fix Greeting (VAULT #80)",
+    "diff": 10,
+    "tier": "advanced"
+  },
+  {
+    "level": 81,
+    "title": "Square Fix (VAULT #81)",
+    "diff": 15,
+    "tier": "expert"
+  },
+  {
+    "level": 82,
+    "title": "Fix List Selection (VAULT #82)",
+    "diff": 18,
+    "tier": "expert"
+  },
+  {
+    "level": 83,
+    "title": "Fix Multiplication (VAULT #83)",
+    "diff": 22,
+    "tier": "expert"
+  },
+  {
+    "level": 84,
+    "title": "Correct Indexing Logic (VAULT #84)",
+    "diff": 45,
+    "tier": "expert"
+  },
+  {
+    "level": 85,
+    "title": "Filter Active Users (VAULT #85)",
+    "diff": 55,
+    "tier": "expert"
+  },
+  {
+    "level": 86,
+    "title": "String Processing Logic (VAULT #86)",
+    "diff": 62,
+    "tier": "expert"
+  },
+  {
+    "level": 87,
+    "title": "Data Sorting Logic (VAULT #87)",
+    "diff": 68,
+    "tier": "expert"
+  },
+  {
+    "level": 88,
+    "title": "Complex State Update (VAULT #88)",
+    "diff": 88,
+    "tier": "expert"
+  },
+  {
+    "level": 89,
+    "title": "Recursive Logic Fix (VAULT #89)",
+    "diff": 95,
+    "tier": "expert"
+  },
+  {
+    "level": 90,
+    "title": "Fix Greeting (VAULT #90)",
+    "diff": 10,
+    "tier": "expert"
+  },
+  {
+    "level": 91,
+    "title": "Square Fix (VAULT #91)",
+    "diff": 15,
+    "tier": "expert"
+  },
+  {
+    "level": 92,
+    "title": "Fix List Selection (VAULT #92)",
+    "diff": 18,
+    "tier": "expert"
+  },
+  {
+    "level": 93,
+    "title": "Fix Multiplication (VAULT #93)",
+    "diff": 22,
+    "tier": "expert"
+  },
+  {
+    "level": 94,
+    "title": "Correct Indexing Logic (VAULT #94)",
+    "diff": 45,
+    "tier": "expert"
+  },
+  {
+    "level": 95,
+    "title": "Filter Active Users (VAULT #95)",
+    "diff": 55,
+    "tier": "expert"
+  },
+  {
+    "level": 96,
+    "title": "String Processing Logic (VAULT #96)",
+    "diff": 62,
+    "tier": "expert"
+  },
+  {
+    "level": 97,
+    "title": "Data Sorting Logic (VAULT #97)",
+    "diff": 68,
+    "tier": "expert"
+  },
+  {
+    "level": 98,
+    "title": "Complex State Update (VAULT #98)",
+    "diff": 88,
+    "tier": "expert"
+  },
+  {
+    "level": 99,
+    "title": "Recursive Logic Fix (VAULT #99)",
+    "diff": 95,
+    "tier": "expert"
+  },
+  {
+    "level": 100,
+    "title": "Fix Greeting (VAULT #100)",
+    "diff": 10,
+    "tier": "expert"
+  }
+]

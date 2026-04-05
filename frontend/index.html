@@ -3,115 +3,295 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GSDS Task Management</title>
-    <!-- Modern Typeface -->
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <title>SkillForge | The Coding Arena</title>
+    <meta name="description" content="SkillForge - A gamified coding platform where you level up your programming skills through interactive challenges.">
     <link rel="stylesheet" href="/static/styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700;800;900&family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 </head>
 <body>
-    <div class="layout">
-        <!-- LEFT PANEL -->
-        <aside class="panel left-panel">
-            <header>
-                <h1><span class="gradient-text">GSDS</span> Platform</h1>
-                <p>Gamified Task Simulator</p>
-                
-                <div class="task-meta">
-                    <span class="badge" id="u-domain">Domain</span>
-                    <span class="badge" id="u-difficulty">Diff</span>
-                    <span class="badge" id="api-status-badge" style="background: red; border: 1px solid darkred;">API OFFLINE</span>
-                </div>
-            </header>
 
-            <section class="task-info">
-                <h2>Scenario</h2>
-                <p id="t-scenario" class="content-box">Loading scenario...</p>
-
-                <h2>Expected Output</h2>
-                <p id="t-output" class="content-box">Loading...</p>
-
-                <h2>Constraints</h2>
-                <ul id="t-constraints" class="content-list">
-                    <li>Loading...</li>
-                </ul>
-
-                <h2>Evaluation Criteria</h2>
-                <ul id="t-criteria" class="content-list" style="border-left: 3px solid var(--accent); background: rgba(0,0,0,0.3);">
-                    <li>Loading...</li>
-                </ul>
-
-                <hr style="margin: 20px 0; border: 0; border-top: 1px solid #222;">
-
-                <h2>Support</h2>
-                <div id="hints-panel" class="content-box" style="border-left: 3px solid #ffcc00; background: rgba(255, 204, 0, 0.05);">
-                    <button class="btn btn-secondary btn-sm" id="btn-reveal-hint" onclick="revealHint()" style="width: 100%; border: 1px dashed #ffcc00; color: #ffcc00;">Reveal Logic Hint</button>
-                    <ul id="t-hints" class="content-list" style="margin-top: 10px; list-style: none; padding: 0;"></ul>
-                </div>
-
-                <div id="approach-container" class="hidden" style="margin-top: 20px;">
-                    <h2 style="color: #0f0;">Expert Perspective</h2>
-                    <p id="t-approach" class="content-box" style="font-size: 0.9rem; font-style: italic; color: #999; border-color: #333; line-height: 1.5;"></p>
-                </div>
-            </section>
-        </aside>
-
-        <!-- RIGHT PANEL -->
-        <main class="panel right-panel" style="position: relative;">
-            <header class="editor-header">
-                <h2 id="t-title">Task Editor</h2>
-                <div class="actions">
-                    <button class="btn btn-secondary" onclick="generateAndFetchAITask()">Generate AI Task</button>
-                    <button class="btn btn-secondary" onclick="fetchNextTask()">Skip Task</button>
-                    <button class="btn btn-secondary" style="border: 1px solid #444;" onclick="showDiagnostics()">Debug Log</button>
-                    <button class="btn btn-primary" onclick="submitTask()">Run & Submit</button>
-                </div>
-            </header>
-
-            <div class="editor-container">
-                <textarea id="t-code" spellcheck="false" placeholder="Write your solution here..."></textarea>
+    <!-- ═══════ GAME HUD (Top Bar) ═══════ -->
+    <nav id="game-hud" class="game-hud">
+        <div class="hud-left">
+            <div class="brand" id="brand-logo">⚔️ Skill<span>Forge</span></div>
+        </div>
+        <div class="hud-center">
+            <div class="stat-badge stat-lives" id="hud-lives-badge" title="Lives">
+                <i class="fas fa-heart"></i>
+                <span id="hud-lives">3</span>
             </div>
-
-            <!-- Loading Spinner Overlay -->
-            <div id="loading-overlay" class="overlay hidden" style="z-index: 50; display: flex; flex-direction: column; align-items: center; justify-content: center; background: rgba(0,0,0,0.8);">
-                <div class="spinner" style="width: 50px; height: 50px; border: 5px solid rgba(255,255,255,0.3); border-top: 5px solid var(--accent); border-radius: 50%; animation: spin 1s linear infinite;"></div>
-                <h3 style="margin-top: 20px; color: white;">AI Generating Task...</h3>
-                <p style="color: #aaa;">FLAN-T5 hardware initializing. Please wait (5-15s).</p>
-                <style>@keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }</style>
+            <div class="stat-badge stat-coins" id="hud-coins-badge" title="Forge Coins">
+                <i class="fas fa-coins"></i>
+                <span id="hud-coins">1000</span>
             </div>
-
-            <!-- Validation/Feedback Overlay -->
-            <div id="feedback-overlay" class="overlay hidden">
-                <div class="overlay-content">
-                    <h1 id="f-score" style="font-size: 3rem; margin-bottom: 10px;">Score: 0</h1>
-                    <p id="f-text" style="font-size: 1.1rem; color: #ccc;">Feedback details appear here.</p>
-                    <hr style="margin: 20px 0; border: 0; border-top: 1px solid #333;">
-                    <div class="output-comparison" style="text-align: left; margin-bottom: 20px;">
-                        <div style="margin-bottom: 15px;">
-                            <small style="color: #888; text-transform: uppercase; font-size: 0.7rem; letter-spacing: 1px;">Expected Output</small>
-                            <pre id="f-expected" style="background:#000; padding:12px; border-radius:6px; margin-top:5px; font-size: 0.85rem; border: 1px solid #222; color: #fff;"></pre>
-                        </div>
-                        <div>
-                            <small style="color: #888; text-transform: uppercase; font-size: 0.7rem; letter-spacing: 1px;">Your Output</small>
-                            <pre id="f-actual" style="background:#000; padding:12px; border-radius:6px; margin-top:5px; font-size: 0.85rem; border: 1px solid #222; color: #0f0;"></pre>
-                        </div>
-                    </div>
-                    <button class="btn btn-primary" onclick="closeFeedback()">Dismiss</button>
-                </div>
+            <div class="stat-badge stat-xp" id="hud-xp-badge" title="Experience">
+                <i class="fas fa-bolt"></i>
+                <span id="hud-xp">0</span>
+                <span class="xp-label">XP</span>
             </div>
+            <div class="stat-badge" onclick="showLeaderboard()" style="cursor:pointer; background:rgba(0,0,0,0.4);" title="Leaderboard">
+                <i class="fas fa-trophy"></i>
+            </div>
+        </div>
+        <div class="hud-right">
+            <button class="hud-btn" id="btn-login-hud" onclick="showModal('modal-auth')">
+                <i class="fas fa-user"></i> Login
+            </button>
+            <div class="season-tag" id="hud-season">DOMAIN: DSA</div>
+            <button class="hud-btn" id="btn-back-to-map" onclick="goToMap()" style="display:none;">
+                <i class="fas fa-map"></i> Map
+            </button>
+        </div>
+    </nav>
 
-            <!-- Diagnostic Overlay -->
-            <div id="diagnostic-overlay" class="overlay hidden" style="background: rgba(0,0,0,0.95); z-index: 100;">
-                <div class="overlay-content" style="max-width: 800px; width: 90%; font-family: monospace; text-align: left;">
-                    <h2 style="color: var(--accent);">GSDS System Diagnostics</h2>
-                    <p style="color: #666; margin-bottom: 20px;">Internal AI Engine Trace (Raw):</p>
-                    <pre id="d-log" style="background: #000; color: #0f0; padding: 20px; height: 350px; overflow-y: auto; border: 1px solid #333; font-size: 0.85rem; line-height: 1.4;"></pre>
-                    <div style="margin-top: 20px;">
-                        <button class="btn btn-primary" onclick="closeDiagnostics()">Return to Simulator</button>
+    <!-- ═══════ MAIN GAME STAGE ═══════ -->
+    <main id="game-stage">
+
+        <!-- ── VIEW: LEVEL MAP ── -->
+        <section id="view-map" class="view active">
+            <div class="map-bg-layer"></div>
+            <div class="map-container" id="map-container">
+                <div class="map-header">
+                    <h1>🗺️ The Forge Path</h1>
+                    <p>Select a domain to begin your quest</p>
+                    <div class="domain-selector" id="domain-selector" style="display:flex; justify-content:center; gap:10px; margin-top:20px;">
+                        <button class="power-btn" onclick="setDomain('dsa')">DSA</button>
+                        <button class="power-btn" onclick="setDomain('frontend')">Frontend</button>
+                        <button class="power-btn" onclick="setDomain('backend')">Backend</button>
+                        <button class="power-btn" onclick="setDomain('sql')">SQL</button>
+                        <button class="power-btn" onclick="setDomain('debugging')">Debugging</button>
                     </div>
                 </div>
+                <div class="map-path" id="map-path">
+                    <!-- Level nodes injected by JS -->
+                </div>
             </div>
-        </main>
+        </section>
+
+        <!-- ── VIEW: CODING FORGE ── -->
+        <section id="view-forge" class="view">
+            <div class="forge-layout">
+
+                <!-- LEFT PANEL: Quest Info -->
+                <aside class="forge-sidebar" id="forge-sidebar">
+                    <div class="quest-header">
+                        <span class="quest-label">⚔️ CURRENT QUEST</span>
+                        <div class="quest-tier" id="forge-tier">BEGINNER</div>
+                    </div>
+
+                    <h2 class="quest-title" id="forge-title">Loading...</h2>
+                    <div class="quest-description" id="forge-description">
+                        Preparing your challenge...
+                    </div>
+
+                    <!-- Timer -->
+                    <div class="forge-stat-block">
+                        <div class="stat-icon"><i class="fas fa-clock"></i></div>
+                        <div class="stat-info">
+                            <span class="stat-label">Time Remaining</span>
+                            <span class="stat-value timer" id="forge-timer">05:00</span>
+                        </div>
+                    </div>
+
+                    <!-- Hearts -->
+                    <div class="forge-stat-block">
+                        <div class="stat-icon"><i class="fas fa-heart"></i></div>
+                        <div class="stat-info">
+                            <span class="stat-label">Attempts Left</span>
+                            <div class="hearts-display" id="forge-hearts">
+                                <i class="fas fa-heart heart-icon active"></i>
+                                <i class="fas fa-heart heart-icon active"></i>
+                                <i class="fas fa-heart heart-icon active"></i>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Powers -->
+                    <div class="powers-section">
+                        <span class="powers-label">⚡ FORGE POWERS</span>
+                        <div class="power-grid">
+                            <button class="power-btn" id="pwr-hint" data-power="hint" data-cost="100" onclick="usePower('hint')">
+                                <span class="power-icon">💡</span>
+                                <span class="power-name">Hint</span>
+                                <span class="power-cost">100 <i class="fas fa-coins"></i></span>
+                            </button>
+                            <button class="power-btn" id="pwr-fix" data-power="fix" data-cost="250" onclick="usePower('fix')">
+                                <span class="power-icon">🛠️</span>
+                                <span class="power-name">Fix</span>
+                                <span class="power-cost">250 <i class="fas fa-coins"></i></span>
+                            </button>
+                            <button class="power-btn" id="pwr-logic" data-power="logic" data-cost="350" onclick="usePower('logic')">
+                                <span class="power-icon">🧠</span>
+                                <span class="power-name">Logic</span>
+                                <span class="power-cost">350 <i class="fas fa-coins"></i></span>
+                            </button>
+                            <button class="power-btn" id="pwr-time" data-power="time" data-cost="150" onclick="usePower('time')">
+                                <span class="power-icon">⏱️</span>
+                                <span class="power-name">+Time</span>
+                                <span class="power-cost">150 <i class="fas fa-coins"></i></span>
+                            </button>
+                            <button class="power-btn" id="pwr-skip" data-power="skip" data-cost="500" onclick="usePower('skip')">
+                                <span class="power-icon">⏭️</span>
+                                <span class="power-name">Skip</span>
+                                <span class="power-cost">500 <i class="fas fa-coins"></i></span>
+                            </button>
+                        </div>
+                    </div>
+                </aside>
+
+                <!-- RIGHT PANEL: Editor + Terminal -->
+                <div class="forge-workspace">
+                    <div class="workspace-toolbar">
+                        <div class="toolbar-left">
+                            <span class="file-tab"><i class="fas fa-file-code"></i> solution.py</span>
+                            <span class="level-indicator" id="forge-level-num">Level 1</span>
+                        </div>
+                        <div class="toolbar-actions">
+                            <button class="btn-action btn-reset" id="btn-reset" onclick="resetCode()">
+                                <i class="fas fa-undo"></i> Reset
+                            </button>
+                            <button class="btn-action btn-run" id="btn-run" onclick="runCode()">
+                                <i class="fas fa-play"></i> Run
+                            </button>
+                            <button class="btn-action btn-submit" id="btn-submit" onclick="submitCode()">
+                                <i class="fas fa-rocket"></i> Submit
+                            </button>
+                        </div>
+                    </div>
+
+                    <div class="editor-pane">
+                        <div class="line-numbers" id="line-numbers"></div>
+                        <textarea id="code-editor" spellcheck="false" autocomplete="off" autocapitalize="off" placeholder="# Write your solution here..."></textarea>
+                    </div>
+
+                    <div class="terminal-pane">
+                        <div class="terminal-header">
+                            <span><i class="fas fa-terminal"></i> Console Output</span>
+                            <button class="terminal-clear" onclick="clearTerminal()">Clear</button>
+                        </div>
+                        <pre class="terminal-content" id="terminal-content">Waiting for you to run or submit code...</pre>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- ═══════ RESULT MODAL ═══════ -->
+    <div id="modal-result" class="modal-overlay hidden">
+        <div class="modal-card result-card">
+            <div class="result-stars" id="result-stars">
+                <i class="fas fa-star star" id="star-1"></i>
+                <i class="fas fa-star star" id="star-2"></i>
+                <i class="fas fa-star star" id="star-3"></i>
+            </div>
+            <h1 class="result-title" id="result-title">Quest Complete!</h1>
+            <p class="result-message" id="result-message">You solved it!</p>
+
+            <div class="result-rewards">
+                <div class="reward-item reward-xp">
+                    <i class="fas fa-bolt"></i>
+                    <span class="reward-value" id="reward-xp">0</span>
+                    <span class="reward-label">XP</span>
+                </div>
+                <div class="reward-item reward-coins">
+                    <i class="fas fa-coins"></i>
+                    <span class="reward-value" id="reward-coins">0</span>
+                    <span class="reward-label">Coins</span>
+                </div>
+                <div class="reward-item reward-score">
+                    <i class="fas fa-chart-bar"></i>
+                    <span class="reward-value" id="reward-score">0</span>
+                    <span class="reward-label">Score</span>
+                </div>
+            </div>
+
+            <div class="result-actions">
+                <button class="btn-result btn-next" id="btn-next-level" onclick="nextLevel()">
+                    Next Level <i class="fas fa-arrow-right"></i>
+                </button>
+                <button class="btn-result btn-retry" id="btn-retry" onclick="retryLevel()">
+                    <i class="fas fa-redo"></i> Retry
+                </button>
+            </div>
+        </div>
     </div>
+
+    <!-- ═══════ FAIL MODAL ═══════ -->
+    <div id="modal-fail" class="modal-overlay hidden">
+        <div class="modal-card fail-card">
+            <div class="fail-icon">💔</div>
+            <h1 class="fail-title" id="fail-title">Not Quite!</h1>
+            <p class="fail-message" id="fail-message">Some tests didn't pass. Try again!</p>
+            <div class="fail-stats">
+                <span id="fail-tests">0/0 tests passed</span>
+                <span id="fail-hearts">❤️ 2 lives remaining</span>
+            </div>
+            <div class="result-actions">
+                <button class="btn-result btn-retry" onclick="closeFailModal()">
+                    <i class="fas fa-redo"></i> Try Again
+                </button>
+                <button class="btn-result btn-map" onclick="goToMap()">
+                    <i class="fas fa-map"></i> Back to Map
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- ═══════ OUT OF HEARTS MODAL ═══════ -->
+    <div id="modal-no-hearts" class="modal-overlay hidden">
+        <div class="modal-card fail-card">
+            <div class="fail-icon">💀</div>
+            <h1>Out of Hearts!</h1>
+            <p>You've used all your lives. Hearts regenerate every 15 minutes.</p>
+            <div class="result-actions">
+                <button class="btn-result btn-map" onclick="goToMap()">
+                    <i class="fas fa-map"></i> Back to Map
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- ═══════ LOADING OVERLAY ═══════ -->
+    <div id="modal-loading" class="modal-overlay hidden">
+        <div class="loading-spinner">
+            <div class="spinner-forge">⚒️</div>
+            <div class="spinner-bar"><div class="spinner-fill"></div></div>
+            <p id="loading-status">Forging your challenge...</p>
+        </div>
+    </div>
+
+    <!-- ═══════ AUTH MODAL ═══════ -->
+    <div id="modal-auth" class="modal-overlay hidden">
+        <div class="modal-card result-card" style="width:400px; padding:30px;">
+            <div class="result-stars"><i class="fas fa-user-circle" style="font-size:3rem; color: #38bdf8;"></i></div>
+            <h1 class="result-title">SkillForge Access</h1>
+            <p style="color:#94a3b8; margin-bottom:20px;">Login or Register to track progress</p>
+            
+            <input type="text" id="auth-username" placeholder="Username" style="width:100%; padding:12px; margin-bottom:15px; border-radius:8px; background:rgba(0,0,0,0.5); border:1px solid #334155; color:white;">
+            <input type="email" id="auth-email" placeholder="Email (for registration)" style="width:100%; padding:12px; margin-bottom:15px; border-radius:8px; background:rgba(0,0,0,0.5); border:1px solid #334155; color:white;">
+            <input type="password" id="auth-password" placeholder="Password" style="width:100%; padding:12px; margin-bottom:20px; border-radius:8px; background:rgba(0,0,0,0.5); border:1px solid #334155; color:white;">
+            
+            <div class="result-actions" style="justify-content: center; gap: 15px;">
+                <button class="btn-result btn-next" onclick="loginUser()">Login</button>
+                <button class="btn-result btn-retry" onclick="registerUser()">Register</button>
+            </div>
+            <button class="btn-result btn-map" style="margin-top:15px; width:100%; background:transparent;" onclick="hideModal('modal-auth')">Play as Guest</button>
+        </div>
+    </div>
+
+    <!-- ═══════ LEADERBOARD MODAL ═══════ -->
+    <div id="modal-leaderboard" class="modal-overlay hidden">
+        <div class="modal-card result-card" style="width:500px; max-height:80vh; overflow-y:auto; padding:30px;">
+            <h1 class="result-title"><i class="fas fa-trophy"></i> Top Forgers</h1>
+            <div id="leaderboard-content" style="margin-top:20px; text-align:left;">Loading...</div>
+            <button class="btn-result btn-map" style="margin-top:20px; width:100%;" onclick="hideModal('modal-leaderboard')">Close</button>
+        </div>
+    </div>
+
+    <!-- ═══════ TOAST NOTIFICATIONS ═══════ -->
+    <div id="toast-container" class="toast-container"></div>
 
     <script src="/static/script.js"></script>
 </body>

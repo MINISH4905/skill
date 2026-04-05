@@ -1,0 +1,1041 @@
+2026-04-05 12:35:05,386 | INFO | django.utils.autoreload | Watching for file changes with StatReloader
+2026-04-05 12:35:31,956 | WARNING | django.request | Not Found: /favicon.ico
+2026-04-05 12:35:41,409 | WARNING | SkillForge | AI Engine not healthy; skipping background batch.
+2026-04-05 12:36:49,423 | INFO | django.utils.autoreload | C:\nextgen\backend\tasks\services.py changed, reloading.
+2026-04-05 12:36:50,021 | INFO | django.utils.autoreload | Watching for file changes with StatReloader
+2026-04-05 12:36:53,796 | INFO | django.utils.autoreload | C:\nextgen\backend\tasks\views.py changed, reloading.
+2026-04-05 12:36:54,403 | INFO | django.utils.autoreload | Watching for file changes with StatReloader
+2026-04-05 12:36:59,155 | INFO | django.utils.autoreload | C:\nextgen\backend\tasks\services.py changed, reloading.
+2026-04-05 12:36:59,759 | INFO | django.utils.autoreload | Watching for file changes with StatReloader
+2026-04-05 12:37:07,700 | INFO | django.utils.autoreload | C:\nextgen\backend\tasks\services.py changed, reloading.
+2026-04-05 12:37:08,273 | INFO | django.utils.autoreload | Watching for file changes with StatReloader
+2026-04-05 12:37:37,738 | INFO | SkillForge | AI Engine up; starting background task batch for domain=dsa
+2026-04-05 12:37:47,308 | INFO | SkillForge | AI Engine up; starting background task batch for domain=frontend
+2026-04-05 12:40:40,065 | INFO | django.utils.autoreload | C:\nextgen\backend\tasks\services.py changed, reloading.
+2026-04-05 12:40:40,971 | INFO | django.utils.autoreload | Watching for file changes with StatReloader
+2026-04-05 12:40:42,751 | INFO | django.utils.autoreload | C:\nextgen\backend\tasks\views.py changed, reloading.
+2026-04-05 12:40:43,362 | INFO | django.utils.autoreload | Watching for file changes with StatReloader
+2026-04-05 12:40:44,985 | INFO | django.utils.autoreload | C:\nextgen\backend\tasks\views.py changed, reloading.
+2026-04-05 12:40:45,602 | INFO | django.utils.autoreload | Watching for file changes with StatReloader
+2026-04-05 12:40:49,309 | INFO | django.utils.autoreload | C:\nextgen\backend\tasks\views.py changed, reloading.
+2026-04-05 12:40:49,864 | INFO | django.utils.autoreload | Watching for file changes with StatReloader
+2026-04-05 12:40:51,445 | INFO | django.utils.autoreload | C:\nextgen\backend\tasks\views.py changed, reloading.
+2026-04-05 12:40:52,226 | INFO | django.utils.autoreload | Watching for file changes with StatReloader
+2026-04-05 12:40:54,884 | INFO | django.utils.autoreload | C:\nextgen\backend\tasks\views.py changed, reloading.
+2026-04-05 12:40:55,485 | INFO | django.utils.autoreload | Watching for file changes with StatReloader
+2026-04-05 12:40:57,099 | INFO | django.utils.autoreload | C:\nextgen\backend\tasks\urls.py changed, reloading.
+2026-04-05 12:40:57,667 | INFO | django.utils.autoreload | Watching for file changes with StatReloader
+2026-04-05 12:41:07,655 | INFO | django.utils.autoreload | C:\nextgen\backend\tasks\views.py changed, reloading.
+2026-04-05 12:41:08,216 | INFO | django.utils.autoreload | Watching for file changes with StatReloader
+2026-04-05 12:42:20,027 | INFO | django.utils.autoreload | Watching for file changes with StatReloader
+2026-04-05 12:44:07,217 | INFO | django.utils.autoreload | Watching for file changes with StatReloader
+2026-04-05 12:44:12,024 | WARNING | django.request | Forbidden: /api/v1/levels/1/start/
+2026-04-05 12:44:15,592 | WARNING | django.request | Forbidden: /api/v1/levels/1/start/
+2026-04-05 12:49:58,955 | INFO | django.utils.autoreload | C:\nextgen\backend\tasks\models.py changed, reloading.
+2026-04-05 12:50:00,115 | INFO | django.utils.autoreload | Watching for file changes with StatReloader
+2026-04-05 12:53:33,274 | INFO | SkillForge-Memory | Loaded 0 scenario fingerprints from C:\nextgen\ai_engine\storage\scenario_memory.json
+2026-04-05 12:53:55,233 | INFO | SkillForge-Memory | Loaded 0 scenario fingerprints from C:\nextgen\ai_engine\storage\scenario_memory.json
+2026-04-05 12:55:03,416 | INFO | SkillForge-Memory | Loaded 0 scenario fingerprints from C:\nextgen\ai_engine\storage\scenario_memory.json
+2026-04-05 12:55:36,605 | INFO | SkillForge-Memory | Loaded 0 scenario fingerprints from C:\nextgen\ai_engine\storage\scenario_memory.json
+2026-04-05 12:56:05,136 | INFO | SkillForge-Memory | Loaded 0 scenario fingerprints from C:\nextgen\ai_engine\storage\scenario_memory.json
+2026-04-05 12:56:30,657 | INFO | SkillForge-AI | Loading google/flan-t5-small onto cuda (lazy)...
+2026-04-05 12:56:31,827 | INFO | httpx | HTTP Request: HEAD https://huggingface.co/google/flan-t5-small/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-04-05 12:56:31,933 | INFO | httpx | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/google/flan-t5-small/0fc9ddf78a1e988dac52e2dac162b0ede4fd74ab/config.json "HTTP/1.1 200 OK"
+2026-04-05 12:56:32,317 | INFO | httpx | HTTP Request: HEAD https://huggingface.co/google/flan-t5-small/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-04-05 12:56:32,543 | INFO | httpx | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/google/flan-t5-small/0fc9ddf78a1e988dac52e2dac162b0ede4fd74ab/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-04-05 12:56:32,954 | INFO | httpx | HTTP Request: GET https://huggingface.co/api/models/google/flan-t5-small/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-04-05 12:56:33,363 | INFO | httpx | HTTP Request: GET https://huggingface.co/api/models/google/flan-t5-small/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-04-05 12:56:34,080 | INFO | httpx | HTTP Request: HEAD https://huggingface.co/google/flan-t5-small/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-04-05 12:56:34,156 | INFO | httpx | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/google/flan-t5-small/0fc9ddf78a1e988dac52e2dac162b0ede4fd74ab/config.json "HTTP/1.1 200 OK"
+2026-04-05 12:56:40,424 | INFO | httpx | HTTP Request: HEAD https://huggingface.co/google/flan-t5-small/resolve/main/generation_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-04-05 12:56:40,468 | INFO | httpx | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/google/flan-t5-small/0fc9ddf78a1e988dac52e2dac162b0ede4fd74ab/generation_config.json "HTTP/1.1 200 OK"
+2026-04-05 12:56:42,263 | INFO | SkillForge-AI | [DSA] Generated task 'Education LMS: Pair Sum Target' (L1, attempt 1)
+2026-04-05 12:56:42,579 | INFO | SkillForge-AI | [DSA] Generated task 'Gaming leaderboards: Pair Sum Target' (L2, attempt 1)
+2026-04-05 12:56:43,044 | INFO | SkillForge-AI | [DSA] Generated task 'FinTech payments: Pair Sum Target' (L3, attempt 1)
+2026-04-05 12:56:43,409 | INFO | SkillForge-AI | [DSA] Generated task 'IoT sensor streams: Pair Sum Target' (L4, attempt 1)
+2026-04-05 12:56:43,767 | INFO | SkillForge-AI | [DSA] Generated task 'Travel bookings: Pair Sum Target' (L5, attempt 1)
+2026-04-05 12:56:44,093 | INFO | SkillForge-AI | [DSA] Generated task 'Travel bookings: Pair Sum Target' (L6, attempt 1)
+2026-04-05 12:56:44,495 | INFO | SkillForge-AI | [DSA] Generated task 'FinTech payments: Pair Sum Target' (L7, attempt 1)
+2026-04-05 12:56:44,817 | WARNING | SkillForge-Memory | Similarity 0.832 >= 0.820 — treat as duplicate.
+2026-04-05 12:56:45,056 | INFO | SkillForge-AI | [DSA] Generated task 'Healthcare records: Pair Sum Target' (L8, attempt 2)
+2026-04-05 12:56:45,585 | INFO | SkillForge-AI | [DSA] Generated task 'Healthcare records: Pair Sum Target' (L9, attempt 1)
+2026-04-05 12:56:45,819 | INFO | SkillForge-AI | [DSA] Generated task 'Education LMS: Pair Sum Target' (L10, attempt 1)
+2026-04-05 12:56:46,198 | INFO | SkillForge-AI | [DSA] Generated task 'IoT sensor streams: Pair Sum Target' (L11, attempt 1)
+2026-04-05 12:56:46,519 | WARNING | SkillForge-Memory | Similarity 0.830 >= 0.820 — treat as duplicate.
+2026-04-05 12:56:46,762 | WARNING | SkillForge-Memory | Similarity 0.826 >= 0.820 — treat as duplicate.
+2026-04-05 12:56:47,001 | WARNING | SkillForge-Memory | Similarity 0.838 >= 0.820 — treat as duplicate.
+2026-04-05 12:56:47,380 | INFO | SkillForge-AI | [DSA] Generated task 'E-commerce catalog: Pair Sum Target' (L12, attempt 4)
+2026-04-05 12:56:48,059 | INFO | SkillForge-AI | [DSA] Generated task 'Education LMS: Pair Sum Target' (L13, attempt 1)
+2026-04-05 12:56:48,592 | INFO | SkillForge-AI | [DSA] Generated task 'Education LMS: Pair Sum Target' (L14, attempt 1)
+2026-04-05 12:56:48,926 | INFO | SkillForge-AI | [DSA] Generated task 'Travel bookings: Pair Sum Target' (L15, attempt 1)
+2026-04-05 12:56:49,167 | WARNING | SkillForge-Memory | Similarity 0.832 >= 0.820 — treat as duplicate.
+2026-04-05 12:56:49,316 | WARNING | SkillForge-Memory | Similarity 0.835 >= 0.820 — treat as duplicate.
+2026-04-05 12:56:49,462 | WARNING | SkillForge-Memory | Similarity 0.835 >= 0.820 — treat as duplicate.
+2026-04-05 12:56:50,116 | INFO | SkillForge-AI | [DSA] Generated task 'Travel bookings: Pair Sum Target' (L16, attempt 4)
+2026-04-05 12:56:50,721 | INFO | SkillForge-AI | [DSA] Generated task 'Gaming leaderboards: Pair Sum Target' (L17, attempt 1)
+2026-04-05 12:56:51,007 | WARNING | SkillForge-Memory | Similarity 0.832 >= 0.820 — treat as duplicate.
+2026-04-05 12:56:51,151 | WARNING | SkillForge-Memory | Similarity 0.874 >= 0.820 — treat as duplicate.
+2026-04-05 12:56:51,375 | INFO | SkillForge-AI | [DSA] Generated task 'Gaming leaderboards: Pair Sum Target' (L18, attempt 3)
+2026-04-05 12:56:51,571 | WARNING | SkillForge-Memory | Similarity 0.828 >= 0.820 — treat as duplicate.
+2026-04-05 12:56:51,861 | WARNING | SkillForge-Memory | Similarity 0.841 >= 0.820 — treat as duplicate.
+2026-04-05 12:56:52,104 | INFO | SkillForge-AI | [DSA] Generated task 'Gaming leaderboards: Pair Sum Target' (L19, attempt 3)
+2026-04-05 12:56:52,302 | WARNING | SkillForge-Memory | Similarity 0.840 >= 0.820 — treat as duplicate.
+2026-04-05 12:56:52,536 | WARNING | SkillForge-Memory | Similarity 0.840 >= 0.820 — treat as duplicate.
+2026-04-05 12:56:52,811 | WARNING | SkillForge-Memory | Similarity 0.840 >= 0.820 — treat as duplicate.
+2026-04-05 12:56:52,913 | WARNING | SkillForge-Memory | Similarity 0.822 >= 0.820 — treat as duplicate.
+2026-04-05 12:56:53,041 | WARNING | SkillForge-Memory | Similarity 0.826 >= 0.820 — treat as duplicate.
+2026-04-05 12:56:53,326 | WARNING | SkillForge-Memory | Similarity 0.828 >= 0.820 — treat as duplicate.
+2026-04-05 12:56:53,595 | INFO | SkillForge-AI | [DSA] Generated task 'Logistics routing: Pair Sum Target' (L20, attempt 7)
+2026-04-05 12:56:53,900 | INFO | SkillForge-AI | [DSA] Generated task 'Travel bookings: Pair Sum Target' (L21, attempt 1)
+2026-04-05 12:56:54,262 | WARNING | SkillForge-Memory | Similarity 0.843 >= 0.820 — treat as duplicate.
+2026-04-05 12:56:54,498 | WARNING | SkillForge-Memory | Similarity 0.826 >= 0.820 — treat as duplicate.
+2026-04-05 12:56:54,643 | WARNING | SkillForge-Memory | Similarity 0.835 >= 0.820 — treat as duplicate.
+2026-04-05 12:56:55,097 | INFO | SkillForge-AI | [DSA] Generated task 'Education LMS: Pair Sum Target' (L22, attempt 4)
+2026-04-05 12:56:55,267 | WARNING | SkillForge-Memory | Similarity 0.918 >= 0.820 — treat as duplicate.
+2026-04-05 12:56:55,666 | INFO | SkillForge-AI | [DSA] Generated task 'FinTech payments: Pair Sum Target' (L23, attempt 2)
+2026-04-05 12:56:55,823 | WARNING | SkillForge-Memory | Similarity 0.821 >= 0.820 — treat as duplicate.
+2026-04-05 12:56:56,066 | WARNING | SkillForge-Memory | Similarity 0.841 >= 0.820 — treat as duplicate.
+2026-04-05 12:56:56,202 | WARNING | SkillForge-Memory | Similarity 0.878 >= 0.820 — treat as duplicate.
+2026-04-05 12:56:56,842 | INFO | SkillForge-AI | [DSA] Generated task 'Gaming leaderboards: Pair Sum Target' (L24, attempt 4)
+2026-04-05 12:56:57,224 | INFO | SkillForge-AI | [DSA] Generated task 'FinTech payments: Pair Sum Target' (L25, attempt 1)
+2026-04-05 12:56:57,539 | WARNING | SkillForge-Memory | Similarity 0.859 >= 0.820 — treat as duplicate.
+2026-04-05 12:56:57,951 | INFO | SkillForge-AI | [DSA] Generated task 'IoT sensor streams: Pair Sum Target' (L26, attempt 2)
+2026-04-05 12:56:58,209 | WARNING | SkillForge-Memory | Similarity 0.874 >= 0.820 — treat as duplicate.
+2026-04-05 12:56:58,433 | WARNING | SkillForge-Memory | Similarity 0.859 >= 0.820 — treat as duplicate.
+2026-04-05 12:56:58,858 | INFO | SkillForge-AI | [DSA] Generated task 'Healthcare records: Pair Sum Target' (L27, attempt 3)
+2026-04-05 12:56:59,148 | WARNING | SkillForge-Memory | Similarity 0.839 >= 0.820 — treat as duplicate.
+2026-04-05 12:56:59,456 | WARNING | SkillForge-Memory | Similarity 0.835 >= 0.820 — treat as duplicate.
+2026-04-05 12:56:59,754 | WARNING | SkillForge-Memory | Similarity 0.827 >= 0.820 — treat as duplicate.
+2026-04-05 12:56:59,979 | WARNING | SkillForge-Memory | Similarity 0.822 >= 0.820 — treat as duplicate.
+2026-04-05 12:57:00,107 | WARNING | SkillForge-Memory | Similarity 0.839 >= 0.820 — treat as duplicate.
+2026-04-05 12:57:00,496 | INFO | SkillForge-AI | [DSA] Generated task 'FinTech payments: Pair Sum Target' (L28, attempt 6)
+2026-04-05 12:57:00,733 | WARNING | SkillForge-Memory | Similarity 0.858 >= 0.820 — treat as duplicate.
+2026-04-05 12:57:00,788 | WARNING | SkillForge-Memory | Similarity 0.839 >= 0.820 — treat as duplicate.
+2026-04-05 12:57:01,357 | INFO | SkillForge-AI | [DSA] Generated task 'Education LMS: Pair Sum Target' (L29, attempt 3)
+2026-04-05 12:57:01,570 | WARNING | SkillForge-Memory | Similarity 0.877 >= 0.820 — treat as duplicate.
+2026-04-05 12:57:02,013 | INFO | SkillForge-AI | [DSA] Generated task 'Education LMS: Pair Sum Target' (L30, attempt 2)
+2026-04-05 12:57:02,692 | INFO | SkillForge-AI | [DSA] Generated task 'Gaming leaderboards: Pair Sum Target' (L31, attempt 1)
+2026-04-05 12:57:03,001 | WARNING | SkillForge-Memory | Similarity 0.822 >= 0.820 — treat as duplicate.
+2026-04-05 12:57:03,257 | WARNING | SkillForge-Memory | Similarity 0.866 >= 0.820 — treat as duplicate.
+2026-04-05 12:57:03,724 | INFO | SkillForge-AI | [DSA] Generated task 'IoT sensor streams: Pair Sum Target' (L32, attempt 3)
+2026-04-05 12:57:04,286 | INFO | SkillForge-AI | [DSA] Generated task 'Healthcare records: Pair Sum Target' (L33, attempt 1)
+2026-04-05 12:57:04,658 | INFO | SkillForge-AI | [DSA] Generated task 'Education LMS: Pair Sum Target' (L34, attempt 1)
+2026-04-05 12:57:05,091 | INFO | SkillForge-AI | [DSA] Generated task 'FinTech payments: Pair Sum Target' (L35, attempt 1)
+2026-04-05 12:57:05,268 | WARNING | SkillForge-Memory | Similarity 0.844 >= 0.820 — treat as duplicate.
+2026-04-05 12:57:05,498 | WARNING | SkillForge-Memory | Similarity 0.822 >= 0.820 — treat as duplicate.
+2026-04-05 12:57:05,769 | WARNING | SkillForge-Memory | Similarity 0.834 >= 0.820 — treat as duplicate.
+2026-04-05 12:57:06,149 | INFO | SkillForge-AI | [DSA] Generated task 'FinTech payments: Pair Sum Target' (L36, attempt 4)
+2026-04-05 12:57:06,515 | WARNING | SkillForge-Memory | Similarity 0.822 >= 0.820 — treat as duplicate.
+2026-04-05 12:57:06,886 | INFO | SkillForge-AI | [DSA] Generated task 'Travel bookings: Pair Sum Target' (L37, attempt 2)
+2026-04-05 12:57:07,346 | INFO | SkillForge-AI | [DSA] Generated task 'Travel bookings: Pair Sum Target' (L38, attempt 1)
+2026-04-05 12:57:07,547 | WARNING | SkillForge-Memory | Similarity 0.824 >= 0.820 — treat as duplicate.
+2026-04-05 12:57:07,899 | INFO | SkillForge-AI | [DSA] Generated task 'Healthcare records: Pair Sum Target' (L39, attempt 2)
+2026-04-05 12:57:08,549 | INFO | SkillForge-AI | [DSA] Generated task 'Education LMS: Pair Sum Target' (L40, attempt 1)
+2026-04-05 12:57:08,731 | INFO | SkillForge-AI | [DSA] Generated task 'Education LMS: Rotate String Window' (L41, attempt 1)
+2026-04-05 12:57:09,230 | INFO | SkillForge-AI | [DSA] Generated task 'FinTech payments: Rotate String Window' (L42, attempt 1)
+2026-04-05 12:57:09,840 | INFO | SkillForge-AI | [DSA] Generated task 'FinTech payments: Rotate String Window' (L43, attempt 1)
+2026-04-05 12:57:10,192 | INFO | SkillForge-AI | [DSA] Generated task 'Healthcare records: Rotate String Window' (L44, attempt 1)
+2026-04-05 12:57:10,458 | INFO | SkillForge-AI | [DSA] Generated task 'Travel bookings: Rotate String Window' (L45, attempt 1)
+2026-04-05 12:57:10,766 | INFO | SkillForge-AI | [DSA] Generated task 'Healthcare records: Rotate String Window' (L46, attempt 1)
+2026-04-05 12:57:11,027 | INFO | SkillForge-AI | [DSA] Generated task 'Travel bookings: Rotate String Window' (L47, attempt 1)
+2026-04-05 12:57:11,321 | WARNING | SkillForge-Memory | Similarity 0.836 >= 0.820 — treat as duplicate.
+2026-04-05 12:57:11,556 | INFO | SkillForge-AI | [DSA] Generated task 'Healthcare records: Rotate String Window' (L48, attempt 2)
+2026-04-05 12:57:11,922 | INFO | SkillForge-AI | [DSA] Generated task 'IoT sensor streams: Rotate String Window' (L49, attempt 1)
+2026-04-05 12:57:12,140 | INFO | SkillForge-AI | [DSA] Generated task 'E-commerce catalog: Rotate String Window' (L50, attempt 1)
+2026-04-05 12:57:12,553 | INFO | SkillForge-AI | [DSA] Generated task 'Gaming leaderboards: Rotate String Window' (L51, attempt 1)
+2026-04-05 12:57:12,840 | INFO | SkillForge-AI | [DSA] Generated task 'Travel bookings: Rotate String Window' (L52, attempt 1)
+2026-04-05 12:57:13,133 | WARNING | SkillForge-Memory | Similarity 0.834 >= 0.820 — treat as duplicate.
+2026-04-05 12:57:13,530 | INFO | SkillForge-AI | [DSA] Generated task 'Gaming leaderboards: Rotate String Window' (L53, attempt 2)
+2026-04-05 12:57:13,732 | INFO | SkillForge-AI | [DSA] Generated task 'Travel bookings: Rotate String Window' (L54, attempt 1)
+2026-04-05 12:57:14,164 | INFO | SkillForge-AI | [DSA] Generated task 'Logistics routing: Rotate String Window' (L55, attempt 1)
+2026-04-05 12:57:14,437 | WARNING | SkillForge-Memory | Similarity 0.861 >= 0.820 — treat as duplicate.
+2026-04-05 12:57:14,657 | WARNING | SkillForge-Memory | Similarity 0.822 >= 0.820 — treat as duplicate.
+2026-04-05 12:57:14,800 | WARNING | SkillForge-Memory | Similarity 0.868 >= 0.820 — treat as duplicate.
+2026-04-05 12:57:15,012 | WARNING | SkillForge-Memory | Similarity 0.884 >= 0.820 — treat as duplicate.
+2026-04-05 12:57:15,326 | INFO | SkillForge-AI | [DSA] Generated task 'Healthcare records: Rotate String Window' (L56, attempt 5)
+2026-04-05 12:57:15,563 | WARNING | SkillForge-Memory | Similarity 0.820 >= 0.820 — treat as duplicate.
+2026-04-05 12:57:15,870 | INFO | SkillForge-AI | [DSA] Generated task 'Education LMS: Rotate String Window' (L57, attempt 2)
+2026-04-05 12:57:16,219 | INFO | SkillForge-AI | [DSA] Generated task 'Healthcare records: Rotate String Window' (L58, attempt 1)
+2026-04-05 12:57:16,500 | INFO | SkillForge-AI | [DSA] Generated task 'Healthcare records: Rotate String Window' (L59, attempt 1)
+2026-04-05 12:57:17,044 | INFO | SkillForge-AI | [DSA] Generated task 'Logistics routing: Rotate String Window' (L60, attempt 1)
+2026-04-05 12:57:17,570 | INFO | SkillForge-AI | [DSA] Generated task 'Education LMS: Rotate String Window' (L61, attempt 1)
+2026-04-05 12:57:17,979 | INFO | SkillForge-AI | [DSA] Generated task 'E-commerce catalog: Rotate String Window' (L62, attempt 1)
+2026-04-05 12:57:18,184 | WARNING | SkillForge-Memory | Similarity 0.844 >= 0.820 — treat as duplicate.
+2026-04-05 12:57:18,671 | INFO | SkillForge-AI | [DSA] Generated task 'Gaming leaderboards: Rotate String Window' (L63, attempt 2)
+2026-04-05 12:57:19,068 | INFO | SkillForge-AI | [DSA] Generated task 'Education LMS: Rotate String Window' (L64, attempt 1)
+2026-04-05 12:57:19,305 | WARNING | SkillForge-Memory | Similarity 0.853 >= 0.820 — treat as duplicate.
+2026-04-05 12:57:19,540 | WARNING | SkillForge-Memory | Similarity 0.834 >= 0.820 — treat as duplicate.
+2026-04-05 12:57:19,951 | INFO | SkillForge-AI | [DSA] Generated task 'Education LMS: Rotate String Window' (L65, attempt 3)
+2026-04-05 12:57:20,177 | WARNING | SkillForge-Memory | Similarity 0.865 >= 0.820 — treat as duplicate.
+2026-04-05 12:57:20,556 | INFO | SkillForge-AI | [DSA] Generated task 'FinTech payments: Rotate String Window' (L66, attempt 2)
+2026-04-05 12:57:20,850 | WARNING | SkillForge-Memory | Similarity 0.825 >= 0.820 — treat as duplicate.
+2026-04-05 12:57:21,070 | INFO | SkillForge-AI | [DSA] Generated task 'Travel bookings: Rotate String Window' (L67, attempt 2)
+2026-04-05 12:57:21,347 | INFO | SkillForge-AI | [DSA] Generated task 'Education LMS: Rotate String Window' (L68, attempt 1)
+2026-04-05 12:57:21,618 | WARNING | SkillForge-Memory | Similarity 0.879 >= 0.820 — treat as duplicate.
+2026-04-05 12:57:21,890 | INFO | SkillForge-AI | [DSA] Generated task 'Travel bookings: Rotate String Window' (L69, attempt 2)
+2026-04-05 12:57:22,243 | INFO | SkillForge-AI | [DSA] Generated task 'E-commerce catalog: Rotate String Window' (L70, attempt 1)
+2026-04-05 12:57:22,700 | INFO | SkillForge-AI | [DSA] Generated task 'Logistics routing: Rotate String Window' (L71, attempt 1)
+2026-04-05 12:57:22,879 | WARNING | SkillForge-Memory | Similarity 0.882 >= 0.820 — treat as duplicate.
+2026-04-05 12:57:23,499 | INFO | SkillForge-AI | [DSA] Generated task 'IoT sensor streams: Rotate String Window' (L72, attempt 2)
+2026-04-05 12:57:23,902 | INFO | SkillForge-AI | [DSA] Generated task 'Education LMS: Rotate String Window' (L73, attempt 1)
+2026-04-05 12:57:24,442 | INFO | SkillForge-AI | [DSA] Generated task 'Education LMS: Rotate String Window' (L74, attempt 1)
+2026-04-05 12:57:24,993 | INFO | SkillForge-AI | [DSA] Generated task 'Travel bookings: Rotate String Window' (L75, attempt 1)
+2026-04-05 12:57:25,165 | INFO | SkillForge-AI | [DSA] Generated task 'FinTech payments: Longest Increasing Subsequence Length' (L76, attempt 1)
+2026-04-05 12:57:25,549 | INFO | SkillForge-AI | [DSA] Generated task 'Travel bookings: Longest Increasing Subsequence Length' (L77, attempt 1)
+2026-04-05 12:57:25,843 | INFO | SkillForge-AI | [DSA] Generated task 'Travel bookings: Longest Increasing Subsequence Length' (L78, attempt 1)
+2026-04-05 12:57:26,093 | INFO | SkillForge-AI | [DSA] Generated task 'IoT sensor streams: Longest Increasing Subsequence Length' (L79, attempt 1)
+2026-04-05 12:57:26,456 | INFO | SkillForge-AI | [DSA] Generated task 'E-commerce catalog: Longest Increasing Subsequence Length' (L80, attempt 1)
+2026-04-05 12:57:26,794 | INFO | SkillForge-AI | [DSA] Generated task 'Healthcare records: Longest Increasing Subsequence Length' (L81, attempt 1)
+2026-04-05 12:57:26,960 | WARNING | SkillForge-Memory | Similarity 0.835 >= 0.820 — treat as duplicate.
+2026-04-05 12:57:27,172 | WARNING | SkillForge-Memory | Similarity 0.820 >= 0.820 — treat as duplicate.
+2026-04-05 12:57:27,484 | INFO | SkillForge-AI | [DSA] Generated task 'Education LMS: Longest Increasing Subsequence Length' (L82, attempt 3)
+2026-04-05 12:57:27,906 | INFO | SkillForge-AI | [DSA] Generated task 'Logistics routing: Longest Increasing Subsequence Length' (L83, attempt 1)
+2026-04-05 12:57:28,110 | WARNING | SkillForge-Memory | Similarity 0.831 >= 0.820 — treat as duplicate.
+2026-04-05 12:57:28,381 | WARNING | SkillForge-Memory | Similarity 0.853 >= 0.820 — treat as duplicate.
+2026-04-05 12:57:28,596 | INFO | SkillForge-AI | [DSA] Generated task 'Gaming leaderboards: Longest Increasing Subsequence Length' (L84, attempt 3)
+2026-04-05 12:57:28,949 | INFO | SkillForge-AI | [DSA] Generated task 'Gaming leaderboards: Longest Increasing Subsequence Length' (L85, attempt 1)
+2026-04-05 12:57:29,159 | WARNING | SkillForge-Memory | Similarity 0.947 >= 0.820 — treat as duplicate.
+2026-04-05 12:57:29,906 | INFO | SkillForge-AI | [DSA] Generated task 'Gaming leaderboards: Longest Increasing Subsequence Length' (L86, attempt 2)
+2026-04-05 12:57:30,108 | INFO | SkillForge-AI | [DSA] Generated task 'Travel bookings: Longest Increasing Subsequence Length' (L87, attempt 1)
+2026-04-05 12:57:30,661 | INFO | SkillForge-AI | [DSA] Generated task 'Education LMS: Longest Increasing Subsequence Length' (L88, attempt 1)
+2026-04-05 12:57:31,257 | INFO | SkillForge-AI | [DSA] Generated task 'FinTech payments: Longest Increasing Subsequence Length' (L89, attempt 1)
+2026-04-05 12:57:31,435 | WARNING | SkillForge-Memory | Similarity 0.879 >= 0.820 — treat as duplicate.
+2026-04-05 12:57:31,739 | WARNING | SkillForge-Memory | Similarity 0.821 >= 0.820 — treat as duplicate.
+2026-04-05 12:57:32,594 | INFO | SkillForge-AI | [DSA] Generated task 'FinTech payments: Longest Increasing Subsequence Length' (L90, attempt 3)
+2026-04-05 12:57:32,931 | INFO | SkillForge-AI | [DSA] Generated task 'Travel bookings: Longest Increasing Subsequence Length' (L91, attempt 1)
+2026-04-05 12:57:33,200 | WARNING | SkillForge-Memory | Similarity 0.933 >= 0.820 — treat as duplicate.
+2026-04-05 12:57:33,492 | INFO | SkillForge-AI | [DSA] Generated task 'Travel bookings: Longest Increasing Subsequence Length' (L92, attempt 2)
+2026-04-05 12:57:34,092 | INFO | SkillForge-AI | [DSA] Generated task 'Gaming leaderboards: Longest Increasing Subsequence Length' (L93, attempt 1)
+2026-04-05 12:57:34,339 | WARNING | SkillForge-Memory | Similarity 0.847 >= 0.820 — treat as duplicate.
+2026-04-05 12:57:34,799 | INFO | SkillForge-AI | [DSA] Generated task 'Education LMS: Longest Increasing Subsequence Length' (L94, attempt 2)
+2026-04-05 12:57:35,156 | WARNING | SkillForge-Memory | Similarity 0.836 >= 0.820 — treat as duplicate.
+2026-04-05 12:57:35,392 | WARNING | SkillForge-Memory | Similarity 0.820 >= 0.820 — treat as duplicate.
+2026-04-05 12:57:35,654 | WARNING | SkillForge-Memory | Similarity 0.835 >= 0.820 — treat as duplicate.
+2026-04-05 12:57:36,196 | INFO | SkillForge-AI | [DSA] Generated task 'Logistics routing: Longest Increasing Subsequence Length' (L95, attempt 4)
+2026-04-05 12:57:36,478 | WARNING | SkillForge-Memory | Similarity 0.852 >= 0.820 — treat as duplicate.
+2026-04-05 12:57:36,635 | WARNING | SkillForge-Memory | Similarity 0.998 >= 0.820 — treat as duplicate.
+2026-04-05 12:57:36,832 | WARNING | SkillForge-Memory | Similarity 0.991 >= 0.820 — treat as duplicate.
+2026-04-05 12:57:37,080 | WARNING | SkillForge-Memory | Similarity 1.000 >= 0.820 — treat as duplicate.
+2026-04-05 12:57:37,379 | WARNING | SkillForge-Memory | Similarity 0.917 >= 0.820 — treat as duplicate.
+2026-04-05 12:57:37,748 | WARNING | SkillForge-Memory | Similarity 0.852 >= 0.820 — treat as duplicate.
+2026-04-05 12:57:38,295 | INFO | SkillForge-AI | [DSA] Generated task 'FinTech payments: Longest Increasing Subsequence Length' (L96, attempt 7)
+2026-04-05 12:57:38,651 | WARNING | SkillForge-Memory | Similarity 0.908 >= 0.820 — treat as duplicate.
+2026-04-05 12:57:39,013 | INFO | SkillForge-AI | [DSA] Generated task 'E-commerce catalog: Longest Increasing Subsequence Length' (L97, attempt 2)
+2026-04-05 12:57:39,443 | INFO | SkillForge-AI | [DSA] Generated task 'Logistics routing: Longest Increasing Subsequence Length' (L98, attempt 1)
+2026-04-05 12:57:39,674 | WARNING | SkillForge-Memory | Similarity 0.835 >= 0.820 — treat as duplicate.
+2026-04-05 12:57:40,051 | INFO | SkillForge-AI | [DSA] Generated task 'Gaming leaderboards: Longest Increasing Subsequence Length' (L99, attempt 2)
+2026-04-05 12:57:40,272 | WARNING | SkillForge-Memory | Similarity 0.949 >= 0.820 — treat as duplicate.
+2026-04-05 12:57:40,417 | WARNING | SkillForge-Memory | Similarity 0.845 >= 0.820 — treat as duplicate.
+2026-04-05 12:57:40,932 | INFO | SkillForge-AI | [DSA] Generated task 'Gaming leaderboards: Longest Increasing Subsequence Length' (L100, attempt 3)
+2026-04-05 12:57:41,486 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Healthcare records: Flexbox Centering Snippet' (L1, attempt 1)
+2026-04-05 12:57:41,794 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Education LMS: Flexbox Centering Snippet' (L2, attempt 1)
+2026-04-05 12:57:42,073 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Gaming leaderboards: Flexbox Centering Snippet' (L3, attempt 1)
+2026-04-05 12:57:42,446 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Logistics routing: Flexbox Centering Snippet' (L4, attempt 1)
+2026-04-05 12:57:42,634 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Logistics routing: Flexbox Centering Snippet' (L5, attempt 1)
+2026-04-05 12:57:43,180 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Education LMS: Flexbox Centering Snippet' (L6, attempt 1)
+2026-04-05 12:57:43,488 | INFO | SkillForge-AI | [FRONTEND] Generated task 'IoT sensor streams: Flexbox Centering Snippet' (L7, attempt 1)
+2026-04-05 12:57:43,817 | WARNING | SkillForge-Memory | Similarity 0.893 >= 0.820 — treat as duplicate.
+2026-04-05 12:57:44,028 | WARNING | SkillForge-Memory | Similarity 0.837 >= 0.820 — treat as duplicate.
+2026-04-05 12:57:44,457 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Gaming leaderboards: Flexbox Centering Snippet' (L8, attempt 3)
+2026-04-05 12:57:44,901 | WARNING | SkillForge-Memory | Similarity 0.893 >= 0.820 — treat as duplicate.
+2026-04-05 12:57:45,330 | WARNING | SkillForge-Memory | Similarity 0.846 >= 0.820 — treat as duplicate.
+2026-04-05 12:57:45,586 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Education LMS: Flexbox Centering Snippet' (L9, attempt 3)
+2026-04-05 12:57:46,056 | INFO | SkillForge-AI | [FRONTEND] Generated task 'E-commerce catalog: Flexbox Centering Snippet' (L10, attempt 1)
+2026-04-05 12:57:46,252 | WARNING | SkillForge-Memory | Similarity 0.820 >= 0.820 — treat as duplicate.
+2026-04-05 12:57:46,516 | WARNING | SkillForge-Memory | Similarity 0.822 >= 0.820 — treat as duplicate.
+2026-04-05 12:57:46,679 | WARNING | SkillForge-Memory | Similarity 0.853 >= 0.820 — treat as duplicate.
+2026-04-05 12:57:47,038 | WARNING | SkillForge-Memory | Similarity 0.946 >= 0.820 — treat as duplicate.
+2026-04-05 12:57:47,334 | WARNING | SkillForge-Memory | Similarity 0.848 >= 0.820 — treat as duplicate.
+2026-04-05 12:57:47,659 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Logistics routing: Flexbox Centering Snippet' (L11, attempt 6)
+2026-04-05 12:57:48,162 | INFO | SkillForge-AI | [FRONTEND] Generated task 'FinTech payments: Flexbox Centering Snippet' (L12, attempt 1)
+2026-04-05 12:57:48,511 | WARNING | SkillForge-Memory | Similarity 0.921 >= 0.820 — treat as duplicate.
+2026-04-05 12:57:48,943 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Education LMS: Flexbox Centering Snippet' (L13, attempt 2)
+2026-04-05 12:57:49,316 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Healthcare records: Flexbox Centering Snippet' (L14, attempt 1)
+2026-04-05 12:57:49,717 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Education LMS: Flexbox Centering Snippet' (L15, attempt 1)
+2026-04-05 12:57:49,973 | WARNING | SkillForge-Memory | Similarity 0.823 >= 0.820 — treat as duplicate.
+2026-04-05 12:57:50,159 | WARNING | SkillForge-Memory | Similarity 0.906 >= 0.820 — treat as duplicate.
+2026-04-05 12:57:50,459 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Healthcare records: Flexbox Centering Snippet' (L16, attempt 3)
+2026-04-05 12:57:50,824 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Healthcare records: Flexbox Centering Snippet' (L17, attempt 1)
+2026-04-05 12:57:51,694 | INFO | SkillForge-AI | [FRONTEND] Generated task 'FinTech payments: Flexbox Centering Snippet' (L18, attempt 1)
+2026-04-05 12:57:52,019 | INFO | SkillForge-AI | [FRONTEND] Generated task 'E-commerce catalog: Flexbox Centering Snippet' (L19, attempt 1)
+2026-04-05 12:57:52,253 | WARNING | SkillForge-Memory | Similarity 0.829 >= 0.820 — treat as duplicate.
+2026-04-05 12:57:53,083 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Education LMS: Flexbox Centering Snippet' (L20, attempt 2)
+2026-04-05 12:57:53,832 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Gaming leaderboards: Flexbox Centering Snippet' (L21, attempt 1)
+2026-04-05 12:57:54,159 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Gaming leaderboards: Flexbox Centering Snippet' (L22, attempt 1)
+2026-04-05 12:57:54,583 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Logistics routing: Flexbox Centering Snippet' (L23, attempt 1)
+2026-04-05 12:57:55,054 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Education LMS: Flexbox Centering Snippet' (L24, attempt 1)
+2026-04-05 12:57:55,609 | INFO | SkillForge-AI | [FRONTEND] Generated task 'IoT sensor streams: Flexbox Centering Snippet' (L25, attempt 1)
+2026-04-05 12:57:56,107 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Education LMS: Flexbox Centering Snippet' (L26, attempt 1)
+2026-04-05 12:57:56,554 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Travel bookings: Flexbox Centering Snippet' (L27, attempt 1)
+2026-04-05 12:57:56,868 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Gaming leaderboards: Flexbox Centering Snippet' (L28, attempt 1)
+2026-04-05 12:57:57,167 | INFO | SkillForge-AI | [FRONTEND] Generated task 'IoT sensor streams: Flexbox Centering Snippet' (L29, attempt 1)
+2026-04-05 12:57:57,506 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Healthcare records: Flexbox Centering Snippet' (L30, attempt 1)
+2026-04-05 12:57:57,996 | INFO | SkillForge-AI | [FRONTEND] Generated task 'IoT sensor streams: Flexbox Centering Snippet' (L31, attempt 1)
+2026-04-05 12:57:58,493 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Healthcare records: Flexbox Centering Snippet' (L32, attempt 1)
+2026-04-05 12:57:58,689 | WARNING | SkillForge-Memory | Similarity 0.853 >= 0.820 — treat as duplicate.
+2026-04-05 12:57:59,049 | INFO | SkillForge-AI | [FRONTEND] Generated task 'E-commerce catalog: Flexbox Centering Snippet' (L33, attempt 2)
+2026-04-05 12:57:59,524 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Gaming leaderboards: Flexbox Centering Snippet' (L34, attempt 1)
+2026-04-05 12:57:59,990 | INFO | SkillForge-AI | [FRONTEND] Generated task 'IoT sensor streams: Flexbox Centering Snippet' (L35, attempt 1)
+2026-04-05 12:58:00,369 | WARNING | SkillForge-Memory | Similarity 0.905 >= 0.820 — treat as duplicate.
+2026-04-05 12:58:00,805 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Logistics routing: Flexbox Centering Snippet' (L36, attempt 2)
+2026-04-05 12:58:01,275 | INFO | SkillForge-AI | [FRONTEND] Generated task 'FinTech payments: Flexbox Centering Snippet' (L37, attempt 1)
+2026-04-05 12:58:02,018 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Gaming leaderboards: Flexbox Centering Snippet' (L38, attempt 1)
+2026-04-05 12:58:02,346 | WARNING | SkillForge-Memory | Similarity 0.917 >= 0.820 — treat as duplicate.
+2026-04-05 12:58:03,182 | INFO | SkillForge-AI | [FRONTEND] Generated task 'FinTech payments: Flexbox Centering Snippet' (L39, attempt 2)
+2026-04-05 12:58:03,536 | INFO | SkillForge-AI | [FRONTEND] Generated task 'FinTech payments: Flexbox Centering Snippet' (L40, attempt 1)
+2026-04-05 12:58:03,948 | WARNING | SkillForge-Memory | Similarity 0.968 >= 0.820 — treat as duplicate.
+2026-04-05 12:58:04,276 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Logistics routing: Flexbox Centering Snippet' (L41, attempt 2)
+2026-04-05 12:58:04,921 | INFO | SkillForge-AI | [FRONTEND] Generated task 'E-commerce catalog: Flexbox Centering Snippet' (L42, attempt 1)
+2026-04-05 12:58:05,269 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Travel bookings: Flexbox Centering Snippet' (L43, attempt 1)
+2026-04-05 12:58:05,760 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Education LMS: Flexbox Centering Snippet' (L44, attempt 1)
+2026-04-05 12:58:06,060 | INFO | SkillForge-AI | [FRONTEND] Generated task 'E-commerce catalog: Flexbox Centering Snippet' (L45, attempt 1)
+2026-04-05 12:58:06,236 | WARNING | SkillForge-Memory | Similarity 0.853 >= 0.820 — treat as duplicate.
+2026-04-05 12:58:06,535 | WARNING | SkillForge-Memory | Similarity 0.885 >= 0.820 — treat as duplicate.
+2026-04-05 12:58:07,128 | WARNING | SkillForge-Memory | Similarity 0.825 >= 0.820 — treat as duplicate.
+2026-04-05 12:58:07,767 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Travel bookings: Flexbox Centering Snippet' (L46, attempt 4)
+2026-04-05 12:58:08,091 | INFO | SkillForge-AI | [FRONTEND] Generated task 'IoT sensor streams: Flexbox Centering Snippet' (L47, attempt 1)
+2026-04-05 12:58:08,398 | WARNING | SkillForge-Memory | Similarity 0.840 >= 0.820 — treat as duplicate.
+2026-04-05 12:58:08,711 | WARNING | SkillForge-Memory | Similarity 0.837 >= 0.820 — treat as duplicate.
+2026-04-05 12:58:09,135 | WARNING | SkillForge-Memory | Similarity 0.915 >= 0.820 — treat as duplicate.
+2026-04-05 12:58:09,938 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Logistics routing: Flexbox Centering Snippet' (L48, attempt 4)
+2026-04-05 12:58:10,376 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Healthcare records: Flexbox Centering Snippet' (L49, attempt 1)
+2026-04-05 12:58:10,924 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Education LMS: Flexbox Centering Snippet' (L50, attempt 1)
+2026-04-05 12:58:11,319 | WARNING | SkillForge-Memory | Similarity 0.850 >= 0.820 — treat as duplicate.
+2026-04-05 12:58:11,626 | WARNING | SkillForge-Memory | Similarity 0.823 >= 0.820 — treat as duplicate.
+2026-04-05 12:58:53,479 | INFO | SkillForge-Memory | Loaded 150 scenario fingerprints from C:\nextgen\ai_engine\storage\scenario_memory.json
+2026-04-05 12:58:57,444 | INFO | SkillForge-AI | Loading google/flan-t5-small onto cuda (lazy)...
+2026-04-05 12:58:58,177 | INFO | httpx | HTTP Request: HEAD https://huggingface.co/google/flan-t5-small/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-04-05 12:58:58,252 | INFO | httpx | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/google/flan-t5-small/0fc9ddf78a1e988dac52e2dac162b0ede4fd74ab/config.json "HTTP/1.1 200 OK"
+2026-04-05 12:58:58,599 | INFO | httpx | HTTP Request: HEAD https://huggingface.co/google/flan-t5-small/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-04-05 12:58:58,666 | INFO | httpx | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/google/flan-t5-small/0fc9ddf78a1e988dac52e2dac162b0ede4fd74ab/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-04-05 12:58:59,068 | INFO | httpx | HTTP Request: GET https://huggingface.co/api/models/google/flan-t5-small/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-04-05 12:58:59,391 | INFO | httpx | HTTP Request: GET https://huggingface.co/api/models/google/flan-t5-small/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-04-05 12:58:59,938 | INFO | httpx | HTTP Request: HEAD https://huggingface.co/google/flan-t5-small/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-04-05 12:58:59,998 | INFO | httpx | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/google/flan-t5-small/0fc9ddf78a1e988dac52e2dac162b0ede4fd74ab/config.json "HTTP/1.1 200 OK"
+2026-04-05 12:59:01,734 | INFO | httpx | HTTP Request: HEAD https://huggingface.co/google/flan-t5-small/resolve/main/generation_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-04-05 12:59:01,793 | INFO | httpx | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/google/flan-t5-small/0fc9ddf78a1e988dac52e2dac162b0ede4fd74ab/generation_config.json "HTTP/1.1 200 OK"
+2026-04-05 12:59:02,717 | INFO | SkillForge-AI | [DSA] Generated task 'Education LMS: Linear Accumulator' (L1, attempt 1)
+2026-04-05 12:59:03,006 | INFO | SkillForge-AI | [DSA] Generated task 'E-commerce catalog: Linear Accumulator' (L2, attempt 1)
+2026-04-05 12:59:03,353 | INFO | SkillForge-AI | [DSA] Generated task 'Healthcare records: Linear Accumulator' (L3, attempt 1)
+2026-04-05 12:59:03,780 | INFO | SkillForge-AI | [DSA] Generated task 'Education LMS: Linear Accumulator' (L4, attempt 1)
+2026-04-05 12:59:04,073 | INFO | SkillForge-AI | [DSA] Generated task 'Gaming leaderboards: Linear Accumulator' (L5, attempt 1)
+2026-04-05 12:59:04,228 | INFO | SkillForge-AI | [DSA] Generated task 'IoT sensor streams: Linear Accumulator' (L6, attempt 1)
+2026-04-05 12:59:04,510 | INFO | SkillForge-AI | [DSA] Generated task 'E-commerce catalog: Linear Accumulator' (L7, attempt 1)
+2026-04-05 12:59:04,828 | INFO | SkillForge-AI | [DSA] Generated task 'Gaming leaderboards: Linear Accumulator' (L8, attempt 1)
+2026-04-05 12:59:05,218 | INFO | SkillForge-AI | [DSA] Generated task 'E-commerce catalog: Linear Accumulator' (L9, attempt 1)
+2026-04-05 12:59:05,521 | INFO | SkillForge-AI | [DSA] Generated task 'Gaming leaderboards: Linear Accumulator' (L10, attempt 1)
+2026-04-05 12:59:06,002 | INFO | SkillForge-AI | [DSA] Generated task 'IoT sensor streams: Linear Accumulator' (L11, attempt 1)
+2026-04-05 12:59:06,635 | INFO | SkillForge-AI | [DSA] Generated task 'Education LMS: Linear Accumulator' (L12, attempt 1)
+2026-04-05 12:59:06,880 | INFO | SkillForge-AI | [DSA] Generated task 'Healthcare records: Linear Accumulator' (L13, attempt 1)
+2026-04-05 12:59:07,211 | INFO | SkillForge-AI | [DSA] Generated task 'E-commerce catalog: Linear Accumulator' (L14, attempt 1)
+2026-04-05 12:59:07,362 | WARNING | SkillForge-Memory | Similarity 0.919 >= 0.820 — treat as duplicate.
+2026-04-05 12:59:07,629 | WARNING | SkillForge-Memory | Similarity 0.821 >= 0.820 — treat as duplicate.
+2026-04-05 12:59:08,120 | INFO | SkillForge-AI | [DSA] Generated task 'Education LMS: Linear Accumulator' (L15, attempt 3)
+2026-04-05 12:59:08,530 | INFO | SkillForge-AI | [DSA] Generated task 'Logistics routing: Linear Accumulator' (L16, attempt 1)
+2026-04-05 12:59:08,753 | WARNING | SkillForge-Memory | Similarity 0.858 >= 0.820 — treat as duplicate.
+2026-04-05 12:59:09,356 | INFO | SkillForge-AI | [DSA] Generated task 'Logistics routing: Linear Accumulator' (L17, attempt 2)
+2026-04-05 12:59:09,768 | INFO | SkillForge-AI | [DSA] Generated task 'Education LMS: Linear Accumulator' (L18, attempt 1)
+2026-04-05 12:59:10,255 | INFO | SkillForge-AI | [DSA] Generated task 'E-commerce catalog: Linear Accumulator' (L19, attempt 1)
+2026-04-05 12:59:10,483 | WARNING | SkillForge-Memory | Similarity 0.850 >= 0.820 — treat as duplicate.
+2026-04-05 12:59:10,897 | INFO | SkillForge-AI | [DSA] Generated task 'Travel bookings: Linear Accumulator' (L20, attempt 2)
+2026-04-05 12:59:11,367 | INFO | SkillForge-AI | [DSA] Generated task 'FinTech payments: Linear Accumulator' (L21, attempt 1)
+2026-04-05 12:59:11,745 | WARNING | SkillForge-Memory | Similarity 0.828 >= 0.820 — treat as duplicate.
+2026-04-05 12:59:12,042 | INFO | SkillForge-AI | [DSA] Generated task 'E-commerce catalog: Linear Accumulator' (L22, attempt 2)
+2026-04-05 12:59:12,430 | INFO | SkillForge-AI | [DSA] Generated task 'E-commerce catalog: Linear Accumulator' (L23, attempt 1)
+2026-04-05 12:59:12,792 | INFO | SkillForge-AI | [DSA] Generated task 'FinTech payments: Linear Accumulator' (L24, attempt 1)
+2026-04-05 12:59:13,111 | INFO | SkillForge-AI | [DSA] Generated task 'Education LMS: Linear Accumulator' (L25, attempt 1)
+2026-04-05 12:59:13,637 | INFO | SkillForge-AI | [DSA] Generated task 'IoT sensor streams: Linear Accumulator' (L26, attempt 1)
+2026-04-05 12:59:14,079 | WARNING | SkillForge-Memory | Similarity 0.821 >= 0.820 — treat as duplicate.
+2026-04-05 12:59:14,224 | WARNING | SkillForge-Memory | Similarity 0.893 >= 0.820 — treat as duplicate.
+2026-04-05 12:59:14,554 | INFO | SkillForge-AI | [DSA] Generated task 'FinTech payments: Linear Accumulator' (L27, attempt 3)
+2026-04-05 12:59:14,962 | INFO | SkillForge-AI | [DSA] Generated task 'Gaming leaderboards: Linear Accumulator' (L28, attempt 1)
+2026-04-05 12:59:15,563 | INFO | SkillForge-AI | [DSA] Generated task 'E-commerce catalog: Linear Accumulator' (L29, attempt 1)
+2026-04-05 12:59:15,866 | INFO | SkillForge-AI | [DSA] Generated task 'IoT sensor streams: Linear Accumulator' (L30, attempt 1)
+2026-04-05 12:59:16,222 | INFO | SkillForge-AI | [DSA] Generated task 'Gaming leaderboards: Linear Accumulator' (L31, attempt 1)
+2026-04-05 12:59:16,585 | WARNING | SkillForge-Memory | Similarity 0.830 >= 0.820 — treat as duplicate.
+2026-04-05 12:59:17,007 | INFO | SkillForge-AI | [DSA] Generated task 'Travel bookings: Linear Accumulator' (L32, attempt 2)
+2026-04-05 12:59:17,271 | INFO | SkillForge-AI | [DSA] Generated task 'Gaming leaderboards: Linear Accumulator' (L33, attempt 1)
+2026-04-05 12:59:17,667 | INFO | SkillForge-AI | [DSA] Generated task 'Travel bookings: Linear Accumulator' (L34, attempt 1)
+2026-04-05 12:59:18,047 | INFO | SkillForge-AI | [DSA] Generated task 'Education LMS: Linear Accumulator' (L35, attempt 1)
+2026-04-05 12:59:18,738 | INFO | SkillForge-AI | [DSA] Generated task 'Travel bookings: Linear Accumulator' (L36, attempt 1)
+2026-04-05 12:59:19,181 | INFO | SkillForge-AI | [DSA] Generated task 'IoT sensor streams: Linear Accumulator' (L37, attempt 1)
+2026-04-05 12:59:19,454 | WARNING | SkillForge-Memory | Similarity 0.842 >= 0.820 — treat as duplicate.
+2026-04-05 12:59:19,958 | INFO | SkillForge-AI | [DSA] Generated task 'Education LMS: Linear Accumulator' (L38, attempt 2)
+2026-04-05 12:59:20,387 | INFO | SkillForge-AI | [DSA] Generated task 'E-commerce catalog: Linear Accumulator' (L39, attempt 1)
+2026-04-05 12:59:20,544 | WARNING | SkillForge-Memory | Similarity 0.836 >= 0.820 — treat as duplicate.
+2026-04-05 12:59:20,753 | WARNING | SkillForge-Memory | Similarity 0.821 >= 0.820 — treat as duplicate.
+2026-04-05 12:59:21,018 | WARNING | SkillForge-Memory | Similarity 0.820 >= 0.820 — treat as duplicate.
+2026-04-05 12:59:21,245 | INFO | SkillForge-AI | [DSA] Generated task 'E-commerce catalog: Linear Accumulator' (L40, attempt 4)
+2026-04-05 12:59:21,504 | INFO | SkillForge-AI | [DSA] Generated task 'Education LMS: Value Search' (L41, attempt 1)
+2026-04-05 12:59:21,761 | INFO | SkillForge-AI | [DSA] Generated task 'FinTech payments: Value Search' (L42, attempt 1)
+2026-04-05 12:59:21,953 | INFO | SkillForge-AI | [DSA] Generated task 'Gaming leaderboards: Value Search' (L43, attempt 1)
+2026-04-05 12:59:22,357 | INFO | SkillForge-AI | [DSA] Generated task 'Education LMS: Value Search' (L44, attempt 1)
+2026-04-05 12:59:22,575 | WARNING | SkillForge-Memory | Similarity 0.868 >= 0.820 — treat as duplicate.
+2026-04-05 12:59:22,712 | INFO | SkillForge-AI | [DSA] Generated task 'Gaming leaderboards: Value Search' (L45, attempt 2)
+2026-04-05 12:59:23,744 | INFO | SkillForge-AI | [DSA] Generated task 'Education LMS: Value Search' (L46, attempt 1)
+2026-04-05 12:59:23,988 | INFO | SkillForge-AI | [DSA] Generated task 'Healthcare records: Value Search' (L47, attempt 1)
+2026-04-05 12:59:24,214 | INFO | SkillForge-AI | [DSA] Generated task 'Healthcare records: Value Search' (L48, attempt 1)
+2026-04-05 12:59:24,454 | WARNING | SkillForge-Memory | Similarity 0.822 >= 0.820 — treat as duplicate.
+2026-04-05 12:59:24,779 | INFO | SkillForge-AI | [DSA] Generated task 'IoT sensor streams: Value Search' (L49, attempt 2)
+2026-04-05 12:59:24,978 | INFO | SkillForge-AI | [DSA] Generated task 'Travel bookings: Value Search' (L50, attempt 1)
+2026-04-05 12:59:25,113 | WARNING | SkillForge-Memory | Similarity 0.866 >= 0.820 — treat as duplicate.
+2026-04-05 12:59:25,413 | INFO | SkillForge-AI | [DSA] Generated task 'IoT sensor streams: Value Search' (L51, attempt 2)
+2026-04-05 12:59:25,710 | WARNING | SkillForge-Memory | Similarity 0.842 >= 0.820 — treat as duplicate.
+2026-04-05 12:59:25,923 | WARNING | SkillForge-Memory | Similarity 0.828 >= 0.820 — treat as duplicate.
+2026-04-05 12:59:26,454 | INFO | SkillForge-AI | [DSA] Generated task 'FinTech payments: Value Search' (L52, attempt 3)
+2026-04-05 12:59:26,715 | INFO | SkillForge-AI | [DSA] Generated task 'Education LMS: Value Search' (L53, attempt 1)
+2026-04-05 12:59:27,056 | INFO | SkillForge-AI | [DSA] Generated task 'FinTech payments: Value Search' (L54, attempt 1)
+2026-04-05 12:59:27,276 | INFO | SkillForge-AI | [DSA] Generated task 'Education LMS: Value Search' (L55, attempt 1)
+2026-04-05 12:59:27,780 | INFO | SkillForge-AI | [DSA] Generated task 'Education LMS: Value Search' (L56, attempt 1)
+2026-04-05 12:59:28,149 | INFO | SkillForge-AI | [DSA] Generated task 'Healthcare records: Value Search' (L57, attempt 1)
+2026-04-05 12:59:28,629 | INFO | SkillForge-AI | [DSA] Generated task 'IoT sensor streams: Value Search' (L58, attempt 1)
+2026-04-05 12:59:28,827 | WARNING | SkillForge-Memory | Similarity 0.839 >= 0.820 — treat as duplicate.
+2026-04-05 12:59:29,219 | INFO | SkillForge-AI | [DSA] Generated task 'E-commerce catalog: Value Search' (L59, attempt 2)
+2026-04-05 12:59:29,790 | INFO | SkillForge-AI | [DSA] Generated task 'Travel bookings: Value Search' (L60, attempt 1)
+2026-04-05 12:59:30,127 | WARNING | SkillForge-Memory | Similarity 0.826 >= 0.820 — treat as duplicate.
+2026-04-05 12:59:30,439 | INFO | SkillForge-AI | [DSA] Generated task 'Logistics routing: Value Search' (L61, attempt 2)
+2026-04-05 12:59:31,082 | INFO | SkillForge-AI | [DSA] Generated task 'Travel bookings: Value Search' (L62, attempt 1)
+2026-04-05 12:59:31,369 | INFO | SkillForge-AI | [DSA] Generated task 'E-commerce catalog: Value Search' (L63, attempt 1)
+2026-04-05 12:59:31,493 | WARNING | SkillForge-Memory | Similarity 0.865 >= 0.820 — treat as duplicate.
+2026-04-05 12:59:31,812 | INFO | SkillForge-AI | [DSA] Generated task 'Gaming leaderboards: Value Search' (L64, attempt 2)
+2026-04-05 12:59:32,362 | INFO | SkillForge-AI | [DSA] Generated task 'FinTech payments: Value Search' (L65, attempt 1)
+2026-04-05 12:59:32,587 | WARNING | SkillForge-Memory | Similarity 0.850 >= 0.820 — treat as duplicate.
+2026-04-05 12:59:32,917 | INFO | SkillForge-AI | [DSA] Generated task 'IoT sensor streams: Value Search' (L66, attempt 2)
+2026-04-05 12:59:33,107 | WARNING | SkillForge-Memory | Similarity 0.834 >= 0.820 — treat as duplicate.
+2026-04-05 12:59:33,527 | INFO | SkillForge-AI | [DSA] Generated task 'FinTech payments: Value Search' (L67, attempt 2)
+2026-04-05 12:59:33,900 | INFO | SkillForge-AI | [DSA] Generated task 'Education LMS: Value Search' (L68, attempt 1)
+2026-04-05 12:59:34,323 | INFO | SkillForge-AI | [DSA] Generated task 'FinTech payments: Value Search' (L69, attempt 1)
+2026-04-05 12:59:34,652 | INFO | SkillForge-AI | [DSA] Generated task 'IoT sensor streams: Value Search' (L70, attempt 1)
+2026-04-05 12:59:34,835 | WARNING | SkillForge-Memory | Similarity 0.824 >= 0.820 — treat as duplicate.
+2026-04-05 12:59:35,168 | INFO | SkillForge-AI | [DSA] Generated task 'Logistics routing: Value Search' (L71, attempt 2)
+2026-04-05 12:59:35,385 | INFO | SkillForge-AI | [DSA] Generated task 'E-commerce catalog: Value Search' (L72, attempt 1)
+2026-04-05 12:59:35,719 | INFO | SkillForge-AI | [DSA] Generated task 'Gaming leaderboards: Value Search' (L73, attempt 1)
+2026-04-05 12:59:35,849 | WARNING | SkillForge-Memory | Similarity 0.877 >= 0.820 — treat as duplicate.
+2026-04-05 12:59:36,250 | INFO | SkillForge-AI | [DSA] Generated task 'Gaming leaderboards: Value Search' (L74, attempt 2)
+2026-04-05 12:59:36,521 | WARNING | SkillForge-Memory | Similarity 0.827 >= 0.820 — treat as duplicate.
+2026-04-05 12:59:37,046 | WARNING | SkillForge-Memory | Similarity 0.857 >= 0.820 — treat as duplicate.
+2026-04-05 12:59:37,435 | INFO | SkillForge-AI | [DSA] Generated task 'IoT sensor streams: Value Search' (L75, attempt 3)
+2026-04-05 12:59:37,780 | INFO | SkillForge-AI | [DSA] Generated task 'IoT sensor streams: Optimization Quest' (L76, attempt 1)
+2026-04-05 12:59:37,913 | INFO | SkillForge-AI | [DSA] Generated task 'Healthcare records: Optimization Quest' (L77, attempt 1)
+2026-04-05 12:59:38,273 | INFO | SkillForge-AI | [DSA] Generated task 'IoT sensor streams: Optimization Quest' (L78, attempt 1)
+2026-04-05 12:59:38,663 | INFO | SkillForge-AI | [DSA] Generated task 'Education LMS: Optimization Quest' (L79, attempt 1)
+2026-04-05 12:59:39,096 | INFO | SkillForge-AI | [DSA] Generated task 'E-commerce catalog: Optimization Quest' (L80, attempt 1)
+2026-04-05 12:59:39,450 | INFO | SkillForge-AI | [DSA] Generated task 'Travel bookings: Optimization Quest' (L81, attempt 1)
+2026-04-05 12:59:40,019 | INFO | SkillForge-AI | [DSA] Generated task 'Gaming leaderboards: Optimization Quest' (L82, attempt 1)
+2026-04-05 12:59:40,517 | INFO | SkillForge-AI | [DSA] Generated task 'Travel bookings: Optimization Quest' (L83, attempt 1)
+2026-04-05 12:59:41,137 | INFO | SkillForge-AI | [DSA] Generated task 'IoT sensor streams: Optimization Quest' (L84, attempt 1)
+2026-04-05 12:59:41,771 | INFO | SkillForge-AI | [DSA] Generated task 'IoT sensor streams: Optimization Quest' (L85, attempt 1)
+2026-04-05 12:59:42,032 | INFO | SkillForge-AI | [DSA] Generated task 'Healthcare records: Optimization Quest' (L86, attempt 1)
+2026-04-05 12:59:42,421 | INFO | SkillForge-AI | [DSA] Generated task 'Healthcare records: Optimization Quest' (L87, attempt 1)
+2026-04-05 12:59:42,759 | INFO | SkillForge-AI | [DSA] Generated task 'Healthcare records: Optimization Quest' (L88, attempt 1)
+2026-04-05 12:59:43,140 | INFO | SkillForge-AI | [DSA] Generated task 'Education LMS: Optimization Quest' (L89, attempt 1)
+2026-04-05 12:59:43,378 | INFO | SkillForge-AI | [DSA] Generated task 'Gaming leaderboards: Optimization Quest' (L90, attempt 1)
+2026-04-05 12:59:43,622 | INFO | SkillForge-AI | [DSA] Generated task 'Travel bookings: Optimization Quest' (L91, attempt 1)
+2026-04-05 12:59:43,906 | WARNING | SkillForge-Memory | Similarity 0.865 >= 0.820 — treat as duplicate.
+2026-04-05 12:59:44,282 | INFO | SkillForge-AI | [DSA] Generated task 'Education LMS: Optimization Quest' (L92, attempt 2)
+2026-04-05 12:59:44,941 | INFO | SkillForge-AI | [DSA] Generated task 'Education LMS: Optimization Quest' (L93, attempt 1)
+2026-04-05 12:59:45,451 | INFO | SkillForge-AI | [DSA] Generated task 'FinTech payments: Optimization Quest' (L94, attempt 1)
+2026-04-05 12:59:45,796 | INFO | SkillForge-AI | [DSA] Generated task 'FinTech payments: Optimization Quest' (L95, attempt 1)
+2026-04-05 12:59:46,125 | INFO | SkillForge-AI | [DSA] Generated task 'Travel bookings: Optimization Quest' (L96, attempt 1)
+2026-04-05 12:59:46,365 | INFO | SkillForge-AI | [DSA] Generated task 'Logistics routing: Optimization Quest' (L97, attempt 1)
+2026-04-05 12:59:46,553 | WARNING | SkillForge-Memory | Similarity 0.831 >= 0.820 — treat as duplicate.
+2026-04-05 12:59:46,964 | INFO | SkillForge-AI | [DSA] Generated task 'Education LMS: Optimization Quest' (L98, attempt 2)
+2026-04-05 12:59:47,563 | INFO | SkillForge-AI | [DSA] Generated task 'Education LMS: Optimization Quest' (L99, attempt 1)
+2026-04-05 12:59:47,851 | INFO | SkillForge-AI | [DSA] Generated task 'Gaming leaderboards: Optimization Quest' (L100, attempt 1)
+2026-04-05 12:59:48,187 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Logistics routing: Grid Area' (L1, attempt 1)
+2026-04-05 12:59:48,570 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Logistics routing: Flexbox Layout' (L2, attempt 1)
+2026-04-05 12:59:48,944 | INFO | SkillForge-AI | [FRONTEND] Generated task 'E-commerce catalog: Grid Area' (L3, attempt 1)
+2026-04-05 12:59:49,276 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Travel bookings: Grid Area' (L4, attempt 1)
+2026-04-05 12:59:49,535 | INFO | SkillForge-AI | [FRONTEND] Generated task 'FinTech payments: Grid Area' (L5, attempt 1)
+2026-04-05 12:59:49,760 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Healthcare records: Grid Area' (L6, attempt 1)
+2026-04-05 12:59:50,048 | INFO | SkillForge-AI | [FRONTEND] Generated task 'E-commerce catalog: Grid Area' (L7, attempt 1)
+2026-04-05 12:59:50,302 | INFO | SkillForge-AI | [FRONTEND] Generated task 'E-commerce catalog: Flexbox Layout' (L8, attempt 1)
+2026-04-05 12:59:50,443 | INFO | SkillForge-AI | [FRONTEND] Generated task 'E-commerce catalog: Flexbox Layout' (L9, attempt 1)
+2026-04-05 12:59:50,904 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Travel bookings: Flexbox Layout' (L10, attempt 1)
+2026-04-05 12:59:51,195 | INFO | SkillForge-AI | [FRONTEND] Generated task 'E-commerce catalog: Flexbox Layout' (L11, attempt 1)
+2026-04-05 12:59:51,493 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Healthcare records: Grid Area' (L12, attempt 1)
+2026-04-05 12:59:52,084 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Travel bookings: Grid Area' (L13, attempt 1)
+2026-04-05 12:59:52,339 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Logistics routing: Grid Area' (L14, attempt 1)
+2026-04-05 12:59:52,786 | INFO | SkillForge-AI | [FRONTEND] Generated task 'IoT sensor streams: Flexbox Layout' (L15, attempt 1)
+2026-04-05 12:59:53,059 | INFO | SkillForge-AI | [FRONTEND] Generated task 'E-commerce catalog: Grid Area' (L16, attempt 1)
+2026-04-05 12:59:53,329 | INFO | SkillForge-AI | [FRONTEND] Generated task 'E-commerce catalog: Flexbox Layout' (L17, attempt 1)
+2026-04-05 12:59:53,571 | INFO | SkillForge-AI | [FRONTEND] Generated task 'E-commerce catalog: Grid Area' (L18, attempt 1)
+2026-04-05 12:59:54,227 | INFO | SkillForge-AI | [FRONTEND] Generated task 'IoT sensor streams: Flexbox Layout' (L19, attempt 1)
+2026-04-05 12:59:54,866 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Education LMS: Grid Area' (L20, attempt 1)
+2026-04-05 12:59:55,186 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Travel bookings: Flexbox Layout' (L21, attempt 1)
+2026-04-05 12:59:55,446 | INFO | SkillForge-AI | [FRONTEND] Generated task 'E-commerce catalog: Grid Area' (L22, attempt 1)
+2026-04-05 12:59:55,745 | INFO | SkillForge-AI | [FRONTEND] Generated task 'FinTech payments: Flexbox Layout' (L23, attempt 1)
+2026-04-05 12:59:55,970 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Logistics routing: Grid Area' (L24, attempt 1)
+2026-04-05 12:59:56,371 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Travel bookings: Flexbox Layout' (L25, attempt 1)
+2026-04-05 12:59:56,897 | INFO | SkillForge-AI | [FRONTEND] Generated task 'FinTech payments: Grid Area' (L26, attempt 1)
+2026-04-05 12:59:57,152 | WARNING | SkillForge-Memory | Similarity 0.876 >= 0.820 — treat as duplicate.
+2026-04-05 12:59:57,493 | INFO | SkillForge-AI | [FRONTEND] Generated task 'IoT sensor streams: Grid Area' (L27, attempt 2)
+2026-04-05 12:59:57,853 | INFO | SkillForge-AI | [FRONTEND] Generated task 'E-commerce catalog: Flexbox Layout' (L28, attempt 1)
+2026-04-05 12:59:58,111 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Gaming leaderboards: Grid Area' (L29, attempt 1)
+2026-04-05 12:59:58,386 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Logistics routing: Grid Area' (L30, attempt 1)
+2026-04-05 12:59:58,802 | INFO | SkillForge-AI | [FRONTEND] Generated task 'FinTech payments: Flexbox Layout' (L31, attempt 1)
+2026-04-05 12:59:59,090 | INFO | SkillForge-AI | [FRONTEND] Generated task 'E-commerce catalog: Flexbox Layout' (L32, attempt 1)
+2026-04-05 12:59:59,457 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Travel bookings: Grid Area' (L33, attempt 1)
+2026-04-05 12:59:59,809 | WARNING | SkillForge-Memory | Similarity 0.860 >= 0.820 — treat as duplicate.
+2026-04-05 13:00:00,145 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Gaming leaderboards: Grid Area' (L34, attempt 2)
+2026-04-05 13:00:00,516 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Logistics routing: Flexbox Layout' (L35, attempt 1)
+2026-04-05 13:00:00,789 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Travel bookings: Flexbox Layout' (L36, attempt 1)
+2026-04-05 13:00:01,115 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Education LMS: Grid Area' (L37, attempt 1)
+2026-04-05 13:00:01,585 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Education LMS: Grid Area' (L38, attempt 1)
+2026-04-05 13:00:01,969 | INFO | SkillForge-AI | [FRONTEND] Generated task 'FinTech payments: Flexbox Layout' (L39, attempt 1)
+2026-04-05 13:00:02,353 | INFO | SkillForge-AI | [FRONTEND] Generated task 'IoT sensor streams: Flexbox Layout' (L40, attempt 1)
+2026-04-05 13:00:03,150 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Gaming leaderboards: Flexbox Layout' (L41, attempt 1)
+2026-04-05 13:00:03,448 | INFO | SkillForge-AI | [FRONTEND] Generated task 'E-commerce catalog: Grid Area' (L42, attempt 1)
+2026-04-05 13:00:03,637 | WARNING | SkillForge-Memory | Similarity 0.822 >= 0.820 — treat as duplicate.
+2026-04-05 13:00:03,821 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Gaming leaderboards: Grid Area' (L43, attempt 2)
+2026-04-05 13:00:04,071 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Travel bookings: Flexbox Layout' (L44, attempt 1)
+2026-04-05 13:00:05,168 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Logistics routing: Flexbox Layout' (L45, attempt 1)
+2026-04-05 13:00:05,504 | INFO | SkillForge-AI | [FRONTEND] Generated task 'IoT sensor streams: Grid Area' (L46, attempt 1)
+2026-04-05 13:00:05,765 | WARNING | SkillForge-Memory | Similarity 0.827 >= 0.820 — treat as duplicate.
+2026-04-05 13:00:06,373 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Healthcare records: Flexbox Layout' (L47, attempt 2)
+2026-04-05 13:00:06,833 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Education LMS: Flexbox Layout' (L48, attempt 1)
+2026-04-05 13:00:07,386 | INFO | SkillForge-AI | [FRONTEND] Generated task 'E-commerce catalog: Grid Area' (L49, attempt 1)
+2026-04-05 13:00:07,696 | INFO | SkillForge-AI | [FRONTEND] Generated task 'FinTech payments: Grid Area' (L50, attempt 1)
+2026-04-05 13:00:07,932 | INFO | SkillForge-AI | [FRONTEND] Generated task 'FinTech payments: Grid Area' (L51, attempt 1)
+2026-04-05 13:00:08,280 | INFO | SkillForge-AI | [FRONTEND] Generated task 'FinTech payments: Grid Area' (L52, attempt 1)
+2026-04-05 13:00:08,613 | WARNING | SkillForge-Memory | Similarity 0.895 >= 0.820 — treat as duplicate.
+2026-04-05 13:00:09,317 | INFO | SkillForge-AI | [FRONTEND] Generated task 'IoT sensor streams: Flexbox Layout' (L53, attempt 2)
+2026-04-05 13:00:09,723 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Gaming leaderboards: Flexbox Layout' (L54, attempt 1)
+2026-04-05 13:00:10,275 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Travel bookings: Flexbox Layout' (L55, attempt 1)
+2026-04-05 13:00:10,842 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Logistics routing: Grid Area' (L56, attempt 1)
+2026-04-05 13:00:11,301 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Education LMS: Flexbox Layout' (L57, attempt 1)
+2026-04-05 13:00:11,606 | INFO | SkillForge-AI | [FRONTEND] Generated task 'IoT sensor streams: Grid Area' (L58, attempt 1)
+2026-04-05 13:00:11,883 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Logistics routing: Flexbox Layout' (L59, attempt 1)
+2026-04-05 13:00:12,278 | INFO | SkillForge-AI | [FRONTEND] Generated task 'E-commerce catalog: Grid Area' (L60, attempt 1)
+2026-04-05 13:00:12,506 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Gaming leaderboards: Grid Area' (L61, attempt 1)
+2026-04-05 13:00:13,095 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Travel bookings: Grid Area' (L62, attempt 1)
+2026-04-05 13:00:13,372 | WARNING | SkillForge-Memory | Similarity 0.828 >= 0.820 — treat as duplicate.
+2026-04-05 13:00:13,653 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Education LMS: Flexbox Layout' (L63, attempt 2)
+2026-04-05 13:00:13,861 | WARNING | SkillForge-Memory | Similarity 0.836 >= 0.820 — treat as duplicate.
+2026-04-05 13:00:14,323 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Education LMS: Flexbox Layout' (L64, attempt 2)
+2026-04-05 13:00:14,590 | WARNING | SkillForge-Memory | Similarity 0.823 >= 0.820 — treat as duplicate.
+2026-04-05 13:00:14,893 | INFO | SkillForge-AI | [FRONTEND] Generated task 'FinTech payments: Flexbox Layout' (L65, attempt 2)
+2026-04-05 13:00:15,212 | INFO | SkillForge-AI | [FRONTEND] Generated task 'FinTech payments: Flexbox Layout' (L66, attempt 1)
+2026-04-05 13:00:15,448 | WARNING | SkillForge-Memory | Similarity 0.846 >= 0.820 — treat as duplicate.
+2026-04-05 13:00:15,719 | WARNING | SkillForge-Memory | Similarity 0.840 >= 0.820 — treat as duplicate.
+2026-04-05 13:00:16,292 | INFO | SkillForge-AI | [FRONTEND] Generated task 'E-commerce catalog: Flexbox Layout' (L67, attempt 3)
+2026-04-05 13:00:16,508 | WARNING | SkillForge-Memory | Similarity 0.832 >= 0.820 — treat as duplicate.
+2026-04-05 13:00:16,761 | WARNING | SkillForge-Memory | Similarity 0.905 >= 0.820 — treat as duplicate.
+2026-04-05 13:00:16,993 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Logistics routing: Grid Area' (L68, attempt 3)
+2026-04-05 13:00:17,676 | INFO | SkillForge-AI | [FRONTEND] Generated task 'FinTech payments: Flexbox Layout' (L69, attempt 1)
+2026-04-05 13:00:18,256 | INFO | SkillForge-AI | [FRONTEND] Generated task 'IoT sensor streams: Flexbox Layout' (L70, attempt 1)
+2026-04-05 13:00:18,500 | INFO | SkillForge-AI | [FRONTEND] Generated task 'IoT sensor streams: Flexbox Layout' (L71, attempt 1)
+2026-04-05 13:00:18,716 | WARNING | SkillForge-Memory | Similarity 0.830 >= 0.820 — treat as duplicate.
+2026-04-05 13:00:18,937 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Travel bookings: Grid Area' (L72, attempt 2)
+2026-04-05 13:00:19,335 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Gaming leaderboards: Flexbox Layout' (L73, attempt 1)
+2026-04-05 13:00:19,517 | WARNING | SkillForge-Memory | Similarity 0.831 >= 0.820 — treat as duplicate.
+2026-04-05 13:00:19,773 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Gaming leaderboards: Flexbox Layout' (L74, attempt 2)
+2026-04-05 13:00:20,093 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Education LMS: Flexbox Layout' (L75, attempt 1)
+2026-04-05 13:00:20,493 | INFO | SkillForge-AI | [FRONTEND] Generated task 'IoT sensor streams: Flexbox Layout' (L76, attempt 1)
+2026-04-05 13:00:20,701 | WARNING | SkillForge-Memory | Similarity 0.866 >= 0.820 — treat as duplicate.
+2026-04-05 13:00:21,178 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Education LMS: Flexbox Layout' (L77, attempt 2)
+2026-04-05 13:00:21,572 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Gaming leaderboards: Flexbox Layout' (L78, attempt 1)
+2026-04-05 13:00:22,123 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Healthcare records: Flexbox Layout' (L79, attempt 1)
+2026-04-05 13:00:22,417 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Gaming leaderboards: Flexbox Layout' (L80, attempt 1)
+2026-04-05 13:00:22,829 | INFO | SkillForge-AI | [FRONTEND] Generated task 'FinTech payments: Flexbox Layout' (L81, attempt 1)
+2026-04-05 13:00:23,206 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Education LMS: Flexbox Layout' (L82, attempt 1)
+2026-04-05 13:00:23,490 | WARNING | SkillForge-Memory | Similarity 0.975 >= 0.820 — treat as duplicate.
+2026-04-05 13:00:23,877 | INFO | SkillForge-AI | [FRONTEND] Generated task 'FinTech payments: Grid Area' (L83, attempt 2)
+2026-04-05 13:00:24,249 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Travel bookings: Grid Area' (L84, attempt 1)
+2026-04-05 13:00:24,631 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Travel bookings: Grid Area' (L85, attempt 1)
+2026-04-05 13:00:25,150 | INFO | SkillForge-AI | [FRONTEND] Generated task 'IoT sensor streams: Flexbox Layout' (L86, attempt 1)
+2026-04-05 13:00:25,565 | INFO | SkillForge-AI | [FRONTEND] Generated task 'FinTech payments: Grid Area' (L87, attempt 1)
+2026-04-05 13:00:25,732 | WARNING | SkillForge-Memory | Similarity 0.857 >= 0.820 — treat as duplicate.
+2026-04-05 13:00:26,335 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Travel bookings: Grid Area' (L88, attempt 2)
+2026-04-05 13:00:26,962 | INFO | SkillForge-AI | [FRONTEND] Generated task 'IoT sensor streams: Flexbox Layout' (L89, attempt 1)
+2026-04-05 13:00:27,179 | WARNING | SkillForge-Memory | Similarity 0.843 >= 0.820 — treat as duplicate.
+2026-04-05 13:00:27,496 | WARNING | SkillForge-Memory | Similarity 0.829 >= 0.820 — treat as duplicate.
+2026-04-05 13:00:27,781 | INFO | SkillForge-AI | [FRONTEND] Generated task 'IoT sensor streams: Flexbox Layout' (L90, attempt 3)
+2026-04-05 13:00:28,372 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Gaming leaderboards: Grid Area' (L91, attempt 1)
+2026-04-05 13:00:28,577 | WARNING | SkillForge-Memory | Similarity 0.842 >= 0.820 — treat as duplicate.
+2026-04-05 13:00:29,122 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Logistics routing: Flexbox Layout' (L92, attempt 2)
+2026-04-05 13:00:29,377 | WARNING | SkillForge-Memory | Similarity 0.824 >= 0.820 — treat as duplicate.
+2026-04-05 13:00:29,584 | WARNING | SkillForge-Memory | Similarity 0.832 >= 0.820 — treat as duplicate.
+2026-04-05 13:00:29,973 | WARNING | SkillForge-Memory | Similarity 0.828 >= 0.820 — treat as duplicate.
+2026-04-05 13:00:30,184 | WARNING | SkillForge-Memory | Similarity 0.838 >= 0.820 — treat as duplicate.
+2026-04-05 13:00:30,877 | INFO | SkillForge-AI | [FRONTEND] Generated task 'E-commerce catalog: Grid Area' (L93, attempt 5)
+2026-04-05 13:00:31,331 | INFO | SkillForge-AI | [FRONTEND] Generated task 'FinTech payments: Flexbox Layout' (L94, attempt 1)
+2026-04-05 13:00:31,663 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Gaming leaderboards: Grid Area' (L95, attempt 1)
+2026-04-05 13:00:32,043 | WARNING | SkillForge-Memory | Similarity 0.845 >= 0.820 — treat as duplicate.
+2026-04-05 13:00:32,812 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Logistics routing: Flexbox Layout' (L96, attempt 2)
+2026-04-05 13:00:33,242 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Logistics routing: Flexbox Layout' (L97, attempt 1)
+2026-04-05 13:00:33,557 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Logistics routing: Grid Area' (L98, attempt 1)
+2026-04-05 13:00:33,880 | WARNING | SkillForge-Memory | Similarity 0.826 >= 0.820 — treat as duplicate.
+2026-04-05 13:00:34,235 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Travel bookings: Grid Area' (L99, attempt 2)
+2026-04-05 13:00:34,472 | INFO | SkillForge-AI | [FRONTEND] Generated task 'Travel bookings: Grid Area' (L100, attempt 1)
+2026-04-05 13:00:34,868 | INFO | SkillForge-AI | [BACKEND] Generated task 'FinTech payments: Status Mapper' (L1, attempt 1)
+2026-04-05 13:00:35,256 | INFO | SkillForge-AI | [BACKEND] Generated task 'IoT sensor streams: Status Mapper' (L2, attempt 1)
+2026-04-05 13:00:35,913 | INFO | SkillForge-AI | [BACKEND] Generated task 'FinTech payments: Status Mapper' (L3, attempt 1)
+2026-04-05 13:00:36,141 | INFO | SkillForge-AI | [BACKEND] Generated task 'Healthcare records: Status Mapper' (L4, attempt 1)
+2026-04-05 13:00:36,548 | INFO | SkillForge-AI | [BACKEND] Generated task 'FinTech payments: Status Mapper' (L5, attempt 1)
+2026-04-05 13:00:36,910 | INFO | SkillForge-AI | [BACKEND] Generated task 'FinTech payments: Status Mapper' (L6, attempt 1)
+2026-04-05 13:00:37,256 | INFO | SkillForge-AI | [BACKEND] Generated task 'Healthcare records: Status Mapper' (L7, attempt 1)
+2026-04-05 13:00:37,616 | INFO | SkillForge-AI | [BACKEND] Generated task 'Education LMS: Status Mapper' (L8, attempt 1)
+2026-04-05 13:00:37,950 | INFO | SkillForge-AI | [BACKEND] Generated task 'E-commerce catalog: Status Mapper' (L9, attempt 1)
+2026-04-05 13:00:38,441 | INFO | SkillForge-AI | [BACKEND] Generated task 'Education LMS: Status Mapper' (L10, attempt 1)
+2026-04-05 13:00:38,754 | WARNING | SkillForge-Memory | Similarity 0.843 >= 0.820 — treat as duplicate.
+2026-04-05 13:00:38,997 | INFO | SkillForge-AI | [BACKEND] Generated task 'Education LMS: Status Mapper' (L11, attempt 2)
+2026-04-05 13:00:39,320 | INFO | SkillForge-AI | [BACKEND] Generated task 'Healthcare records: Status Mapper' (L12, attempt 1)
+2026-04-05 13:00:39,590 | WARNING | SkillForge-Memory | Similarity 0.858 >= 0.820 — treat as duplicate.
+2026-04-05 13:00:39,981 | WARNING | SkillForge-Memory | Similarity 0.854 >= 0.820 — treat as duplicate.
+2026-04-05 13:00:40,269 | WARNING | SkillForge-Memory | Similarity 0.831 >= 0.820 — treat as duplicate.
+2026-04-05 13:00:40,604 | WARNING | SkillForge-Memory | Similarity 0.894 >= 0.820 — treat as duplicate.
+2026-04-05 13:00:40,826 | INFO | SkillForge-AI | [BACKEND] Generated task 'Travel bookings: Status Mapper' (L13, attempt 5)
+2026-04-05 13:00:41,091 | INFO | SkillForge-AI | [BACKEND] Generated task 'E-commerce catalog: Status Mapper' (L14, attempt 1)
+2026-04-05 13:00:41,656 | INFO | SkillForge-AI | [BACKEND] Generated task 'E-commerce catalog: Status Mapper' (L15, attempt 1)
+2026-04-05 13:00:42,227 | INFO | SkillForge-AI | [BACKEND] Generated task 'FinTech payments: Status Mapper' (L16, attempt 1)
+2026-04-05 13:00:42,551 | WARNING | SkillForge-Memory | Similarity 0.885 >= 0.820 — treat as duplicate.
+2026-04-05 13:00:42,719 | WARNING | SkillForge-Memory | Similarity 0.828 >= 0.820 — treat as duplicate.
+2026-04-05 13:00:43,031 | WARNING | SkillForge-Memory | Similarity 0.834 >= 0.820 — treat as duplicate.
+2026-04-05 13:00:43,457 | INFO | SkillForge-AI | [BACKEND] Generated task 'Healthcare records: Status Mapper' (L17, attempt 4)
+2026-04-05 13:00:44,093 | INFO | SkillForge-AI | [BACKEND] Generated task 'Gaming leaderboards: Status Mapper' (L18, attempt 1)
+2026-04-05 13:00:44,393 | INFO | SkillForge-AI | [BACKEND] Generated task 'IoT sensor streams: Status Mapper' (L19, attempt 1)
+2026-04-05 13:00:44,810 | INFO | SkillForge-AI | [BACKEND] Generated task 'IoT sensor streams: Status Mapper' (L20, attempt 1)
+2026-04-05 13:00:45,090 | INFO | SkillForge-AI | [BACKEND] Generated task 'FinTech payments: Status Mapper' (L21, attempt 1)
+2026-04-05 13:00:45,337 | WARNING | SkillForge-Memory | Similarity 0.868 >= 0.820 — treat as duplicate.
+2026-04-05 13:00:45,773 | WARNING | SkillForge-Memory | Similarity 0.852 >= 0.820 — treat as duplicate.
+2026-04-05 13:00:45,913 | WARNING | SkillForge-Memory | Similarity 0.828 >= 0.820 — treat as duplicate.
+2026-04-05 13:00:46,289 | INFO | SkillForge-AI | [BACKEND] Generated task 'IoT sensor streams: Status Mapper' (L22, attempt 4)
+2026-04-05 13:00:46,724 | INFO | SkillForge-AI | [BACKEND] Generated task 'IoT sensor streams: Status Mapper' (L23, attempt 1)
+2026-04-05 13:00:47,065 | WARNING | SkillForge-Memory | Similarity 0.831 >= 0.820 — treat as duplicate.
+2026-04-05 13:00:47,517 | INFO | SkillForge-AI | [BACKEND] Generated task 'E-commerce catalog: Status Mapper' (L24, attempt 2)
+2026-04-05 13:00:47,782 | WARNING | SkillForge-Memory | Similarity 0.839 >= 0.820 — treat as duplicate.
+2026-04-05 13:00:48,086 | WARNING | SkillForge-Memory | Similarity 0.834 >= 0.820 — treat as duplicate.
+2026-04-05 13:00:48,542 | INFO | SkillForge-AI | [BACKEND] Generated task 'Gaming leaderboards: Status Mapper' (L25, attempt 3)
+2026-04-05 13:00:48,840 | WARNING | SkillForge-Memory | Similarity 0.829 >= 0.820 — treat as duplicate.
+2026-04-05 13:00:49,109 | WARNING | SkillForge-Memory | Similarity 0.849 >= 0.820 — treat as duplicate.
+2026-04-05 13:00:49,487 | INFO | SkillForge-AI | [BACKEND] Generated task 'Travel bookings: Status Mapper' (L26, attempt 3)
+2026-04-05 13:00:49,732 | WARNING | SkillForge-Memory | Similarity 0.824 >= 0.820 — treat as duplicate.
+2026-04-05 13:00:50,329 | INFO | SkillForge-AI | [BACKEND] Generated task 'Gaming leaderboards: Status Mapper' (L27, attempt 2)
+2026-04-05 13:00:50,649 | WARNING | SkillForge-Memory | Similarity 0.856 >= 0.820 — treat as duplicate.
+2026-04-05 13:00:50,952 | WARNING | SkillForge-Memory | Similarity 0.897 >= 0.820 — treat as duplicate.
+2026-04-05 13:00:51,295 | INFO | SkillForge-AI | [BACKEND] Generated task 'Gaming leaderboards: Status Mapper' (L28, attempt 3)
+2026-04-05 13:00:51,762 | INFO | SkillForge-AI | [BACKEND] Generated task 'FinTech payments: Status Mapper' (L29, attempt 1)
+2026-04-05 13:00:52,270 | INFO | SkillForge-AI | [BACKEND] Generated task 'Travel bookings: Status Mapper' (L30, attempt 1)
+2026-04-05 13:00:52,536 | WARNING | SkillForge-Memory | Similarity 0.826 >= 0.820 — treat as duplicate.
+2026-04-05 13:00:53,282 | INFO | SkillForge-AI | [BACKEND] Generated task 'Gaming leaderboards: Status Mapper' (L31, attempt 2)
+2026-04-05 13:00:53,797 | WARNING | SkillForge-Memory | Similarity 0.853 >= 0.820 — treat as duplicate.
+2026-04-05 13:00:54,336 | WARNING | SkillForge-Memory | Similarity 0.890 >= 0.820 — treat as duplicate.
+2026-04-05 13:00:54,717 | INFO | SkillForge-AI | [BACKEND] Generated task 'FinTech payments: Status Mapper' (L32, attempt 3)
+2026-04-05 13:00:55,242 | INFO | SkillForge-AI | [BACKEND] Generated task 'E-commerce catalog: Status Mapper' (L33, attempt 1)
+2026-04-05 13:00:55,625 | INFO | SkillForge-AI | [BACKEND] Generated task 'E-commerce catalog: Status Mapper' (L34, attempt 1)
+2026-04-05 13:00:56,020 | WARNING | SkillForge-Memory | Similarity 0.838 >= 0.820 — treat as duplicate.
+2026-04-05 13:00:56,734 | INFO | SkillForge-AI | [BACKEND] Generated task 'Travel bookings: Status Mapper' (L35, attempt 2)
+2026-04-05 13:00:57,363 | INFO | SkillForge-AI | [BACKEND] Generated task 'Education LMS: Status Mapper' (L36, attempt 1)
+2026-04-05 13:00:57,985 | INFO | SkillForge-AI | [BACKEND] Generated task 'Gaming leaderboards: Status Mapper' (L37, attempt 1)
+2026-04-05 13:00:58,541 | INFO | SkillForge-AI | [BACKEND] Generated task 'Education LMS: Status Mapper' (L38, attempt 1)
+2026-04-05 13:00:58,889 | WARNING | SkillForge-Memory | Similarity 0.911 >= 0.820 — treat as duplicate.
+2026-04-05 13:00:59,452 | WARNING | SkillForge-Memory | Similarity 0.831 >= 0.820 — treat as duplicate.
+2026-04-05 13:00:59,722 | WARNING | SkillForge-Memory | Similarity 0.903 >= 0.820 — treat as duplicate.
+2026-04-05 13:01:00,017 | WARNING | SkillForge-Memory | Similarity 0.827 >= 0.820 — treat as duplicate.
+2026-04-05 13:01:00,365 | INFO | SkillForge-AI | [BACKEND] Generated task 'Travel bookings: Status Mapper' (L39, attempt 5)
+2026-04-05 13:01:02,450 | INFO | SkillForge-AI | [BACKEND] Generated task 'Logistics routing: Status Mapper' (L40, attempt 1)
+2026-04-05 13:01:02,847 | INFO | SkillForge-AI | [BACKEND] Generated task 'IoT sensor streams: JSON Filter' (L41, attempt 1)
+2026-04-05 13:01:03,169 | INFO | SkillForge-AI | [BACKEND] Generated task 'Travel bookings: JSON Filter' (L42, attempt 1)
+2026-04-05 13:01:03,667 | INFO | SkillForge-AI | [BACKEND] Generated task 'E-commerce catalog: JSON Filter' (L43, attempt 1)
+2026-04-05 13:01:03,971 | INFO | SkillForge-AI | [BACKEND] Generated task 'Healthcare records: JSON Filter' (L44, attempt 1)
+2026-04-05 13:01:04,390 | INFO | SkillForge-AI | [BACKEND] Generated task 'Travel bookings: JSON Filter' (L45, attempt 1)
+2026-04-05 13:01:04,964 | WARNING | SkillForge-Memory | Similarity 0.873 >= 0.820 — treat as duplicate.
+2026-04-05 13:01:05,418 | INFO | SkillForge-AI | [BACKEND] Generated task 'E-commerce catalog: JSON Filter' (L46, attempt 2)
+2026-04-05 13:01:05,842 | INFO | SkillForge-AI | [BACKEND] Generated task 'Healthcare records: JSON Filter' (L47, attempt 1)
+2026-04-05 13:01:06,233 | WARNING | SkillForge-Memory | Similarity 0.858 >= 0.820 — treat as duplicate.
+2026-04-05 13:01:06,814 | INFO | SkillForge-AI | [BACKEND] Generated task 'Gaming leaderboards: JSON Filter' (L48, attempt 2)
+2026-04-05 13:01:07,302 | INFO | SkillForge-AI | [BACKEND] Generated task 'FinTech payments: JSON Filter' (L49, attempt 1)
+2026-04-05 13:01:07,615 | WARNING | SkillForge-Memory | Similarity 0.914 >= 0.820 — treat as duplicate.
+2026-04-05 13:01:08,172 | INFO | SkillForge-AI | [BACKEND] Generated task 'IoT sensor streams: JSON Filter' (L50, attempt 2)
+2026-04-05 13:01:08,545 | INFO | SkillForge-AI | [BACKEND] Generated task 'Gaming leaderboards: JSON Filter' (L51, attempt 1)
+2026-04-05 13:01:08,978 | INFO | SkillForge-AI | [BACKEND] Generated task 'Gaming leaderboards: JSON Filter' (L52, attempt 1)
+2026-04-05 13:01:09,372 | INFO | SkillForge-AI | [BACKEND] Generated task 'IoT sensor streams: JSON Filter' (L53, attempt 1)
+2026-04-05 13:01:09,847 | INFO | SkillForge-AI | [BACKEND] Generated task 'Gaming leaderboards: JSON Filter' (L54, attempt 1)
+2026-04-05 13:01:10,163 | WARNING | SkillForge-Memory | Similarity 0.904 >= 0.820 — treat as duplicate.
+2026-04-05 13:01:10,591 | WARNING | SkillForge-Memory | Similarity 0.918 >= 0.820 — treat as duplicate.
+2026-04-05 13:01:10,936 | WARNING | SkillForge-Memory | Similarity 0.842 >= 0.820 — treat as duplicate.
+2026-04-05 13:01:11,367 | INFO | SkillForge-AI | [BACKEND] Generated task 'Healthcare records: JSON Filter' (L55, attempt 4)
+2026-04-05 13:01:12,187 | INFO | SkillForge-AI | [BACKEND] Generated task 'FinTech payments: JSON Filter' (L56, attempt 1)
+2026-04-05 13:01:12,630 | INFO | SkillForge-AI | [BACKEND] Generated task 'IoT sensor streams: JSON Filter' (L57, attempt 1)
+2026-04-05 13:01:13,036 | INFO | SkillForge-AI | [BACKEND] Generated task 'Travel bookings: JSON Filter' (L58, attempt 1)
+2026-04-05 13:01:13,515 | INFO | SkillForge-AI | [BACKEND] Generated task 'FinTech payments: JSON Filter' (L59, attempt 1)
+2026-04-05 13:01:13,942 | INFO | SkillForge-AI | [BACKEND] Generated task 'FinTech payments: JSON Filter' (L60, attempt 1)
+2026-04-05 13:01:14,506 | INFO | SkillForge-AI | [BACKEND] Generated task 'Healthcare records: JSON Filter' (L61, attempt 1)
+2026-04-05 13:01:14,939 | INFO | SkillForge-AI | [BACKEND] Generated task 'Logistics routing: JSON Filter' (L62, attempt 1)
+2026-04-05 13:01:15,245 | INFO | SkillForge-AI | [BACKEND] Generated task 'FinTech payments: JSON Filter' (L63, attempt 1)
+2026-04-05 13:01:15,685 | INFO | SkillForge-AI | [BACKEND] Generated task 'Education LMS: JSON Filter' (L64, attempt 1)
+2026-04-05 13:01:16,079 | WARNING | SkillForge-Memory | Similarity 0.825 >= 0.820 — treat as duplicate.
+2026-04-05 13:01:16,524 | WARNING | SkillForge-Memory | Similarity 0.843 >= 0.820 — treat as duplicate.
+2026-04-05 13:01:16,944 | INFO | SkillForge-AI | [BACKEND] Generated task 'Healthcare records: JSON Filter' (L65, attempt 3)
+2026-04-05 13:01:17,300 | WARNING | SkillForge-Memory | Similarity 0.845 >= 0.820 — treat as duplicate.
+2026-04-05 13:01:17,545 | WARNING | SkillForge-Memory | Similarity 0.836 >= 0.820 — treat as duplicate.
+2026-04-05 13:01:18,056 | INFO | SkillForge-AI | [BACKEND] Generated task 'FinTech payments: JSON Filter' (L66, attempt 3)
+2026-04-05 13:01:18,442 | WARNING | SkillForge-Memory | Similarity 0.834 >= 0.820 — treat as duplicate.
+2026-04-05 13:01:19,090 | INFO | SkillForge-AI | [BACKEND] Generated task 'FinTech payments: JSON Filter' (L67, attempt 2)
+2026-04-05 13:01:19,597 | WARNING | SkillForge-Memory | Similarity 0.822 >= 0.820 — treat as duplicate.
+2026-04-05 13:01:19,922 | WARNING | SkillForge-Memory | Similarity 0.822 >= 0.820 — treat as duplicate.
+2026-04-05 13:01:20,309 | INFO | SkillForge-AI | [BACKEND] Generated task 'Logistics routing: JSON Filter' (L68, attempt 3)
+2026-04-05 13:01:20,599 | WARNING | SkillForge-Memory | Similarity 0.887 >= 0.820 — treat as duplicate.
+2026-04-05 13:01:21,088 | WARNING | SkillForge-Memory | Similarity 0.872 >= 0.820 — treat as duplicate.
+2026-04-05 13:01:21,450 | WARNING | SkillForge-Memory | Similarity 0.852 >= 0.820 — treat as duplicate.
+2026-04-05 13:01:21,865 | INFO | SkillForge-AI | [BACKEND] Generated task 'E-commerce catalog: JSON Filter' (L69, attempt 4)
+2026-04-05 13:01:22,239 | INFO | SkillForge-AI | [BACKEND] Generated task 'Logistics routing: JSON Filter' (L70, attempt 1)
+2026-04-05 13:01:23,151 | INFO | SkillForge-AI | [BACKEND] Generated task 'FinTech payments: JSON Filter' (L71, attempt 1)
+2026-04-05 13:01:23,531 | INFO | SkillForge-AI | [BACKEND] Generated task 'FinTech payments: JSON Filter' (L72, attempt 1)
+2026-04-05 13:01:23,849 | WARNING | SkillForge-Memory | Similarity 0.828 >= 0.820 — treat as duplicate.
+2026-04-05 13:01:24,306 | WARNING | SkillForge-Memory | Similarity 0.862 >= 0.820 — treat as duplicate.
+2026-04-05 13:01:24,529 | WARNING | SkillForge-Memory | Similarity 0.844 >= 0.820 — treat as duplicate.
+2026-04-05 13:01:24,866 | INFO | SkillForge-AI | [BACKEND] Generated task 'Healthcare records: JSON Filter' (L73, attempt 4)
+2026-04-05 13:01:25,763 | INFO | SkillForge-AI | [BACKEND] Generated task 'IoT sensor streams: JSON Filter' (L74, attempt 1)
+2026-04-05 13:01:26,239 | INFO | SkillForge-AI | [BACKEND] Generated task 'Education LMS: JSON Filter' (L75, attempt 1)
+2026-04-05 13:01:26,569 | WARNING | SkillForge-Memory | Similarity 0.838 >= 0.820 — treat as duplicate.
+2026-04-05 13:01:26,786 | WARNING | SkillForge-Memory | Similarity 0.827 >= 0.820 — treat as duplicate.
+2026-04-05 13:01:27,091 | INFO | SkillForge-AI | [BACKEND] Generated task 'Education LMS: JSON Filter' (L76, attempt 3)
+2026-04-05 13:01:27,375 | WARNING | SkillForge-Memory | Similarity 0.835 >= 0.820 — treat as duplicate.
+2026-04-05 13:01:28,004 | INFO | SkillForge-AI | [BACKEND] Generated task 'IoT sensor streams: JSON Filter' (L77, attempt 2)
+2026-04-05 13:01:28,400 | WARNING | SkillForge-Memory | Similarity 0.823 >= 0.820 — treat as duplicate.
+2026-04-05 13:01:28,816 | INFO | SkillForge-AI | [BACKEND] Generated task 'Gaming leaderboards: JSON Filter' (L78, attempt 2)
+2026-04-05 13:01:29,241 | INFO | SkillForge-AI | [BACKEND] Generated task 'FinTech payments: JSON Filter' (L79, attempt 1)
+2026-04-05 13:01:29,517 | WARNING | SkillForge-Memory | Similarity 0.823 >= 0.820 — treat as duplicate.
+2026-04-05 13:01:29,936 | INFO | SkillForge-AI | [BACKEND] Generated task 'FinTech payments: JSON Filter' (L80, attempt 2)
+2026-04-05 13:01:30,508 | INFO | SkillForge-AI | [BACKEND] Generated task 'Education LMS: JSON Filter' (L81, attempt 1)
+2026-04-05 13:01:31,042 | INFO | SkillForge-AI | [BACKEND] Generated task 'Gaming leaderboards: JSON Filter' (L82, attempt 1)
+2026-04-05 13:01:31,569 | INFO | SkillForge-AI | [BACKEND] Generated task 'Logistics routing: JSON Filter' (L83, attempt 1)
+2026-04-05 13:01:31,848 | WARNING | SkillForge-Memory | Similarity 0.822 >= 0.820 — treat as duplicate.
+2026-04-05 13:01:32,134 | WARNING | SkillForge-Memory | Similarity 0.883 >= 0.820 — treat as duplicate.
+2026-04-05 13:01:32,406 | WARNING | SkillForge-Memory | Similarity 0.836 >= 0.820 — treat as duplicate.
+2026-04-05 13:01:32,769 | INFO | SkillForge-AI | [BACKEND] Generated task 'Gaming leaderboards: JSON Filter' (L84, attempt 4)
+2026-04-05 13:01:33,013 | WARNING | SkillForge-Memory | Similarity 0.890 >= 0.820 — treat as duplicate.
+2026-04-05 13:01:33,300 | WARNING | SkillForge-Memory | Similarity 0.892 >= 0.820 — treat as duplicate.
+2026-04-05 13:01:33,726 | WARNING | SkillForge-Memory | Similarity 0.868 >= 0.820 — treat as duplicate.
+2026-04-05 13:01:34,123 | INFO | SkillForge-AI | [BACKEND] Generated task 'Logistics routing: JSON Filter' (L85, attempt 4)
+2026-04-05 13:01:34,550 | INFO | SkillForge-AI | [BACKEND] Generated task 'Education LMS: JSON Filter' (L86, attempt 1)
+2026-04-05 13:01:34,993 | WARNING | SkillForge-Memory | Similarity 0.834 >= 0.820 — treat as duplicate.
+2026-04-05 13:01:35,573 | INFO | SkillForge-AI | [BACKEND] Generated task 'Education LMS: JSON Filter' (L87, attempt 2)
+2026-04-05 13:01:35,867 | WARNING | SkillForge-Memory | Similarity 0.856 >= 0.820 — treat as duplicate.
+2026-04-05 13:01:36,577 | INFO | SkillForge-AI | [BACKEND] Generated task 'Education LMS: JSON Filter' (L88, attempt 2)
+2026-04-05 13:01:37,035 | INFO | SkillForge-AI | [BACKEND] Generated task 'IoT sensor streams: JSON Filter' (L89, attempt 1)
+2026-04-05 13:01:37,576 | INFO | SkillForge-AI | [BACKEND] Generated task 'FinTech payments: JSON Filter' (L90, attempt 1)
+2026-04-05 13:01:38,165 | INFO | SkillForge-AI | [BACKEND] Generated task 'Healthcare records: JSON Filter' (L91, attempt 1)
+2026-04-05 13:01:38,529 | INFO | SkillForge-AI | [BACKEND] Generated task 'Healthcare records: JSON Filter' (L92, attempt 1)
+2026-04-05 13:01:38,919 | INFO | SkillForge-AI | [BACKEND] Generated task 'Education LMS: JSON Filter' (L93, attempt 1)
+2026-04-05 13:01:39,446 | INFO | SkillForge-AI | [BACKEND] Generated task 'Travel bookings: JSON Filter' (L94, attempt 1)
+2026-04-05 13:01:40,013 | INFO | SkillForge-AI | [BACKEND] Generated task 'Travel bookings: JSON Filter' (L95, attempt 1)
+2026-04-05 13:01:40,242 | WARNING | SkillForge-Memory | Similarity 0.915 >= 0.820 — treat as duplicate.
+2026-04-05 13:01:40,694 | INFO | SkillForge-AI | [BACKEND] Generated task 'Education LMS: JSON Filter' (L96, attempt 2)
+2026-04-05 13:01:41,207 | INFO | SkillForge-AI | [BACKEND] Generated task 'Education LMS: JSON Filter' (L97, attempt 1)
+2026-04-05 13:01:41,655 | INFO | SkillForge-AI | [BACKEND] Generated task 'E-commerce catalog: JSON Filter' (L98, attempt 1)
+2026-04-05 13:01:42,154 | INFO | SkillForge-AI | [BACKEND] Generated task 'Healthcare records: JSON Filter' (L99, attempt 1)
+2026-04-05 13:01:42,772 | INFO | SkillForge-AI | [BACKEND] Generated task 'Healthcare records: JSON Filter' (L100, attempt 1)
+2026-04-05 13:01:43,208 | INFO | SkillForge-AI | [SQL] Generated task 'FinTech payments: Basic Filter' (L1, attempt 1)
+2026-04-05 13:01:43,827 | INFO | SkillForge-AI | [SQL] Generated task 'Gaming leaderboards: Basic Filter' (L2, attempt 1)
+2026-04-05 13:01:44,334 | INFO | SkillForge-AI | [SQL] Generated task 'FinTech payments: Basic Filter' (L3, attempt 1)
+2026-04-05 13:01:44,644 | INFO | SkillForge-AI | [SQL] Generated task 'Healthcare records: Basic Filter' (L4, attempt 1)
+2026-04-05 13:01:45,025 | WARNING | SkillForge-Memory | Similarity 0.905 >= 0.820 — treat as duplicate.
+2026-04-05 13:01:45,123 | INFO | SkillForge-AI | [SQL] Generated task 'IoT sensor streams: Basic Filter' (L5, attempt 2)
+2026-04-05 13:01:45,434 | INFO | SkillForge-AI | [SQL] Generated task 'Travel bookings: Basic Filter' (L6, attempt 1)
+2026-04-05 13:01:45,903 | INFO | SkillForge-AI | [SQL] Generated task 'E-commerce catalog: Basic Filter' (L7, attempt 1)
+2026-04-05 13:01:46,302 | WARNING | SkillForge-Memory | Similarity 0.833 >= 0.820 — treat as duplicate.
+2026-04-05 13:01:46,715 | INFO | SkillForge-AI | [SQL] Generated task 'Logistics routing: Basic Filter' (L8, attempt 2)
+2026-04-05 13:01:47,207 | INFO | SkillForge-AI | [SQL] Generated task 'Education LMS: Basic Filter' (L9, attempt 1)
+2026-04-05 13:01:47,756 | INFO | SkillForge-AI | [SQL] Generated task 'Gaming leaderboards: Basic Filter' (L10, attempt 1)
+2026-04-05 13:01:48,087 | WARNING | SkillForge-Memory | Similarity 0.820 >= 0.820 — treat as duplicate.
+2026-04-05 13:01:48,873 | INFO | SkillForge-AI | [SQL] Generated task 'Logistics routing: Basic Filter' (L11, attempt 2)
+2026-04-05 13:01:49,367 | INFO | SkillForge-AI | [SQL] Generated task 'Gaming leaderboards: Basic Filter' (L12, attempt 1)
+2026-04-05 13:01:49,698 | INFO | SkillForge-AI | [SQL] Generated task 'Travel bookings: Basic Filter' (L13, attempt 1)
+2026-04-05 13:01:50,030 | INFO | SkillForge-AI | [SQL] Generated task 'Gaming leaderboards: Basic Filter' (L14, attempt 1)
+2026-04-05 13:01:50,815 | INFO | SkillForge-AI | [SQL] Generated task 'FinTech payments: Basic Filter' (L15, attempt 1)
+2026-04-05 13:01:51,269 | INFO | SkillForge-AI | [SQL] Generated task 'Education LMS: Basic Filter' (L16, attempt 1)
+2026-04-05 13:01:51,589 | INFO | SkillForge-AI | [SQL] Generated task 'E-commerce catalog: Basic Filter' (L17, attempt 1)
+2026-04-05 13:01:52,022 | INFO | SkillForge-AI | [SQL] Generated task 'IoT sensor streams: Basic Filter' (L18, attempt 1)
+2026-04-05 13:01:52,359 | WARNING | SkillForge-Memory | Similarity 0.846 >= 0.820 — treat as duplicate.
+2026-04-05 13:01:52,686 | INFO | SkillForge-AI | [SQL] Generated task 'Logistics routing: Basic Filter' (L19, attempt 2)
+2026-04-05 13:01:53,004 | INFO | SkillForge-AI | [SQL] Generated task 'Gaming leaderboards: Basic Filter' (L20, attempt 1)
+2026-04-05 13:01:53,535 | INFO | SkillForge-AI | [SQL] Generated task 'IoT sensor streams: Basic Filter' (L21, attempt 1)
+2026-04-05 13:01:53,840 | INFO | SkillForge-AI | [SQL] Generated task 'Education LMS: Basic Filter' (L22, attempt 1)
+2026-04-05 13:01:54,671 | INFO | SkillForge-AI | [SQL] Generated task 'E-commerce catalog: Basic Filter' (L23, attempt 1)
+2026-04-05 13:01:54,903 | INFO | SkillForge-AI | [SQL] Generated task 'IoT sensor streams: Basic Filter' (L24, attempt 1)
+2026-04-05 13:01:55,406 | INFO | SkillForge-AI | [SQL] Generated task 'Travel bookings: Basic Filter' (L25, attempt 1)
+2026-04-05 13:01:55,774 | INFO | SkillForge-AI | [SQL] Generated task 'Education LMS: Basic Filter' (L26, attempt 1)
+2026-04-05 13:01:56,346 | INFO | SkillForge-AI | [SQL] Generated task 'FinTech payments: Basic Filter' (L27, attempt 1)
+2026-04-05 13:01:56,626 | INFO | SkillForge-AI | [SQL] Generated task 'E-commerce catalog: Basic Filter' (L28, attempt 1)
+2026-04-05 13:01:56,976 | INFO | SkillForge-AI | [SQL] Generated task 'Education LMS: Basic Filter' (L29, attempt 1)
+2026-04-05 13:01:57,477 | INFO | SkillForge-AI | [SQL] Generated task 'Gaming leaderboards: Basic Filter' (L30, attempt 1)
+2026-04-05 13:01:57,804 | INFO | SkillForge-AI | [SQL] Generated task 'Gaming leaderboards: Basic Filter' (L31, attempt 1)
+2026-04-05 13:01:58,246 | INFO | SkillForge-AI | [SQL] Generated task 'Healthcare records: Basic Filter' (L32, attempt 1)
+2026-04-05 13:01:58,543 | WARNING | SkillForge-Memory | Similarity 0.843 >= 0.820 — treat as duplicate.
+2026-04-05 13:01:58,826 | INFO | SkillForge-AI | [SQL] Generated task 'FinTech payments: Basic Filter' (L33, attempt 2)
+2026-04-05 13:01:59,152 | INFO | SkillForge-AI | [SQL] Generated task 'Gaming leaderboards: Basic Filter' (L34, attempt 1)
+2026-04-05 13:01:59,758 | INFO | SkillForge-AI | [SQL] Generated task 'E-commerce catalog: Basic Filter' (L35, attempt 1)
+2026-04-05 13:02:00,283 | INFO | SkillForge-AI | [SQL] Generated task 'Travel bookings: Basic Filter' (L36, attempt 1)
+2026-04-05 13:02:00,593 | INFO | SkillForge-AI | [SQL] Generated task 'Healthcare records: Basic Filter' (L37, attempt 1)
+2026-04-05 13:02:01,017 | INFO | SkillForge-AI | [SQL] Generated task 'Logistics routing: Basic Filter' (L38, attempt 1)
+2026-04-05 13:02:01,523 | WARNING | SkillForge-Memory | Similarity 0.870 >= 0.820 — treat as duplicate.
+2026-04-05 13:02:01,815 | INFO | SkillForge-AI | [SQL] Generated task 'Gaming leaderboards: Basic Filter' (L39, attempt 2)
+2026-04-05 13:02:02,157 | INFO | SkillForge-AI | [SQL] Generated task 'FinTech payments: Basic Filter' (L40, attempt 1)
+2026-04-05 13:02:02,268 | INFO | django.utils.autoreload | Watching for file changes with StatReloader
+2026-04-05 13:02:02,428 | INFO | SkillForge-AI | [SQL] Generated task 'E-commerce catalog: Join Query' (L41, attempt 1)
+2026-04-05 13:02:02,841 | INFO | SkillForge-AI | [SQL] Generated task 'IoT sensor streams: Join Query' (L42, attempt 1)
+2026-04-05 13:02:03,187 | WARNING | SkillForge-Memory | Similarity 0.853 >= 0.820 — treat as duplicate.
+2026-04-05 13:02:03,832 | INFO | SkillForge-AI | [SQL] Generated task 'Healthcare records: Join Query' (L43, attempt 2)
+2026-04-05 13:02:04,374 | WARNING | SkillForge-Memory | Similarity 0.871 >= 0.820 — treat as duplicate.
+2026-04-05 13:02:04,851 | WARNING | SkillForge-Memory | Similarity 0.862 >= 0.820 — treat as duplicate.
+2026-04-05 13:02:05,461 | WARNING | SkillForge-Memory | Similarity 0.824 >= 0.820 — treat as duplicate.
+2026-04-05 13:02:06,154 | INFO | SkillForge-AI | [SQL] Generated task 'Healthcare records: Join Query' (L44, attempt 4)
+2026-04-05 13:02:07,706 | WARNING | SkillForge-Memory | Similarity 0.850 >= 0.820 — treat as duplicate.
+2026-04-05 13:02:09,830 | WARNING | SkillForge-Memory | Similarity 0.822 >= 0.820 — treat as duplicate.
+2026-04-05 13:02:13,884 | INFO | SkillForge-AI | [SQL] Generated task 'Travel bookings: Join Query' (L45, attempt 3)
+2026-04-05 13:02:18,420 | INFO | SkillForge-AI | [SQL] Generated task 'Travel bookings: Join Query' (L46, attempt 1)
+2026-04-05 13:02:21,104 | WARNING | SkillForge-Memory | Similarity 0.840 >= 0.820 — treat as duplicate.
+2026-04-05 13:02:21,383 | WARNING | django.request | Forbidden: /api/v1/levels/1/start/
+2026-04-05 13:02:26,094 | INFO | SkillForge-AI | [SQL] Generated task 'Logistics routing: Join Query' (L47, attempt 2)
+2026-04-05 13:02:28,774 | INFO | SkillForge-AI | [SQL] Generated task 'Education LMS: Join Query' (L48, attempt 1)
+2026-04-05 13:02:33,144 | INFO | SkillForge-AI | [SQL] Generated task 'FinTech payments: Join Query' (L49, attempt 1)
+2026-04-05 13:02:36,326 | WARNING | SkillForge-Memory | Similarity 0.825 >= 0.820 — treat as duplicate.
+2026-04-05 13:02:37,787 | WARNING | SkillForge-Memory | Similarity 0.825 >= 0.820 — treat as duplicate.
+2026-04-05 13:02:38,168 | INFO | SkillForge | Domain sql: generating tasks for 51 empty levels
+2026-04-05 13:02:40,607 | INFO | SkillForge | Domain sql: background fill pass complete
+2026-04-05 13:02:42,097 | INFO | SkillForge-AI | [SQL] Generated task 'Gaming leaderboards: Join Query' (L50, attempt 3)
+2026-04-05 13:02:43,903 | INFO | SkillForge | Domain debugging: generating tasks for 100 empty levels
+2026-04-05 13:02:45,869 | WARNING | SkillForge-Memory | Similarity 0.836 >= 0.820 — treat as duplicate.
+2026-04-05 13:02:47,018 | INFO | SkillForge | Domain debugging: background fill pass complete
+2026-04-05 13:02:49,687 | INFO | SkillForge-AI | [SQL] Generated task 'Healthcare records: Join Query' (L51, attempt 2)
+2026-04-05 13:02:52,403 | INFO | SkillForge-AI | [SQL] Generated task 'IoT sensor streams: Join Query' (L52, attempt 1)
+2026-04-05 13:02:53,985 | WARNING | SkillForge-Memory | Similarity 0.837 >= 0.820 — treat as duplicate.
+2026-04-05 13:02:55,226 | WARNING | SkillForge-Memory | Similarity 0.866 >= 0.820 — treat as duplicate.
+2026-04-05 13:02:57,802 | INFO | SkillForge-AI | [SQL] Generated task 'E-commerce catalog: Join Query' (L53, attempt 3)
+2026-04-05 13:03:00,039 | WARNING | SkillForge-Memory | Similarity 0.822 >= 0.820 — treat as duplicate.
+2026-04-05 13:03:01,815 | INFO | SkillForge-AI | [SQL] Generated task 'Healthcare records: Join Query' (L54, attempt 2)
+2026-04-05 13:03:03,877 | INFO | SkillForge-AI | [SQL] Generated task 'Education LMS: Join Query' (L55, attempt 1)
+2026-04-05 13:03:06,258 | WARNING | SkillForge-Memory | Similarity 0.845 >= 0.820 — treat as duplicate.
+2026-04-05 13:03:07,866 | INFO | SkillForge-AI | [SQL] Generated task 'Gaming leaderboards: Join Query' (L56, attempt 2)
+2026-04-05 13:03:09,272 | WARNING | SkillForge-Memory | Similarity 0.846 >= 0.820 — treat as duplicate.
+2026-04-05 13:03:11,767 | INFO | SkillForge-AI | [SQL] Generated task 'Education LMS: Join Query' (L57, attempt 2)
+2026-04-05 13:03:14,289 | WARNING | django.request | Not Found: /domain_select.html
+2026-04-05 13:03:15,079 | INFO | SkillForge-AI | [SQL] Generated task 'Healthcare records: Join Query' (L58, attempt 1)
+2026-04-05 13:03:16,119 | WARNING | SkillForge-Memory | Similarity 0.854 >= 0.820 — treat as duplicate.
+2026-04-05 13:03:17,025 | WARNING | SkillForge-Memory | Similarity 0.862 >= 0.820 — treat as duplicate.
+2026-04-05 13:03:17,671 | WARNING | SkillForge-Memory | Similarity 0.890 >= 0.820 — treat as duplicate.
+2026-04-05 13:03:19,091 | INFO | SkillForge-AI | [SQL] Generated task 'FinTech payments: Join Query' (L59, attempt 4)
+2026-04-05 13:03:24,698 | INFO | SkillForge-AI | [SQL] Generated task 'Healthcare records: Join Query' (L60, attempt 1)
+2026-04-05 13:03:27,429 | INFO | SkillForge-AI | [SQL] Generated task 'Gaming leaderboards: Join Query' (L61, attempt 1)
+2026-04-05 13:03:28,782 | WARNING | SkillForge-Memory | Similarity 0.829 >= 0.820 — treat as duplicate.
+2026-04-05 13:03:30,715 | INFO | SkillForge-AI | [SQL] Generated task 'FinTech payments: Join Query' (L62, attempt 2)
+2026-04-05 13:03:32,395 | INFO | SkillForge-AI | [SQL] Generated task 'Healthcare records: Join Query' (L63, attempt 1)
+2026-04-05 13:03:33,131 | INFO | SkillForge-AI | [SQL] Generated task 'Gaming leaderboards: Join Query' (L64, attempt 1)
+2026-04-05 13:03:33,422 | WARNING | SkillForge-Memory | Similarity 0.877 >= 0.820 — treat as duplicate.
+2026-04-05 13:03:34,060 | INFO | SkillForge-AI | [SQL] Generated task 'Gaming leaderboards: Join Query' (L65, attempt 2)
+2026-04-05 13:03:34,645 | INFO | SkillForge-AI | [SQL] Generated task 'FinTech payments: Join Query' (L66, attempt 1)
+2026-04-05 13:03:35,099 | INFO | SkillForge-AI | [SQL] Generated task 'Healthcare records: Join Query' (L67, attempt 1)
+2026-04-05 13:03:35,331 | WARNING | SkillForge-Memory | Similarity 0.913 >= 0.820 — treat as duplicate.
+2026-04-05 13:03:35,712 | WARNING | SkillForge-Memory | Similarity 0.823 >= 0.820 — treat as duplicate.
+2026-04-05 13:03:35,969 | WARNING | SkillForge-Memory | Similarity 0.868 >= 0.820 — treat as duplicate.
+2026-04-05 13:03:36,680 | INFO | SkillForge-AI | [SQL] Generated task 'E-commerce catalog: Join Query' (L68, attempt 4)
+2026-04-05 13:03:37,190 | INFO | SkillForge-AI | [SQL] Generated task 'Travel bookings: Join Query' (L69, attempt 1)
+2026-04-05 13:03:37,609 | INFO | SkillForge-AI | [SQL] Generated task 'Gaming leaderboards: Join Query' (L70, attempt 1)
+2026-04-05 13:03:38,625 | INFO | SkillForge-AI | [SQL] Generated task 'Education LMS: Join Query' (L71, attempt 1)
+2026-04-05 13:03:39,038 | INFO | SkillForge-AI | [SQL] Generated task 'Travel bookings: Join Query' (L72, attempt 1)
+2026-04-05 13:03:39,289 | WARNING | SkillForge-Memory | Similarity 0.951 >= 0.820 — treat as duplicate.
+2026-04-05 13:03:39,513 | WARNING | SkillForge-Memory | Similarity 0.907 >= 0.820 — treat as duplicate.
+2026-04-05 13:03:40,066 | INFO | SkillForge-AI | [SQL] Generated task 'Healthcare records: Join Query' (L73, attempt 3)
+2026-04-05 13:03:40,396 | WARNING | SkillForge-Memory | Similarity 0.897 >= 0.820 — treat as duplicate.
+2026-04-05 13:03:40,745 | WARNING | SkillForge-Memory | Similarity 0.828 >= 0.820 — treat as duplicate.
+2026-04-05 13:03:41,037 | WARNING | SkillForge-Memory | Similarity 0.844 >= 0.820 — treat as duplicate.
+2026-04-05 13:03:41,563 | INFO | SkillForge-AI | [SQL] Generated task 'Education LMS: Join Query' (L74, attempt 4)
+2026-04-05 13:03:42,046 | INFO | SkillForge-AI | [SQL] Generated task 'Healthcare records: Join Query' (L75, attempt 1)
+2026-04-05 13:03:42,765 | INFO | SkillForge-AI | [SQL] Generated task 'Travel bookings: Join Query' (L76, attempt 1)
+2026-04-05 13:03:43,037 | WARNING | SkillForge-Memory | Similarity 0.862 >= 0.820 — treat as duplicate.
+2026-04-05 13:03:43,441 | INFO | SkillForge-AI | [SQL] Generated task 'Healthcare records: Join Query' (L77, attempt 2)
+2026-04-05 13:03:43,906 | WARNING | SkillForge-Memory | Similarity 0.829 >= 0.820 — treat as duplicate.
+2026-04-05 13:03:44,158 | WARNING | SkillForge-Memory | Similarity 0.877 >= 0.820 — treat as duplicate.
+2026-04-05 13:03:44,662 | INFO | SkillForge-AI | [SQL] Generated task 'Education LMS: Join Query' (L78, attempt 3)
+2026-04-05 13:03:45,007 | WARNING | SkillForge-Memory | Similarity 0.834 >= 0.820 — treat as duplicate.
+2026-04-05 13:03:45,336 | WARNING | SkillForge-Memory | Similarity 0.853 >= 0.820 — treat as duplicate.
+2026-04-05 13:03:45,676 | WARNING | SkillForge-Memory | Similarity 0.832 >= 0.820 — treat as duplicate.
+2026-04-05 13:03:46,228 | INFO | SkillForge-AI | [SQL] Generated task 'Gaming leaderboards: Join Query' (L79, attempt 4)
+2026-04-05 13:03:47,096 | INFO | SkillForge-AI | [SQL] Generated task 'FinTech payments: Join Query' (L80, attempt 1)
+2026-04-05 13:03:47,520 | WARNING | SkillForge-Memory | Similarity 0.825 >= 0.820 — treat as duplicate.
+2026-04-05 13:03:47,987 | WARNING | SkillForge-Memory | Similarity 0.876 >= 0.820 — treat as duplicate.
+2026-04-05 13:03:48,257 | WARNING | SkillForge-Memory | Similarity 0.886 >= 0.820 — treat as duplicate.
+2026-04-05 13:03:48,736 | INFO | SkillForge-AI | [SQL] Generated task 'E-commerce catalog: Join Query' (L81, attempt 4)
+2026-04-05 13:03:49,310 | INFO | SkillForge-AI | [SQL] Generated task 'Logistics routing: Join Query' (L82, attempt 1)
+2026-04-05 13:03:50,504 | INFO | SkillForge-AI | [SQL] Generated task 'Healthcare records: Join Query' (L83, attempt 1)
+2026-04-05 13:03:51,202 | INFO | SkillForge-AI | [SQL] Generated task 'Logistics routing: Join Query' (L84, attempt 1)
+2026-04-05 13:03:51,882 | INFO | SkillForge-AI | [SQL] Generated task 'FinTech payments: Join Query' (L85, attempt 1)
+2026-04-05 13:03:52,337 | INFO | SkillForge-AI | [SQL] Generated task 'E-commerce catalog: Join Query' (L86, attempt 1)
+2026-04-05 13:03:52,906 | INFO | SkillForge-AI | [SQL] Generated task 'FinTech payments: Join Query' (L87, attempt 1)
+2026-04-05 13:03:53,359 | INFO | SkillForge-AI | [SQL] Generated task 'Travel bookings: Join Query' (L88, attempt 1)
+2026-04-05 13:03:53,924 | INFO | SkillForge-AI | [SQL] Generated task 'Travel bookings: Join Query' (L89, attempt 1)
+2026-04-05 13:03:54,204 | WARNING | SkillForge-Memory | Similarity 0.921 >= 0.820 — treat as duplicate.
+2026-04-05 13:03:54,564 | WARNING | SkillForge-Memory | Similarity 0.829 >= 0.820 — treat as duplicate.
+2026-04-05 13:03:54,877 | WARNING | SkillForge-Memory | Similarity 0.912 >= 0.820 — treat as duplicate.
+2026-04-05 13:03:55,210 | WARNING | SkillForge-Memory | Similarity 0.835 >= 0.820 — treat as duplicate.
+2026-04-05 13:03:55,620 | INFO | SkillForge-AI | [SQL] Generated task 'FinTech payments: Join Query' (L90, attempt 5)
+2026-04-05 13:03:56,429 | INFO | SkillForge-AI | [SQL] Generated task 'Logistics routing: Join Query' (L91, attempt 1)
+2026-04-05 13:03:56,766 | WARNING | SkillForge-Memory | Similarity 0.866 >= 0.820 — treat as duplicate.
+2026-04-05 13:03:57,179 | WARNING | SkillForge-Memory | Similarity 0.831 >= 0.820 — treat as duplicate.
+2026-04-05 13:03:58,489 | INFO | SkillForge-AI | [SQL] Generated task 'E-commerce catalog: Join Query' (L92, attempt 3)
+2026-04-05 13:03:59,018 | WARNING | SkillForge-Memory | Similarity 0.823 >= 0.820 — treat as duplicate.
+2026-04-05 13:03:59,420 | WARNING | SkillForge-Memory | Similarity 0.822 >= 0.820 — treat as duplicate.
+2026-04-05 13:03:59,973 | INFO | SkillForge-AI | [SQL] Generated task 'Education LMS: Join Query' (L93, attempt 3)
+2026-04-05 13:04:00,640 | INFO | SkillForge-AI | [SQL] Generated task 'Logistics routing: Join Query' (L94, attempt 1)
+2026-04-05 13:04:01,023 | INFO | SkillForge-AI | [SQL] Generated task 'Healthcare records: Join Query' (L95, attempt 1)
+2026-04-05 13:04:01,470 | WARNING | SkillForge-Memory | Similarity 0.824 >= 0.820 — treat as duplicate.
+2026-04-05 13:04:01,890 | WARNING | SkillForge-Memory | Similarity 0.832 >= 0.820 — treat as duplicate.
+2026-04-05 13:04:02,317 | INFO | SkillForge-AI | [SQL] Generated task 'FinTech payments: Join Query' (L96, attempt 3)
+2026-04-05 13:04:02,909 | INFO | SkillForge-AI | [SQL] Generated task 'Education LMS: Join Query' (L97, attempt 1)
+2026-04-05 13:04:03,249 | INFO | SkillForge-AI | [SQL] Generated task 'FinTech payments: Join Query' (L98, attempt 1)
+2026-04-05 13:04:03,601 | WARNING | SkillForge-Memory | Similarity 0.857 >= 0.820 — treat as duplicate.
+2026-04-05 13:04:04,011 | WARNING | SkillForge-Memory | Similarity 0.834 >= 0.820 — treat as duplicate.
+2026-04-05 13:04:04,427 | INFO | SkillForge-AI | [SQL] Generated task 'Healthcare records: Join Query' (L99, attempt 3)
+2026-04-05 13:04:04,707 | WARNING | SkillForge-Memory | Similarity 0.893 >= 0.820 — treat as duplicate.
+2026-04-05 13:04:05,159 | INFO | SkillForge-AI | [SQL] Generated task 'Education LMS: Join Query' (L100, attempt 2)
+2026-04-05 13:04:05,611 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'FinTech payments: Bug Hunt' (L1, attempt 1)
+2026-04-05 13:04:05,946 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'FinTech payments: Bug Hunt' (L2, attempt 1)
+2026-04-05 13:04:06,306 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'IoT sensor streams: Bug Hunt' (L3, attempt 1)
+2026-04-05 13:04:06,835 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'Gaming leaderboards: Bug Hunt' (L4, attempt 1)
+2026-04-05 13:04:07,452 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'Logistics routing: Bug Hunt' (L5, attempt 1)
+2026-04-05 13:04:07,885 | WARNING | SkillForge-Memory | Similarity 0.851 >= 0.820 — treat as duplicate.
+2026-04-05 13:04:08,366 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'Travel bookings: Bug Hunt' (L6, attempt 2)
+2026-04-05 13:04:08,846 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'Travel bookings: Bug Hunt' (L7, attempt 1)
+2026-04-05 13:04:09,433 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'IoT sensor streams: Bug Hunt' (L8, attempt 1)
+2026-04-05 13:04:09,888 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'Healthcare records: Bug Hunt' (L9, attempt 1)
+2026-04-05 13:04:10,319 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'Gaming leaderboards: Bug Hunt' (L10, attempt 1)
+2026-04-05 13:04:11,020 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'IoT sensor streams: Bug Hunt' (L11, attempt 1)
+2026-04-05 13:04:11,501 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'Logistics routing: Bug Hunt' (L12, attempt 1)
+2026-04-05 13:04:12,043 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'Education LMS: Bug Hunt' (L13, attempt 1)
+2026-04-05 13:04:12,703 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'FinTech payments: Bug Hunt' (L14, attempt 1)
+2026-04-05 13:04:13,213 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'Gaming leaderboards: Bug Hunt' (L15, attempt 1)
+2026-04-05 13:04:13,558 | WARNING | SkillForge-Memory | Similarity 0.892 >= 0.820 — treat as duplicate.
+2026-04-05 13:04:14,043 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'Education LMS: Bug Hunt' (L16, attempt 2)
+2026-04-05 13:04:14,393 | INFO | django.utils.autoreload | C:\nextgen\backend\backend\urls.py changed, reloading.
+2026-04-05 13:04:14,549 | WARNING | SkillForge-Memory | Similarity 0.876 >= 0.820 — treat as duplicate.
+2026-04-05 13:04:15,134 | INFO | django.utils.autoreload | Watching for file changes with StatReloader
+2026-04-05 13:04:15,186 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'E-commerce catalog: Bug Hunt' (L17, attempt 2)
+2026-04-05 13:04:15,724 | WARNING | SkillForge-Memory | Similarity 0.830 >= 0.820 — treat as duplicate.
+2026-04-05 13:04:16,325 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'Gaming leaderboards: Bug Hunt' (L18, attempt 2)
+2026-04-05 13:04:16,805 | WARNING | SkillForge-Memory | Similarity 0.827 >= 0.820 — treat as duplicate.
+2026-04-05 13:04:17,165 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'Logistics routing: Bug Hunt' (L19, attempt 2)
+2026-04-05 13:04:17,722 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'IoT sensor streams: Bug Hunt' (L20, attempt 1)
+2026-04-05 13:04:18,547 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'Healthcare records: Bug Hunt' (L21, attempt 1)
+2026-04-05 13:04:18,984 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'Healthcare records: Bug Hunt' (L22, attempt 1)
+2026-04-05 13:04:19,330 | WARNING | SkillForge-Memory | Similarity 0.884 >= 0.820 — treat as duplicate.
+2026-04-05 13:04:19,649 | WARNING | SkillForge-Memory | Similarity 0.848 >= 0.820 — treat as duplicate.
+2026-04-05 13:04:19,959 | WARNING | SkillForge-Memory | Similarity 0.835 >= 0.820 — treat as duplicate.
+2026-04-05 13:04:20,382 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'IoT sensor streams: Bug Hunt' (L23, attempt 4)
+2026-04-05 13:04:20,970 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'Education LMS: Bug Hunt' (L24, attempt 1)
+2026-04-05 13:04:21,384 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'Healthcare records: Bug Hunt' (L25, attempt 1)
+2026-04-05 13:04:21,907 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'Education LMS: Bug Hunt' (L26, attempt 1)
+2026-04-05 13:04:22,319 | WARNING | SkillForge-Memory | Similarity 0.871 >= 0.820 — treat as duplicate.
+2026-04-05 13:04:22,833 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'E-commerce catalog: Bug Hunt' (L27, attempt 2)
+2026-04-05 13:04:23,227 | WARNING | SkillForge-Memory | Similarity 0.926 >= 0.820 — treat as duplicate.
+2026-04-05 13:04:23,717 | WARNING | SkillForge-Memory | Similarity 0.824 >= 0.820 — treat as duplicate.
+2026-04-05 13:04:24,438 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'Education LMS: Bug Hunt' (L28, attempt 3)
+2026-04-05 13:04:24,804 | WARNING | SkillForge-Memory | Similarity 0.842 >= 0.820 — treat as duplicate.
+2026-04-05 13:04:25,253 | WARNING | SkillForge-Memory | Similarity 0.840 >= 0.820 — treat as duplicate.
+2026-04-05 13:04:25,977 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'Travel bookings: Bug Hunt' (L29, attempt 3)
+2026-04-05 13:04:26,420 | WARNING | SkillForge-Memory | Similarity 0.846 >= 0.820 — treat as duplicate.
+2026-04-05 13:04:26,777 | WARNING | SkillForge-Memory | Similarity 0.832 >= 0.820 — treat as duplicate.
+2026-04-05 13:04:27,333 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'FinTech payments: Bug Hunt' (L30, attempt 3)
+2026-04-05 13:04:27,771 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'Healthcare records: Bug Hunt' (L31, attempt 1)
+2026-04-05 13:04:28,449 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'Gaming leaderboards: Bug Hunt' (L32, attempt 1)
+2026-04-05 13:04:29,412 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'Travel bookings: Bug Hunt' (L33, attempt 1)
+2026-04-05 13:04:29,819 | WARNING | SkillForge-Memory | Similarity 0.865 >= 0.820 — treat as duplicate.
+2026-04-05 13:04:30,132 | WARNING | SkillForge-Memory | Similarity 0.890 >= 0.820 — treat as duplicate.
+2026-04-05 13:04:30,542 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'E-commerce catalog: Bug Hunt' (L34, attempt 3)
+2026-04-05 13:04:30,852 | WARNING | SkillForge-Memory | Similarity 0.830 >= 0.820 — treat as duplicate.
+2026-04-05 13:04:31,703 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'Healthcare records: Bug Hunt' (L35, attempt 2)
+2026-04-05 13:04:32,827 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'FinTech payments: Bug Hunt' (L36, attempt 1)
+2026-04-05 13:04:33,372 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'Gaming leaderboards: Bug Hunt' (L37, attempt 1)
+2026-04-05 13:04:33,846 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'Healthcare records: Bug Hunt' (L38, attempt 1)
+2026-04-05 13:04:34,447 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'Education LMS: Bug Hunt' (L39, attempt 1)
+2026-04-05 13:04:35,002 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'Travel bookings: Bug Hunt' (L40, attempt 1)
+2026-04-05 13:04:35,376 | WARNING | SkillForge-Memory | Similarity 0.872 >= 0.820 — treat as duplicate.
+2026-04-05 13:04:35,776 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'Education LMS: Bug Hunt' (L41, attempt 2)
+2026-04-05 13:04:36,472 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'FinTech payments: Bug Hunt' (L42, attempt 1)
+2026-04-05 13:04:36,915 | WARNING | SkillForge-Memory | Similarity 0.825 >= 0.820 — treat as duplicate.
+2026-04-05 13:04:37,346 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'Education LMS: Bug Hunt' (L43, attempt 2)
+2026-04-05 13:04:37,887 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'FinTech payments: Bug Hunt' (L44, attempt 1)
+2026-04-05 13:04:38,235 | WARNING | SkillForge-Memory | Similarity 0.863 >= 0.820 — treat as duplicate.
+2026-04-05 13:04:38,641 | WARNING | SkillForge-Memory | Similarity 0.830 >= 0.820 — treat as duplicate.
+2026-04-05 13:04:39,127 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'Travel bookings: Bug Hunt' (L45, attempt 3)
+2026-04-05 13:04:39,740 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'Logistics routing: Bug Hunt' (L46, attempt 1)
+2026-04-05 13:04:40,222 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'Gaming leaderboards: Bug Hunt' (L47, attempt 1)
+2026-04-05 13:04:40,718 | WARNING | SkillForge-Memory | Similarity 0.843 >= 0.820 — treat as duplicate.
+2026-04-05 13:04:41,121 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'Logistics routing: Bug Hunt' (L48, attempt 2)
+2026-04-05 13:04:41,471 | WARNING | SkillForge-Memory | Similarity 0.839 >= 0.820 — treat as duplicate.
+2026-04-05 13:04:42,029 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'FinTech payments: Bug Hunt' (L49, attempt 2)
+2026-04-05 13:04:42,557 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'E-commerce catalog: Bug Hunt' (L50, attempt 1)
+2026-04-05 13:04:43,036 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'E-commerce catalog: Bug Hunt' (L51, attempt 1)
+2026-04-05 13:04:43,649 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'IoT sensor streams: Bug Hunt' (L52, attempt 1)
+2026-04-05 13:04:44,186 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'Gaming leaderboards: Bug Hunt' (L53, attempt 1)
+2026-04-05 13:04:44,677 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'IoT sensor streams: Bug Hunt' (L54, attempt 1)
+2026-04-05 13:04:45,141 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'Healthcare records: Bug Hunt' (L55, attempt 1)
+2026-04-05 13:04:45,995 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'FinTech payments: Bug Hunt' (L56, attempt 1)
+2026-04-05 13:04:46,408 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'Education LMS: Bug Hunt' (L57, attempt 1)
+2026-04-05 13:04:46,678 | WARNING | SkillForge-Memory | Similarity 0.840 >= 0.820 — treat as duplicate.
+2026-04-05 13:04:47,045 | WARNING | SkillForge-Memory | Similarity 0.884 >= 0.820 — treat as duplicate.
+2026-04-05 13:04:47,351 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'Education LMS: Bug Hunt' (L58, attempt 3)
+2026-04-05 13:04:47,862 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'Healthcare records: Bug Hunt' (L59, attempt 1)
+2026-04-05 13:04:48,463 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'Healthcare records: Bug Hunt' (L60, attempt 1)
+2026-04-05 13:04:49,517 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'Gaming leaderboards: Bug Hunt' (L61, attempt 1)
+2026-04-05 13:04:50,373 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'Travel bookings: Bug Hunt' (L62, attempt 1)
+2026-04-05 13:04:50,818 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'Logistics routing: Bug Hunt' (L63, attempt 1)
+2026-04-05 13:04:51,547 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'FinTech payments: Bug Hunt' (L64, attempt 1)
+2026-04-05 13:04:52,028 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'Healthcare records: Bug Hunt' (L65, attempt 1)
+2026-04-05 13:04:52,458 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'Logistics routing: Bug Hunt' (L66, attempt 1)
+2026-04-05 13:04:52,775 | WARNING | SkillForge-Memory | Similarity 0.901 >= 0.820 — treat as duplicate.
+2026-04-05 13:04:53,671 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'FinTech payments: Bug Hunt' (L67, attempt 2)
+2026-04-05 13:04:54,265 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'Logistics routing: Bug Hunt' (L68, attempt 1)
+2026-04-05 13:04:54,711 | WARNING | SkillForge-Memory | Similarity 0.895 >= 0.820 — treat as duplicate.
+2026-04-05 13:04:55,305 | WARNING | SkillForge-Memory | Similarity 0.858 >= 0.820 — treat as duplicate.
+2026-04-05 13:04:56,036 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'Logistics routing: Bug Hunt' (L69, attempt 3)
+2026-04-05 13:04:56,559 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'Healthcare records: Bug Hunt' (L70, attempt 1)
+2026-04-05 13:04:57,053 | WARNING | SkillForge-Memory | Similarity 0.851 >= 0.820 — treat as duplicate.
+2026-04-05 13:04:57,764 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'Education LMS: Bug Hunt' (L71, attempt 2)
+2026-04-05 13:04:58,079 | WARNING | SkillForge-Memory | Similarity 0.856 >= 0.820 — treat as duplicate.
+2026-04-05 13:04:58,693 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'Education LMS: Bug Hunt' (L72, attempt 2)
+2026-04-05 13:04:59,404 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'Healthcare records: Bug Hunt' (L73, attempt 1)
+2026-04-05 13:04:59,821 | WARNING | SkillForge-Memory | Similarity 0.832 >= 0.820 — treat as duplicate.
+2026-04-05 13:05:00,606 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'Logistics routing: Bug Hunt' (L74, attempt 2)
+2026-04-05 13:05:01,105 | WARNING | SkillForge-Memory | Similarity 0.849 >= 0.820 — treat as duplicate.
+2026-04-05 13:05:01,876 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'Healthcare records: Bug Hunt' (L75, attempt 2)
+2026-04-05 13:05:02,485 | WARNING | SkillForge-Memory | Similarity 0.996 >= 0.820 — treat as duplicate.
+2026-04-05 13:05:03,025 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'Logistics routing: Bug Hunt' (L76, attempt 2)
+2026-04-05 13:05:03,598 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'IoT sensor streams: Bug Hunt' (L77, attempt 1)
+2026-04-05 13:05:04,242 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'Travel bookings: Bug Hunt' (L78, attempt 1)
+2026-04-05 13:05:04,654 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'Travel bookings: Bug Hunt' (L79, attempt 1)
+2026-04-05 13:05:05,021 | WARNING | SkillForge-Memory | Similarity 0.836 >= 0.820 — treat as duplicate.
+2026-04-05 13:05:05,565 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'Healthcare records: Bug Hunt' (L80, attempt 2)
+2026-04-05 13:05:06,055 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'Travel bookings: Bug Hunt' (L81, attempt 1)
+2026-04-05 13:05:06,861 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'Travel bookings: Bug Hunt' (L82, attempt 1)
+2026-04-05 13:05:07,460 | WARNING | SkillForge-Memory | Similarity 0.852 >= 0.820 — treat as duplicate.
+2026-04-05 13:05:08,030 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'Gaming leaderboards: Bug Hunt' (L83, attempt 2)
+2026-04-05 13:05:08,570 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'Logistics routing: Bug Hunt' (L84, attempt 1)
+2026-04-05 13:05:09,024 | INFO | django.utils.autoreload | Watching for file changes with StatReloader
+2026-04-05 13:05:09,161 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'Education LMS: Bug Hunt' (L85, attempt 1)
+2026-04-05 13:05:09,618 | WARNING | SkillForge-Memory | Similarity 0.866 >= 0.820 — treat as duplicate.
+2026-04-05 13:05:10,189 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'Travel bookings: Bug Hunt' (L86, attempt 2)
+2026-04-05 13:05:13,591 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'FinTech payments: Bug Hunt' (L87, attempt 1)
+2026-04-05 13:05:15,852 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'Travel bookings: Bug Hunt' (L88, attempt 1)
+2026-04-05 13:05:17,451 | WARNING | SkillForge-Memory | Similarity 0.826 >= 0.820 — treat as duplicate.
+2026-04-05 13:05:19,512 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'Gaming leaderboards: Bug Hunt' (L89, attempt 2)
+2026-04-05 13:05:21,337 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'Gaming leaderboards: Bug Hunt' (L90, attempt 1)
+2026-04-05 13:05:24,962 | WARNING | SkillForge-Memory | Similarity 0.882 >= 0.820 — treat as duplicate.
+2026-04-05 13:05:26,270 | WARNING | SkillForge-Memory | Similarity 0.828 >= 0.820 — treat as duplicate.
+2026-04-05 13:05:28,882 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'Healthcare records: Bug Hunt' (L91, attempt 3)
+2026-04-05 13:05:30,920 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'E-commerce catalog: Bug Hunt' (L92, attempt 1)
+2026-04-05 13:05:33,830 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'FinTech payments: Bug Hunt' (L93, attempt 1)
+2026-04-05 13:05:36,510 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'Education LMS: Bug Hunt' (L94, attempt 1)
+2026-04-05 13:05:38,857 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'Education LMS: Bug Hunt' (L95, attempt 1)
+2026-04-05 13:05:40,823 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'Healthcare records: Bug Hunt' (L96, attempt 1)
+2026-04-05 13:05:42,888 | WARNING | SkillForge-Memory | Similarity 0.827 >= 0.820 — treat as duplicate.
+2026-04-05 13:05:44,890 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'Healthcare records: Bug Hunt' (L97, attempt 2)
+2026-04-05 13:05:46,419 | WARNING | SkillForge-Memory | Similarity 0.857 >= 0.820 — treat as duplicate.
+2026-04-05 13:05:48,000 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'Travel bookings: Bug Hunt' (L98, attempt 2)
+2026-04-05 13:05:51,112 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'Healthcare records: Bug Hunt' (L99, attempt 1)
+2026-04-05 13:05:53,008 | WARNING | SkillForge-Memory | Similarity 0.888 >= 0.820 — treat as duplicate.
+2026-04-05 13:05:55,501 | INFO | SkillForge-AI | [DEBUGGING] Generated task 'Travel bookings: Bug Hunt' (L100, attempt 2)
+2026-04-05 13:07:09,451 | WARNING | django.request | Forbidden: /api/v1/levels/2/start/
+2026-04-05 13:07:36,298 | WARNING | django.request | Forbidden: /api/v1/levels/1/start/
